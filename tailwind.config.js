@@ -6,6 +6,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        jp: ['"Noto Sans JP"', 'sans-serif'],
+        press: ['"Press Start 2P"', 'cursive'],
+      },
       height: {
         'screen-minus-header': 'calc(100vh - 4rem)',
       },
