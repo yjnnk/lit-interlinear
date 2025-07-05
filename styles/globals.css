@@ -5,3 +5,8 @@
 html {
     background: hsl(60, 14%, 95%);
 }
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #333;
+}
