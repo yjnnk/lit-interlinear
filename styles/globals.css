@@ -3,10 +3,9 @@
 @tailwind utilities;
 
 html {
-    background: hsl(60, 14%, 95%);
+    background: hsl(60, 9%, 98%);
 }
 
 body {
-    font-family: 'Noto Sans JP', sans-serif;
     color: #333;
 }
