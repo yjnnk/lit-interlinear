@@ -1,7 +1,8 @@
 import React from 'react';
 
-export default function Original({ children }) {
+export default function Original({ children, activeVerse, setActiveVerse }) {
   const handleVerseClick = (verseNumber) => {
+    setActiveVerse(verseNumber);
     const element = document.getElementById(`verse-${verseNumber}`);
     if (element) {
       element.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -24,8 +25,15 @@ export default function Original({ children }) {
         if (trimmedLine && !isSpeakerLine) {
           verseCounter++;
           const currentVerse = verseCounter;
+          const isActive = activeVerse === currentVerse;
+
           return (
-            <span key={index} onClick={() => handleVerseClick(currentVerse)} style={{ cursor: 'pointer' }} className="block hover:text-blue-600">
+            <span 
+              key={index} 
+              onClick={() => handleVerseClick(currentVerse)} 
+              style={{ cursor: 'pointer', backgroundColor: isActive ? 'rgba(0, 100, 255, 0.05)' : 'transparent' }}
+              className="block hover:text-blue-600"
+            >
               {line + '\n'}
             </span>
           );
