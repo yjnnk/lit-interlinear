@@ -36,7 +36,6 @@ export default function Original({ children, activeVerse, setActiveVerse }) {
                 backgroundColor: isActive ? 'rgba(0, 100, 255, 0.05)' : 'transparent',
                 display: 'flex',
               }}
-              className="hover:text-blue-600"
             >
               <span
                 style={{
