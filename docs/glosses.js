@@ -299,7 +299,57 @@ a eira|entre|as primeiras coisas|com enorme|deve ser nivelada|rolo
 e|revolvida|à mão|e|com argila|compactada|aderente
 para que não|brotem|ervas|nem|pelo pó|vencida|se esfarele
 então|variadas|façam estragos|pragas|muitas vezes|pequeno|o rato
-sob|a terra|e instalou|moradas|e|celeiros|fez`.split('\n').map(line => line.split('|')),
+sob|a terra|e instalou|moradas|e|celeiros|fez
+ou|dos olhos|privadas|cavaram|tocas|as toupeiras
+e encontrado|nas cavidades|o sapo|e|quantos|numerosos|da terra
+monstros|nascem|e devora|o enorme|de espelta|monte
+o gorgulho|e|indigente|temerosa|a formiga|da velhice
+observa|também|quando|se|a nogueira|abundante|nos bosques
+revestir|de|flores|e|os ramos|curvar|perfumados
+se|predominam|os frutos|igualmente|os cereais|virão
+e grande|com|grande|virá|a debulha|calor
+mas|se|a exuberância|das folhas|transborda|em sombra
+em vão|coberta|de palha|trilhará|a eira|os colmos
+as sementes|vi|de fato|muitos|tratar|semeadores
+e|com natrão|antes|e|negra|embeber|com borra de azeite
+maior|para que|o fruto|em vagens|enganadoras|fosse
+e|ainda que|em fogo|brando|apressadas|amolecessem
+vi|selecionadas|por muito tempo|e|com muito|examinadas|trabalho
+degenerar|contudo|se não|o esforço|humano|cada ano
+as maiores|cada uma|à mão|escolhesse|assim|tudo|por força do destino
+para|pior|precipita-se|e|para trás|decaído|é levado
+não|de outro modo|que|quem|contra|a custo|a corrente|uma barca
+a remos|impele|se|os braços|por acaso|relaxou
+e|a ele|em|queda|pela inclinada|arrasta|o leito|corrente
+além disso|tão|são|de Arcturo|os astros|para nós
+e dos Cabritos|os dias|a observar|e|brilhante|a Serpente
+quanto|por aqueles que|para|a pátria|ventosos|por|mares|transportados
+o Ponto|e|rico em ostras|os estreitos|são enfrentados|de Abidos
+a Balança|ao dia|e ao sono|iguais|quando|fizer|as horas
+e|ao meio|para a luz|e|para as sombras|já|divide|o globo
+exercitai|homens|os touros|semeai|cevada|nos campos
+até|perto de|a última|do inverno|inclemente|chuva
+e não|menos|também|de linho|a seara|e|de Ceres|a papoula
+é tempo|na terra|de cobrir|e|desde já|de se aplicar|aos arados
+enquanto|seca|a terra|permite|enquanto|as nuvens|pairam
+na primavera|para as favas|a semeadura|então|a ti|também|alfafa|fofos
+recebem|os sulcos|e|ao painço|chega|anual|o cuidado
+brilhante|dourados|abre|quando|com os chifres|o ano
+o Touro|e|oposto|recuando|o Cão|se põe|ao astro
+mas|se|de trigo|para|a colheita|e vigorosa|espelta
+trabalhares|o solo|e apenas às|te dedicares|espigas
+antes|para ti|orientais|as Plêiades|se escondam
+e de Cnossos|ardente|desapareça|a estrela|da Coroa
+devidas|antes que|aos sulcos|entregues|as sementes|e antes que
+relutante|te apresses|do ano|a esperança|a confiar|à terra
+muitos|antes de|o ocaso|de Maia|começaram|mas|a eles
+esperada|a seara|com vazias|enganou|aveias
+se|porém|tanto a ervilhaca|semeares|como o humilde|feijão
+nem|de Pelúsio|o cultivo|desdenhares|da lentilha
+não|obscuros|ao se pôr|enviará|a ti|sinais|o Boieiro
+começa|e|até|o meio de|a semeadura|estende|geadas
+por isso|determinadas|dividido|em partes|o globo
+através de|doze|governa|do mundo|o sol|dourado|astros`.split('\n').map(line => line.split('|')),
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -348,5 +398,14 @@ export const openingEntries = {
   165: { celei: 'Celeus, -ī, m. · nome próprio · Celeu, rei de Elêusis' },
   171: { a: 'ā, ab · prep. com ablativo · desde, a partir de' },
   172: { binae: 'bīnī, -ae, -a · numeral distributivo · dois de cada vez. Aqui, duas orelhas' },
+  185: { aceruum: 'acervus, -ī, m. · s. · monte, pilha de grãos' },
+
+  207: { abydi: 'Abydus, -ī, f. · nome próprio · Abidos, cidade no Helesponto' },
+  208: { die: 'diēs, diēī, m. ou f. · s. · dia, período de luz' },
+  212: { cereale: 'Cereālis, -e · adj. · de Ceres' },
+  222: { cnosiaque: 'Cnōsius, -a, -um · adj. · de Cnossos. -que · conj. enclítica · e' },
+  223: { quam: 'quam · conj. · em ante … quam, antes que' },
+  228: { pelusiacae: 'Pēlūsiacus, -a, -um · adj. · de Pelúsio, no Egito' },
+  232: { duodena: 'duodēnī, -ae, -a · numeral distributivo · doze de cada vez. Aqui, os doze astros' },
 
 };
