@@ -199,7 +199,57 @@ esgotam|leteu|embebidas|as papoulas|em sono
 mas|contudo|com alternância|fácil|o trabalho|secos|apenas
 não|saturar|com esterco|rico|te envergonhes|os solos|nem
 exaustos|cinza|suja|espalhar|pelos|campos
-assim|também|trocadas|repousam|as culturas|as terras`.split('\n').map(line => line.split('|')),
+assim|também|trocadas|repousam|as culturas|as terras
+nem|nulo|nesse meio-tempo|é|da não lavrada|o benefício|terra
+muitas vezes|também|estéreis|incendiar|foi proveitoso|os campos
+e|leve|a palha|crepitantes|queimar|com chamas
+seja porque|daí|ocultas|forças|e|nutrientes|da terra
+ricos|absorvem|seja porque|neles|todo|pelo|fogo
+se consome|o defeito|e|exsuda|inútil|a umidade
+ou porque|mais numerosas|o calor|aquele|vias|e|ocultas|abre
+passagens|novas|chegue|por onde|a seiva|às|ervas
+ou porque|endurece|mais|e|os canais|contrai|abertos
+para que não|finas|as chuvas|ou do abrasador|a força|sol
+mais intensa|ou|de Bóreas|penetrante|o frio|queime
+muito|de fato|com rastelos|os torrões|quem|quebra|compactos
+e de vime|arrasta|as grades|beneficia|os campos|e não|a ele
+loura|Ceres|do alto|em vão|observa|Olimpo
+e|quem|rompida|que|levanta|a superfície|os lombos
+de novo|em|sentido oblíquo|virado|rompe|com o arado
+e trabalha|assiduamente|a terra|e|comanda|os campos
+úmidos|solstícios|e|invernos|rogai|serenos
+lavradores|invernal|viçosíssima|com o pó|a espelta
+viçoso|o campo|com nenhum|tanto|a si|a Mísia|cultivo
+se gaba|e|o próprio|suas|admira|Gárgara|colheitas
+que|direi|lançada|de quem|a semente|de perto|as terras
+segue|e os montes|derruba|pouco|fértil|de areia
+depois|às sementeiras|um rio|conduz|e regatos|que o seguem
+e|quando|abrasado|o campo|murchando|arde|as ervas
+eis|da borda|inclinado|do caminho|a água
+faz sair|ela|ao cair|rouco|por|lisas|murmúrio
+pedras|provoca|e com borbulhas|ressequidos|refresca|os campos
+e que dizer|de quem|para que não|pesadas|se dobre|o caule|espigas
+o excesso|das searas|tenra|faz pastar|na|erva
+logo que|primeiro|os sulcos|igualam|as plantas semeadas|e de quem|do pântano
+acumulada|a umidade|pela absorvente|drena|areia
+sobretudo|incertos|se|nos meses|o rio|transbordando
+sai|e|espalhada|por toda parte|cobre|tudo|lama
+daí|fundas|com tépida|exsudam|umidade|as poças
+nem|contudo|essas tarefas|embora|sejam|dos homens e|dos bois e|trabalhos
+ao revolver|a terra|experimentados|em nada|daninho|o ganso
+e do Estrímon|os grous|e|amargas|a chicória|raízes
+prejudicam|ou|a sombra|faz mal|o pai|em pessoa|do cultivo
+não|fácil|ser|o caminho|quis|e primeiro|pela|técnica
+moveu|os campos|com cuidados|aguçando|mortais|corações
+e não|entorpecer-se|em pesada|permitiu|seus|domínios|letargia
+antes de|Júpiter|nenhuns|lavravam|os campos|lavradores
+nem|demarcar|sequer|ou|dividir|com limite|o campo
+lícito|era|para|o comum|buscavam|e a própria|terra
+tudo|mais livremente|ninguém|pedindo|produzia
+ele|nocivo|veneno|às serpentes|acrescentou|negras
+e saquear|os lobos|mandou|e o mar|agitar-se
+e o mel|sacudiu|das folhas|e o fogo|afastou
+e|por toda parte|em riachos|correntes|os vinhos|reteve`.split('\n').map(line => line.split('|')),
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -230,5 +280,11 @@ export const openingEntries = {
   58: { chalybes: 'Chalybēs, -um, m. pl. · nome próprio · cálibes, povo conhecido pelo trabalho em ferro' },
   59: { eliadum: 'Elias, Eliadis · adj. · de Élis. Aqui, genitivo plural, concordando com equarum' },
   62: { deucalion: 'Deucaliōn, Deucaliōnis, m. · nome próprio · Deucalião', uacuum: 'vacuus, -a, -um · adj. · vazio, despovoado' },
+
+  91: { astringit: 'astringō, astringere, astrīnxī, astrictum · v. · contrair, apertar' },
+  98: { obliquum: 'oblīquus, -a, -um · adj. · oblíquo. In oblīquum significa em sentido transversal' },
+  102: { mysia: 'Mysia, -ae, f. · nome próprio · Mísia, região da Ásia Menor' },
+  103: { gargara: 'Gargara, -ōrum, n. pl. · nome próprio · Gárgara, localidade do monte Ida' },
+  120: { strymoniaeque: 'Strymonius, -a, -um · adj. · do Estrímon. -que · conj. enclítica · e' },
 
 };
