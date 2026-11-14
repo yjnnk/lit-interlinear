@@ -1,4 +1,4 @@
-import { opening, openingEntries, translations, wordGlosses } from './glosses.js';
+import { opening, openingEntries, readingDictionaryForms, readingPassages, translations, wordGlosses } from './glosses.js';
 
 const app = document.querySelector('#app');
 const labels = ['I', 'II', 'III', 'IV'];
@@ -72,7 +72,11 @@ function dictionaryEntry(target, form, gloss, book, verse, parts, entries, conte
   }
   for (const [lemma, pos, , key] of edited ? [] : parts ?? []) {
     const entry = entries[key];
-    const title = element('h4', dictionaryForms[dictionaryKey(lemma)] ?? entry?.[0] ?? lemma, 'headword');
+    const keyForForms = dictionaryKey(lemma);
+    const expanded = book === 1 && verse >= 183 && verse <= 232
+      ? readingDictionaryForms[keyForForms]
+      : undefined;
+    const title = element('h4', expanded ?? dictionaryForms[keyForForms] ?? entry?.[0] ?? lemma, 'headword');
     title.lang = 'la';
     target.append(title, element('p', [wordClasses[pos] ?? pos, entry?.[1]].filter(Boolean).join(' · '), 'muted'));
     if (entry) {
@@ -114,7 +118,7 @@ async function render() {
     <h2>Virgílio · Livro ${labels[book - 1]}</h2>
     <nav class="books" aria-label="Livros">${bookLinks(work, book)}</nav>
     <p class="note muted">Selecione uma palavra para consultar o vocabulário.</p>
-    ${translations[book] ? `<p class="note muted">Livro I · glosas palavra por palavra nos versos 1–${(wordGlosses[book]?.length ?? 0) + 6} e tradução alinhada nos versos 7–${translations[book].length + 6}.</p>` : '<p class="note muted">Tradução corrida em português ainda indisponível neste livro.</p>'}
+    ${translations[book] ? `<p class="note muted">Livro I · glosas palavra por palavra nos versos 1–${(wordGlosses[book]?.length ?? 0) + 6} e tradução alinhada nos versos 7–${translations[book].length + 6}.</p>` : ''}
     <div class="layout">
       <section class="verses" aria-label="Texto latino"></section>
       <aside class="sidebar"><section class="panel"><h2>Vocabulário</h2><div id="entry" aria-live="polite">Selecione uma palavra.</div></section></aside>
@@ -125,6 +129,8 @@ async function render() {
   const verses = app.querySelector('.verses');
   const mobile = matchMedia('(max-width: 760px)');
   let selected;
+  const passagesByEnd = new Map(Object.entries(readingPassages[book] ?? {})
+    .map(([start, [end, prose]]) => [end, [start, prose]]));
   lines.forEach((line, index) => {
     const verse = index + 1;
     const row = element('div', '', 'verse');
@@ -160,6 +166,13 @@ async function render() {
     if (translation) content.append(element('div', translation, 'translation'));
     row.append(content);
     verses.append(row);
+    const passage = passagesByEnd.get(verse);
+    if (passage) {
+      const [firstVerse, prose] = passage;
+      const paragraph = element('p', prose, 'translation');
+      paragraph.prepend(element('strong', `${firstVerse}–${verse} · `));
+      verses.append(paragraph);
+    }
   });
 }
 
