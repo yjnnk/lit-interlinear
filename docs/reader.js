@@ -43,6 +43,13 @@ function element(tag, text, className) {
   return node;
 }
 
+const wordClasses = {
+  ADJ: 'adjetivo', ADP: 'preposição', ADV: 'advérbio', AUX: 'verbo auxiliar',
+  CCONJ: 'conjunção coordenativa', DET: 'determinante', INTJ: 'interjeição',
+  NOUN: 'substantivo', NUM: 'numeral', PART: 'partícula', PRON: 'pronome',
+  PROPN: 'nome próprio', SCONJ: 'conjunção subordinativa', VERB: 'verbo',
+};
+
 function dictionaryEntry(target, form, gloss, book, verse, parts, entries, contextual) {
   target.replaceChildren(element('h3', form, 'entry'), element('p', `Livro ${labels[book - 1]}, verso ${verse}`, 'muted'));
   target.firstChild.lang = 'la';
@@ -50,23 +57,29 @@ function dictionaryEntry(target, form, gloss, book, verse, parts, entries, conte
   const editorialEntry = book === 1
     ? openingEntries[verse]?.[form.toLowerCase().replace(/[^a-z]/g, '')]
     : undefined;
-  if (gloss || editorialEntry) target.append(element('p', gloss?.[1] ?? editorialEntry));
-  for (const [lemma, pos, features, key] of editorialEntry ? [] : parts ?? []) {
-    const entry = entries[key];
-    const title = element('h4', entry?.[0] ?? lemma);
+  const edited = editorialEntry ?? gloss?.[1];
+  if (edited) {
+    const [heading, ...details] = edited.split(' · ');
+    const title = element('h4', heading, 'headword');
     title.lang = 'la';
-    target.append(title, element('p', [pos, entry?.[1], features.replaceAll('|', ' · ')].filter(Boolean).join(' · '), 'muted'));
+    target.append(title, element('p', details.join(' · ')));
+  }
+  for (const [lemma, pos, , key] of edited ? [] : parts ?? []) {
+    const entry = entries[key];
+    const title = element('h4', entry?.[0] ?? lemma, 'headword');
+    title.lang = 'la';
+    target.append(title, element('p', [wordClasses[pos] ?? pos, entry?.[1]].filter(Boolean).join(' · '), 'muted'));
     if (entry) {
       const definitions = element('ul', '');
       for (const definition of entry[2]) definitions.append(element('li', definition));
       target.append(definitions, element('p', entry[3], 'muted'));
     }
   }
-  if (!gloss && !editorialEntry && !parts?.some(part => entries[part[3]])) {
+  if (!edited && (!parts?.length || parts.some(part => !entries[part[3]]))) {
     const lookup = element('a', 'Consultar no Logeion');
     const key = form.toLowerCase().replace(/[^a-z]/g, '');
     lookup.href = dictionary + encodeURIComponent(key);
-    target.append(element('p', 'Verbete em português ainda indisponível.'), lookup);
+    target.append(element('p', 'Uma ou mais acepções em português ainda estão indisponíveis.'), lookup);
     if (key.includes('u')) {
       const alternate = element('a', 'Consultar com grafia v');
       alternate.href = dictionary + encodeURIComponent(key.replace(/u(?=[aeiouy])/g, 'v'));
