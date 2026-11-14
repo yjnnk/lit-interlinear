@@ -1,14 +1,13 @@
-import { opening } from './glosses.js';
+import { opening, translations } from './glosses.js';
 
 const app = document.querySelector('#app');
 const labels = ['I', 'II', 'III', 'IV'];
 const authors = [{ name: 'Virgílio', works: [{ title: 'Geórgicas', id: 'georgicas' }] }];
 const dictionary = 'https://logeion.uchicago.edu/';
-const pageSize = 30;
 let books;
 
-function link(id, book, page = 1) {
-  return '#' + [id, book, page].join('/');
+function link(id, book) {
+  return '#' + [id, book].join('/');
 }
 
 function bookLinks(work, current) {
@@ -51,7 +50,7 @@ function dictionaryEntry(target, form, gloss, book, verse) {
 }
 
 function render() {
-  const [id, rawBook, rawPage] = location.hash.slice(1).split('/');
+  const [id, rawBook] = location.hash.slice(1).split('/');
   const work = authors.flatMap(author => author.works).find(item => item.id === id);
   const book = Number(rawBook);
   if (!work || !Number.isInteger(book) || !books[book - 1]) {
@@ -60,37 +59,25 @@ function render() {
     return;
   }
   const lines = books[book - 1];
-  const pages = Math.ceil(lines.length / pageSize);
-  const page = Math.max(1, Math.min(pages, Math.trunc(Number(rawPage)) || 1));
-  const start = (page - 1) * pageSize;
-  const end = Math.min(start + pageSize, lines.length);
   document.title = `Geórgicas · Livro ${labels[book - 1]}`;
   app.innerHTML = `
     <a href="#">Catálogo</a>
     <h1>${work.title}</h1>
     <h2>Virgílio · Livro ${labels[book - 1]}</h2>
     <nav class="books" aria-label="Livros">${bookLinks(work, book)}</nav>
-    <p class="note muted">Glosas em português disponíveis no Livro I, versos 1–6. Selecione uma palavra para consultar o vocabulário.</p>
-    <label class="controls">Versos <select id="range">${Array.from({length: pages}, (_, i) =>
-      `<option value="${i + 1}" ${i + 1 === page ? 'selected' : ''}>${i * pageSize + 1}–${Math.min((i + 1) * pageSize, lines.length)}</option>`).join('')}</select></label>
+    <p class="note muted">Selecione uma palavra para consultar o vocabulário.</p>
+    ${translations[book] ? `<p class="note muted">Livro I · glosas palavra por palavra nos versos 1–6 e tradução alinhada nos versos 7–${translations[book].length + 6}.</p>` : '<p class="note muted">Tradução em português ainda indisponível neste livro.</p>'}
     <div class="layout">
       <section class="verses" aria-label="Texto latino"></section>
       <aside class="sidebar"><section class="panel"><h2>Vocabulário</h2><div id="entry" aria-live="polite">Selecione uma palavra.</div></section></aside>
     </div>
-    <nav class="range-nav" aria-label="Faixas de versos">
-      ${page > 1 ? `<a class="control" href="${link(id, book, page - 1)}">Versos anteriores</a>` : '<span></span>'}
-      ${page < pages ? `<a class="control" href="${link(id, book, page + 1)}">Próximos versos</a>` : ''}
-    </nav>
     <dialog aria-labelledby="dialog-title"><form method="dialog"><button class="control">Fechar</button></form><h2 id="dialog-title">Vocabulário</h2><div id="mobile-entry"></div></dialog>`;
   const dialog = app.querySelector('dialog');
   const verses = app.querySelector('.verses');
   const mobile = matchMedia('(max-width: 760px)');
-  app.querySelector('#range').addEventListener('change', event => {
-    location.hash = link(id, book, event.target.value);
-  });
   let selected;
-  lines.slice(start, end).forEach((line, index) => {
-    const verse = start + index + 1;
+  lines.forEach((line, index) => {
+    const verse = index + 1;
     const row = element('div', '', 'verse');
     row.append(element('span', String(verse), 'number'));
     const tokens = element('div', '', 'tokens');
@@ -114,7 +101,11 @@ function render() {
       });
       tokens.append(word);
     });
-    row.append(tokens);
+    const content = element('div', '', 'verse-content');
+    content.append(tokens);
+    const translation = translations[book]?.[verse - 7];
+    if (translation) content.append(element('div', translation, 'translation'));
+    row.append(content);
     verses.append(row);
   });
 }
