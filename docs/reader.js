@@ -5,6 +5,17 @@ const labels = ['I', 'II', 'III', 'IV'];
 const authors = [{ name: 'Virgílio', works: [{ title: 'Geórgicas', id: 'georgicas' }] }];
 const dictionary = 'https://logeion.uchicago.edu/';
 let books;
+const lexicalBooks = new Map();
+let renderId = 0;
+
+async function loadLexicon(book) {
+  if (!lexicalBooks.has(book)) {
+    const response = await fetch(new URL(`./lexico-${book}.json`, import.meta.url));
+    if (!response.ok) throw new Error(response.status);
+    lexicalBooks.set(book, await response.json());
+  }
+  return lexicalBooks.get(book);
+}
 
 function link(id, book) {
   return '#' + [id, book].join('/');
@@ -32,11 +43,22 @@ function element(tag, text, className) {
   return node;
 }
 
-function dictionaryEntry(target, form, gloss, book, verse) {
+function dictionaryEntry(target, form, gloss, book, verse, parts, entries) {
   target.replaceChildren(element('h3', form, 'entry'), element('p', `Livro ${labels[book - 1]}, verso ${verse}`, 'muted'));
   target.firstChild.lang = 'la';
   if (gloss) target.append(element('p', gloss[1]));
-  else {
+  for (const [lemma, pos, features, key] of parts ?? []) {
+    const entry = entries[key];
+    const title = element('h4', entry?.[0] ?? lemma);
+    title.lang = 'la';
+    target.append(title, element('p', [pos, entry?.[1], features.replaceAll('|', ' · ')].filter(Boolean).join(' · '), 'muted'));
+    if (entry) {
+      const definitions = element('ul', '');
+      for (const definition of entry[2]) definitions.append(element('li', definition));
+      target.append(definitions, element('p', entry[3], 'muted'));
+    }
+  }
+  if (!gloss && !parts?.some(part => entries[part[3]])) {
     const lookup = element('a', 'Consultar no Logeion');
     const key = form.toLowerCase().replace(/[^a-z]/g, '');
     lookup.href = dictionary + encodeURIComponent(key);
@@ -49,7 +71,8 @@ function dictionaryEntry(target, form, gloss, book, verse) {
   }
 }
 
-function render() {
+async function render() {
+  const revision = ++renderId;
   const [id, rawBook] = location.hash.slice(1).split('/');
   const work = authors.flatMap(author => author.works).find(item => item.id === id);
   const book = Number(rawBook);
@@ -59,18 +82,21 @@ function render() {
     return;
   }
   const lines = books[book - 1];
+  const [annotations, entries] = await loadLexicon(book).catch(() => [[], {}]);
+  if (revision !== renderId) return;
   document.title = `Geórgicas · Livro ${labels[book - 1]}`;
   app.innerHTML = `
     <a href="#">Catálogo</a>
     <h1>${work.title}</h1>
     <h2>Virgílio · Livro ${labels[book - 1]}</h2>
     <nav class="books" aria-label="Livros">${bookLinks(work, book)}</nav>
-    <p class="note muted">Selecione uma palavra para consultar o vocabulário.</p>
-    ${translations[book] ? `<p class="note muted">Livro I · glosas palavra por palavra nos versos 1–${(wordGlosses[book]?.length ?? 0) + 6} e tradução alinhada nos versos 7–${translations[book].length + 6}.</p>` : '<p class="note muted">Tradução em português ainda indisponível neste livro.</p>'}
+    <p class="note muted">Selecione uma palavra para consultar o vocabulário. As glosas marcadas com * são acepções de dicionário alinhadas automaticamente.</p>
+    ${translations[book] ? `<p class="note muted">Livro I · glosas palavra por palavra nos versos 1–${(wordGlosses[book]?.length ?? 0) + 6} e tradução alinhada nos versos 7–${translations[book].length + 6}.</p>` : '<p class="note muted">Tradução corrida em português ainda indisponível neste livro.</p>'}
     <div class="layout">
       <section class="verses" aria-label="Texto latino"></section>
       <aside class="sidebar"><section class="panel"><h2>Vocabulário</h2><div id="entry" aria-live="polite">Selecione uma palavra.</div></section></aside>
     </div>
+    <p class="note muted">Lemas e análise do <a href="https://github.com/CIRCSE/LASLA">LASLA via LiLa</a>. Verbetes de <a href="https://doi.org/10.5281/zenodo.13989172">Fonseca, Cardoso e Velez, edição digital de Lucas Consolin Dezotti</a>. Dados adaptados sob <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
     <dialog aria-labelledby="dialog-title"><form method="dialog"><button class="control">Fechar</button></form><h2 id="dialog-title">Vocabulário</h2><div id="mobile-entry"></div></dialog>`;
   const dialog = app.querySelector('dialog');
   const verses = app.querySelector('.verses');
@@ -89,14 +115,17 @@ function render() {
       const latin = element('span', form);
       latin.lang = 'la';
       word.append(latin);
+      const parts = annotations[index]?.[position];
+      const definition = entries[parts?.[0]?.[3]]?.[2][0];
+      const shortDefinition = definition?.split(/[,.;]/)[0]?.trim();
       const translation = gloss?.[0] ?? wordGlosses[book]?.[verse - 7]?.[position];
-      if (translation) word.append(element('small', translation));
+      if (translation || shortDefinition) word.append(element('small', translation ?? shortDefinition + '*'));
       word.addEventListener('click', () => {
         selected?.setAttribute('aria-pressed', 'false');
         word.setAttribute('aria-pressed', 'true');
         selected = word;
         for (const selector of ['#entry', '#mobile-entry']) {
-          dictionaryEntry(app.querySelector(selector), form, gloss, book, verse);
+          dictionaryEntry(app.querySelector(selector), form, gloss, book, verse, parts, entries);
         }
         if (mobile.matches) dialog.showModal();
       });
@@ -115,9 +144,9 @@ try {
   const response = await fetch(new URL('./georgicas.json', import.meta.url));
   if (!response.ok) throw new Error(response.status);
   books = await response.json();
-  render();
-  addEventListener('hashchange', () => {
-    render();
+  await render();
+  addEventListener('hashchange', async () => {
+    await render();
     scrollTo(0, 0);
   });
 } catch {
