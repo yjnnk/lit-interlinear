@@ -1,4 +1,4 @@
-import { opening, translations, wordGlosses } from './glosses.js';
+import { opening, openingEntries, translations, wordGlosses } from './glosses.js';
 
 const app = document.querySelector('#app');
 const labels = ['I', 'II', 'III', 'IV'];
@@ -43,11 +43,15 @@ function element(tag, text, className) {
   return node;
 }
 
-function dictionaryEntry(target, form, gloss, book, verse, parts, entries) {
+function dictionaryEntry(target, form, gloss, book, verse, parts, entries, contextual) {
   target.replaceChildren(element('h3', form, 'entry'), element('p', `Livro ${labels[book - 1]}, verso ${verse}`, 'muted'));
   target.firstChild.lang = 'la';
-  if (gloss) target.append(element('p', gloss[1]));
-  for (const [lemma, pos, features, key] of parts ?? []) {
+  if (contextual) target.append(element('p', `No verso: ${contextual}`));
+  const editorialEntry = book === 1
+    ? openingEntries[verse]?.[form.toLowerCase().replace(/[^a-z]/g, '')]
+    : undefined;
+  if (gloss || editorialEntry) target.append(element('p', gloss?.[1] ?? editorialEntry));
+  for (const [lemma, pos, features, key] of editorialEntry ? [] : parts ?? []) {
     const entry = entries[key];
     const title = element('h4', entry?.[0] ?? lemma);
     title.lang = 'la';
@@ -58,7 +62,7 @@ function dictionaryEntry(target, form, gloss, book, verse, parts, entries) {
       target.append(definitions, element('p', entry[3], 'muted'));
     }
   }
-  if (!gloss && !parts?.some(part => entries[part[3]])) {
+  if (!gloss && !editorialEntry && !parts?.some(part => entries[part[3]])) {
     const lookup = element('a', 'Consultar no Logeion');
     const key = form.toLowerCase().replace(/[^a-z]/g, '');
     lookup.href = dictionary + encodeURIComponent(key);
@@ -125,7 +129,7 @@ async function render() {
         word.setAttribute('aria-pressed', 'true');
         selected = word;
         for (const selector of ['#entry', '#mobile-entry']) {
-          dictionaryEntry(app.querySelector(selector), form, gloss, book, verse, parts, entries);
+          dictionaryEntry(app.querySelector(selector), form, gloss, book, verse, parts, entries, translation);
         }
         if (mobile.matches) dialog.showModal();
       });
