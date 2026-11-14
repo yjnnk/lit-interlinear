@@ -249,7 +249,57 @@ tudo|mais livremente|ninguém|pedindo|produzia
 ele|nocivo|veneno|às serpentes|acrescentou|negras
 e saquear|os lobos|mandou|e o mar|agitar-se
 e o mel|sacudiu|das folhas|e o fogo|afastou
-e|por toda parte|em riachos|correntes|os vinhos|reteve`.split('\n').map(line => line.split('|')),
+e|por toda parte|em riachos|correntes|os vinhos|reteve
+para que|variadas|a prática|pela reflexão|forjasse|técnicas
+pouco a pouco|e|nos sulcos|do cereal|buscasse|o broto
+para que|da sílex|nos veios|oculto|arrancasse|o fogo
+então|amieiros|pela primeira vez|os rios|sentiram|escavados
+o marinheiro|então|às estrelas|números|e|nomes|deu
+Plêiades|Híades|e a brilhante|de Licáon|Ursa
+então|com laços|capturar|feras|e|enganar|com visco
+descobriu-se|e|vastos|com cães|cercar|bosques
+e|outro|largo|com rede|já|açoita|o rio
+as profundezas|buscando|e no mar|outro|puxa|molhadas|redes de linho
+então|do ferro|a dureza|e|da estridente|a lâmina|serra
+pois|os primeiros homens|com cunhas|rachavam|fendível|a madeira
+então|diversas|vieram|técnicas|o trabalho|tudo|venceu
+incansável|e|duras|urgente|em|circunstâncias|a necessidade
+primeira|Ceres|com o ferro|os mortais|revolver|a terra
+ensinou|quando|já|as bolotas|e|os frutos do medronheiro|sagrado
+faltavam|do bosque|e|sustento|Dodona|negava
+logo|também|aos cereais|trabalho|acrescentado|de modo que|daninha|os colmos
+comesse|a ferrugem|e improdutivo|se eriçasse|nos|campos
+o cardo|perecem|as searas|surge|áspera|uma mata
+de bardanas e|de abrolhos e|e entre|viçosos|cultivos
+nocivo|o joio|e|estéreis|dominam|aveias
+ora|se não|e|com incessantes|as ervas|perseguires|rastelos
+e|com ruído|espantares|as aves|e|do campo|sombrio
+com a foice|reduzires|as sombras|e em preces|invocares|a chuva
+ai|grande|de outro|em vão|contemplarás|o monte de grãos
+e sacudido|a fome|nos|bosques|aliviarás|o carvalho
+é preciso dizer|também|quais|são|para os rudes|lavradores|os instrumentos
+os quais|sem|nem|puderam|ser semeadas|nem|erguer-se|as searas
+a relha|e|do recurvo|primeiro|pesada|a madeira|arado
+e lentos|eleusina|da mãe|rodantes|os carros
+e os trilhos|e as grades|e|de desigual|peso|os rastelos
+de vime|além disso|de Celeu|e humilde|a mobília
+de medronheiro|as grades|e|mística|a joeira|de Iaco
+tudo|isso|muito|antes|atento|preparado|guardarás
+se|a ti|digna|aguarda|divino|a glória|campo
+logo|nos|bosques|com grande|força|curvado|é domado
+em|rabiça|e|curvo|a forma|recebe|o olmo|arado
+a este|desde|a base|pés|o timão|estendido|por|oito
+duas|orelhas|duplo|são ajustados|os suportes da relha|ao dorso
+corta-se|também|a tília|de antemão|para o jugo|leve|e alta|a faia
+e a rabiça|que|o carro|pela|traseira|dirija|embaixo
+e|suspensos|sobre as lareiras|põe à prova|os madeiros|a fumaça
+posso|muitos|a ti|dos antigos|preceitos|referir
+se não|te esquivas|e minuciosos|te aborrece|conhecer|cuidados
+a eira|entre|as primeiras coisas|com enorme|deve ser nivelada|rolo
+e|revolvida|à mão|e|com argila|compactada|aderente
+para que não|brotem|ervas|nem|pelo pó|vencida|se esfarele
+então|variadas|façam estragos|pragas|muitas vezes|pequeno|o rato
+sob|a terra|e instalou|moradas|e|celeiros|fez`.split('\n').map(line => line.split('|')),
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -286,5 +336,17 @@ export const openingEntries = {
   102: { mysia: 'Mysia, -ae, f. · nome próprio · Mísia, região da Ásia Menor' },
   103: { gargara: 'Gargara, -ōrum, n. pl. · nome próprio · Gárgara, localidade do monte Ida' },
   120: { strymoniaeque: 'Strymonius, -a, -um · adj. · do Estrímon. -que · conj. enclítica · e' },
+
+  135: { ut: 'ut · conj. subordinativa · para que' },
+  138: { pleiadas: 'Plēiadēs, -um, f. pl. · nome próprio · Plêiades', lycaonis: 'Lycāōn, Lycāŏnis, m. · nome próprio · Licáon, pai de Calisto, associada à Ursa' },
+  142: { alta: 'altum, -ī, n. · s. · profundidade, águas profundas' },
+  149: { dodona: 'Dōdōna, -ae, f. · nome próprio · Dodona, santuário famoso por seus carvalhos' },
+  152: { carduus: 'carduus, -ī, m. · s. · cardo' },
+  153: { nitentia: 'niteō, nitēre, nituī · v. · brilhar, vicejar. Aqui, particípio presente' },
+  155: { adsiduis: 'assiduus, -a, -um · adj. · contínuo, incessante' },
+  158: { aceruum: 'acervus, -ī, m. · s. · monte, pilha de grãos' },
+  165: { celei: 'Celeus, -ī, m. · nome próprio · Celeu, rei de Elêusis' },
+  171: { a: 'ā, ab · prep. com ablativo · desde, a partir de' },
+  172: { binae: 'bīnī, -ae, -a · numeral distributivo · dois de cada vez. Aqui, duas orelhas' },
 
 };
