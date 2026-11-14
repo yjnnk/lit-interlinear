@@ -1,4 +1,4 @@
-import { opening, translations } from './glosses.js';
+import { opening, translations, wordGlosses } from './glosses.js';
 
 const app = document.querySelector('#app');
 const labels = ['I', 'II', 'III', 'IV'];
@@ -66,7 +66,7 @@ function render() {
     <h2>Virgílio · Livro ${labels[book - 1]}</h2>
     <nav class="books" aria-label="Livros">${bookLinks(work, book)}</nav>
     <p class="note muted">Selecione uma palavra para consultar o vocabulário.</p>
-    ${translations[book] ? `<p class="note muted">Livro I · glosas palavra por palavra nos versos 1–6 e tradução alinhada nos versos 7–${translations[book].length + 6}.</p>` : '<p class="note muted">Tradução em português ainda indisponível neste livro.</p>'}
+    ${translations[book] ? `<p class="note muted">Livro I · glosas palavra por palavra nos versos 1–${(wordGlosses[book]?.length ?? 0) + 6} e tradução alinhada nos versos 7–${translations[book].length + 6}.</p>` : '<p class="note muted">Tradução em português ainda indisponível neste livro.</p>'}
     <div class="layout">
       <section class="verses" aria-label="Texto latino"></section>
       <aside class="sidebar"><section class="panel"><h2>Vocabulário</h2><div id="entry" aria-live="polite">Selecione uma palavra.</div></section></aside>
@@ -89,7 +89,8 @@ function render() {
       const latin = element('span', form);
       latin.lang = 'la';
       word.append(latin);
-      if (gloss) word.append(element('small', gloss[0]));
+      const translation = gloss?.[0] ?? wordGlosses[book]?.[verse - 7]?.[position];
+      if (translation) word.append(element('small', translation));
       word.addEventListener('click', () => {
         selected?.setAttribute('aria-pressed', 'false');
         word.setAttribute('aria-pressed', 'true');
