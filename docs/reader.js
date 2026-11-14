@@ -113,7 +113,7 @@ async function render() {
     <h1>${work.title}</h1>
     <h2>Virgílio · Livro ${labels[book - 1]}</h2>
     <nav class="books" aria-label="Livros">${bookLinks(work, book)}</nav>
-    <p class="note muted">Selecione uma palavra para consultar o vocabulário. As glosas marcadas com * são acepções de dicionário alinhadas automaticamente.</p>
+    <p class="note muted">Selecione uma palavra para consultar o vocabulário.</p>
     ${translations[book] ? `<p class="note muted">Livro I · glosas palavra por palavra nos versos 1–${(wordGlosses[book]?.length ?? 0) + 6} e tradução alinhada nos versos 7–${translations[book].length + 6}.</p>` : '<p class="note muted">Tradução corrida em português ainda indisponível neste livro.</p>'}
     <div class="layout">
       <section class="verses" aria-label="Texto latino"></section>
@@ -142,7 +142,7 @@ async function render() {
       const definition = entries[parts?.[0]?.[3]]?.[2][0];
       const shortDefinition = definition?.split(/[,.;]/)[0]?.trim();
       const translation = gloss?.[0] ?? wordGlosses[book]?.[verse - 7]?.[position];
-      if (translation || shortDefinition) word.append(element('small', translation ?? shortDefinition + '*'));
+      if (translation || shortDefinition) word.append(element('small', translation ?? shortDefinition));
       word.addEventListener('click', () => {
         selected?.setAttribute('aria-pressed', 'false');
         word.setAttribute('aria-pressed', 'true');
