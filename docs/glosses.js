@@ -149,7 +149,57 @@ receba|cingindo|materno|as têmporas|com mirto
 ou se|deus|do imenso|venhas|mar|e|tuas|os marinheiros
 divindades|apenas|cultuem|a ti|sirva|a remota|Tule
 e a ti|para si|por genro|Tétis|conquiste|ao preço de todas|as ondas
-ou se|novo|lentos|astro|a ti|aos meses|acrescentes`.split('\n').map(line => line.split('|')),
+ou se|novo|lentos|astro|a ti|aos meses|acrescentes
+onde|um lugar|Erígone|entre|e as Pinças|que a seguem
+se abre|ele próprio|para ti|já|os braços|retrai|ardente
+Escorpião|e|do céu|justa|mais|porção|deixou
+o que quer que|sejas|pois|a ti|nem|espera|o Tártaro|como rei
+nem|a ti|de reinar|venha|tão|funesto|desejo
+embora|Elísios|admire|a Grécia|os campos
+nem|reclamada|seguir|queira|Prosérpina|a mãe
+dá|fácil|curso|e|ousados|favorece|empreendimentos
+e dos que ignoram|o caminho|comigo|compadecido|lavradores
+vem|e|por preces|já|agora|habitua-te|a ser invocado
+na primavera|nova|gelada|brancos|quando|dos montes|a umidade
+se derrete|e|ao Zéfiro|fofo|se|o torrão|desfaz
+fincado|comece|já|então|para mim|o touro|arado
+a gemer|e|no sulco|roçada|a brilhar|a relha
+aquela|seara|só então|aos votos|corresponde|ávido
+do lavrador|duas vezes|que|o sol|duas vezes|os frios|sentiu
+dela|imensas|arrebentaram|os celeiros|colheitas
+e|antes|desconhecida|com o ferro|que|rasguemos|a extensão
+os ventos|e|variável|do céu|conhecer antes|o comportamento
+o cuidado|seja|e|tradicionais|e os cultivos|e as características|dos lugares
+e|o que|cada|produz|região|e|o que|cada|recusa
+aqui|os cereais|ali|crescem|melhor|as uvas
+das árvores|os frutos|noutros lugares|e|espontâneas|verdejam
+as ervas|acaso não|vês|de açafrão|como|o Tmolo|perfumes
+a Índia|envia|marfim|delicados|seu|incenso|os sabeus
+mas|os cálibes|nus|ferro|e de cheiro forte|o Ponto
+castóreo|de Élis|palmas|o Epiro|de éguas
+desde o princípio|estas|leis|e eternos|pactos|determinados
+impôs|a natureza|a lugares|em que|tempo|primeiro
+Deucalião|despovoado|pedras|lançou|em|o mundo
+de onde|os homens|nasceram|dura|raça|portanto|vamos|da terra
+fértil|o solo|primeiros|logo|desde|os meses|do ano
+fortes|revirem|os touros|e os torrões|expostos
+poeirento|coza|amadurecedores|aos sóis|o verão
+mas|se|não|for|a terra|fecunda|perto de|a própria
+Arcturo|raso|bastante|será|revolver|num sulco
+lá|prejudiquem|viçosas|para que não|as searas|as ervas
+aqui|estéril|escassa|para que não|abandone|a umidade|a areia
+em alternância|tu mesmo|ceifados|deixar em repouso|os pousios
+e|improdutivo|deixarás|pelo abandono|endurecer|o campo
+ou|ali|dourada|semearás|mudado|o astro|espelta
+de onde|antes|viçosa|a vagem|chocalhando|a leguminosa
+ou|delgados|os brotos|de ervilhaca|e amargo|de tremoço
+tiveres retirado|frágeis|os caules|e a mata|rumorosa
+esgota|pois|de linho|o campo|a seara|esgota|de aveia
+esgotam|leteu|embebidas|as papoulas|em sono
+mas|contudo|com alternância|fácil|o trabalho|secos|apenas
+não|saturar|com esterco|rico|te envergonhes|os solos|nem
+exaustos|cinza|suja|espalhar|pelos|campos
+assim|também|trocadas|repousam|as culturas|as terras`.split('\n').map(line => line.split('|')),
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -170,4 +220,15 @@ export const openingEntries = {
   28: { tempora: 'tempus, temporis, n. · s. · têmpora. Aqui, acusativo plural', myrto: 'myrtus, -i, f. · s. · mirto. O mirto materno remete a Vênus' },
   30: { thule: 'Thule, -es, f. · nome próprio · Tule, terra do extremo norte' },
   32: { anne: 'anne · conj. interrogativa · ou se, introduzindo outra alternativa', nouum: 'novus, -a, -um · adj. · novo' },
+  33: { chelasque: 'chēla, -ae, f. · s. · pinça. No plural, as Pinças do Escorpião. -que · conj. enclítica · e' },
+  35: { scorpius: 'Scorpius, -ī, m. · nome próprio · Escorpião, constelação' },
+  38: { elysios: 'Elysius, -a, -um · adj. · elísio', graecia: 'Graecia, -ae, f. · nome próprio · Grécia' },
+  46: { attritus: 'atterō, atterere, attrīvī, attrītum · v. · gastar por atrito. Aqui, particípio da relha' },
+  55: { inussa: 'iniussus, -a, -um · adj. · espontâneo, sem ordem' },
+  56: { tmolus: 'Tmōlus, -ī, m. · nome próprio · Tmolo, monte da Lídia' },
+  57: { india: 'India, -ae, f. · nome próprio · Índia', sabaei: 'Sabaeī, -ōrum, m. pl. · nome próprio · sabeus, povo do sul da Arábia' },
+  58: { chalybes: 'Chalybēs, -um, m. pl. · nome próprio · cálibes, povo conhecido pelo trabalho em ferro' },
+  59: { eliadum: 'Elias, Eliadis · adj. · de Élis. Aqui, genitivo plural, concordando com equarum' },
+  62: { deucalion: 'Deucaliōn, Deucaliōnis, m. · nome próprio · Deucalião', uacuum: 'vacuus, -a, -um · adj. · vazio, despovoado' },
+
 };
