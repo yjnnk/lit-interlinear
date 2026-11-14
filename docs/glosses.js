@@ -499,7 +499,139 @@ e|antiga|na|lama|as rãs|cantaram|a queixa
 repetidamente|e|das moradas|mais internas|trouxe para fora|os ovos
 estreito|a formiga|percorrendo|caminho|e|bebeu|enorme
 o arco|e|de|se alimentar|retirando-se|em bando|grande
-de corvos|ressoou|com cerradas|o exército|asas`.split('\n').map(line => line.split('|')),
+de corvos|ressoou|com cerradas|o exército|asas
+já|variadas|do mar|aves|e|as que|da Ásia|ao redor
+doces|em|lagoas|reviram|os prados|do Caístro
+à porfia|copiosos|sobre os ombros|derramar|orvalhos
+ora|a cabeça|expor|às ondas|ora|correr|para|as águas
+e|com afã|em vão|verias|exultar|de se banhar
+então|a gralha|plena|a chuva|chama|atrevida|com voz
+e|sozinha|em|seca|consigo|passeia|areia
+nem|noturnas|sequer|executando|tarefas de fiação|as moças
+ignoraram|o temporal|a lâmpada de barro|quando|ardente|vissem
+cintilar|o azeite|e|friáveis|formar-se|cogumelos de fuligem
+nem|menos|depois de|chuva|dias de sol|e|abertos|céus serenos
+prever|e|seguros|poderás|reconhecer|por sinais
+pois|nem|então|das estrelas|a nitidez|embotada|parece
+nem|do irmão|aos raios|sujeita|erguer-se|a Lua
+finos|nem|de lã|pelo|céu|velos|serem levados
+não|morno|ao|sol|as asas|na|praia|estendem
+caras|a Tétis|as alcíones|nem|com a boca|soltos
+imundos|lembram-se|os porcos|de lançar|os feixes
+mas|as névoas|antes|as baixadas|buscam|e no campo|repousam
+do sol|e|o ocaso|observando|de|telhado|mais alto
+em vão|tardios|entoa|a coruja|cantos
+aparece|límpido|no alto|no|ar|Niso
+e|pelo|purpúreo|penas|paga|Cila|cabelo
+por onde quer que|ela|leve|fugindo|corta|o éter|com as asas
+eis|inimigo|feroz|com grande|estridor|pelos|ares
+persegue|Niso|por onde|se|lança|Niso|aos|ares
+ela|leve|fugindo|de golpe|corta|o éter|com as asas
+então|límpidos|os corvos|apertada|três vezes|a garganta|os gritos
+ou|quatro vezes|repetem|e|muitas vezes|nos pousos|altos
+não sei|qual|além de|habitual|doçura|alegres
+entre|si|na|folhagem|grasnam|agrada-lhes|as chuvas|passadas
+a prole|pequena|e queridos|rever|os ninhos
+não|por certo|creio|porque|haja|por dádiva divina|neles
+engenho|ou|das coisas|por destino|previdência|maior
+mas|quando|o tempo|e|do céu|mutável|a umidade
+mudaram|os cursos|e|Júpiter|úmido|pelos austros
+adensa|eram|as que|rarefeitas|há pouco|e|as que|densas|dissipa
+mudam|as disposições|dos ânimos|e|os peitos|impulsos
+agora|uns|outros|enquanto|as nuvens|o vento|impelia
+concebem|daí|aquele|das aves|coro|nos|campos
+e|alegres|os rebanhos|e|exultantes|na garganta|os corvos
+se|porém|o sol|para|veloz|e as luas|sucessivas
+em ordem|olhares|nunca|a ti|a de amanhã|enganará
+a hora|nem|pelas ciladas|da noite|serás apanhado|serena
+a Lua|que retornam|quando|primeiro|recolhe|as luzes
+se|negro|com escuro|abarcar|o ar|chifre
+enorme|aos lavradores|e ao mar|se prepara|chuva
+mas|se|virginal|espalhar|no rosto|rubor
+vento|haverá|com vento|sempre|avermelha-se|a dourada|Febe
+se porém|no aparecimento|quarto|pois|esse|o mais seguro|sinal
+pura|e sem|embotados|pelo|céu|chifres|passar
+inteiro|tanto|aquele|dia|como|os que|nascerão|a partir|dele
+completo|até|o mês|de chuva|e ventos|carecerão
+e as promessas|salvos|cumprirão|na|praia|os marinheiros
+a Glauco|e|a Panopeia|e|filho de Ino|a Melicertes
+o Sol|também|tanto|nascendo|como|quando|se|esconder|nas|ondas
+sinais|dará|o Sol|seguríssimos|sinais|seguirão
+e|os que|de manhã|traz|e|os que|nascendo|os astros
+ele|quando|nascente|com manchas|salpicar|o nascer
+oculto|na|nuvem|e a meio|se retrair|do disco
+suspeitas|para ti|sejam|as chuvas|pois|avança|do|alto-mar
+e às árvores|e às searas|o Noto|e ao gado|funesto
+ou|quando|perto de|a luz|densas|entre|nuvens|se
+divergentes|abrirão caminho|os raios|ou|quando|pálida|se erguer
+de Titono|cor de açafrão|deixando|a Aurora|o leito
+ai|mal|então|tenras|protegerá|a folhagem|as uvas
+tão|abundante|nos|telhados|crepitando|salta|medonho|o granizo
+isto|também|percorrido|quando|já|se retira|o Olimpo
+será útil|lembrar|sobretudo|pois|muitas vezes|vemos
+dele próprio|no|rosto|variadas|vaguear|cores
+azulado|chuva|anuncia|ígneo|ventos de leste
+mas se|manchas|começam|ao rubro|a misturar-se|fogo
+tudo|então|ao mesmo tempo|com vento|e nuvens de chuva|verás
+ferver|não|naquela|alguém|a mim|noite|pelo|alto-mar
+ir|nem|da|terra|aconselhe|a arrancar|a amarra
+mas|se|quando|tanto trouxer de volta|o dia|como esconder|trazido de volta
+brilhante|o disco|estiver|em vão|te assustarás|com nuvens de chuva
+e|pelo límpido|os bosques|verás|Aquilo|serem agitados
+enfim|o que|Vésper|tardio|traga|de onde|serenas
+o vento|impele|as nuvens|o que|tramará|úmido|o Austro
+o Sol|a ti|sinais|dará|o Sol|quem|chamar|mentiroso
+ousaria|ele|também|ocultas|estarem iminentes|perturbações
+muitas vezes|avisa|e a fraude|e|ocultas|avolumarem-se|guerras
+ele|também|morto|compadecido|César|de Roma
+quando|a cabeça|com escura|brilhante|ferrugem|cobriu
+e ímpias|eterna|temeram|as gerações|noite
+no tempo|embora|naquele|a terra|também|e|as águas|do mar
+e de mau agouro|as cadelas|e funestas|as aves
+sinais|davam|quantas vezes|dos Ciclopes|ferver para fora|pelos|campos
+vimos|jorrando|rompidas|das fornalhas|o Etna
+e de chamas|bolas|e liquefeitas|rolar|rochas
+de armas|o estrondo|por todo|a Germânia|o céu
+ouviu|insólitos|tremeram|com abalos|os Alpes
+uma voz|também|pelos|bosques|por toda parte|ouvida|silenciosos
+enorme|e|figuras|de modos|empalidecidas|estranhos
+vistas|sob|a escuridão|da noite|e os rebanhos|falaram
+indizível|param|os rios|e as terras|fendem-se
+e|triste|chora|nos templos|o marfim|e os bronzes|suam
+inunda|com insano|retorcendo|remoinho|os bosques
+dos rios|rei|o Erídano|e os campos|por|todos
+com|os estábulos|os rebanhos|levou|nem|no tempo|mesmo
+funestas|ou|nas entranhas|as fibras|de aparecer|ameaçadoras
+ou|dos poços|de manar|o sangue|cessou|e|altas
+pela|noite|de ressoar|com lobos|uivantes|as cidades
+não|noutra ocasião|do céu|caíram|mais numerosos|sereno
+raios|nem|funestos|tantas vezes|arderam|cometas
+assim|entre|si|iguais|de colidir|com armas
+romanas|as fileiras|de novo|viram|Filipos
+nem|foi|indigno|aos deuses|duas vezes|com sangue|nosso
+a Emátia|e|vastos|do Hemo|de engordar|os campos
+decerto|também|o tempo|virá|quando|nos territórios|aqueles
+o lavrador|curvo|a terra|revolvendo|com o arado
+corroídos|encontrará|pela áspera|ferrugem|dardos
+ou|com pesados|rastelos|elmos|golpeará|vazios
+e grandes|admirará|ossos|desenterrados|dos sepulcros
+deuses|pátrios|Indígetes|e|Rômulo|e Vesta|mãe
+que|toscano|o Tibre|e|romanos|os Palácios|guardas
+a este|ao menos|arruinada|jovem|socorrer|geração
+não|impeçais|bastante|já|há muito|com sangue|nosso
+da laomedôntia|expiamos|os perjúrios|Troia
+já|há muito|a nós|do céu|a ti|a morada régia|César
+inveja|e|dos homens|lamenta|que cuides|dos triunfos
+pois|onde|o justo|subvertido|e|o injusto|tantas|guerras|pelo|mundo
+tão|numerosas|dos crimes|as formas|não|qualquer|ao arado
+digna|honra|definham|arrebatados|os campos|os lavradores
+e|curvas|rígida|as foices|são fundidas|em|espada
+daqui|move|o Eufrates|dali|a Germânia|guerra
+vizinhas|rompidas|entre|si|as leis|as cidades
+as armas|empunham|enfurece-se|todo|Marte|ímpio|no mundo
+como|quando|das barreiras|se|precipitaram|as quadrigas
+aceleram|pelas|pistas|e|em vão|as rédeas|puxando
+é arrastado|pelos cavalos|o cocheiro|nem|obedece|o carro|às rédeas`.split('\n').map(line => line.split('|')),
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -590,6 +722,47 @@ export const openingEntries = {
   369: { conludere: 'conlūdō, conlūdere, conlūsī, conlūsum · v. · brincar juntos, mover-se em conjunto' },
   378: { querelam: "querēla, querēlae, f. · s. · queixa, lamento. Aqui, o coaxar das rãs" },
 
+  383: { asia: 'Asia, Asiae, f. · nome próprio · Ásia. Aqui, a região ocidental da Ásia Menor' },
+  384: { caystri: 'Caystrus, Caystrī, m. · nome próprio · Caístro, rio da Lídia' },
+  395: { obtunsa: 'obtundō, obtundere, obtudī, obtūsum · v. · embotar, obscurecer. Aqui, do brilho das estrelas' },
+
+  399: { solutos: 'solvō, solvere, solvī, solūtum · v. · soltar. Aqui, particípio que modifica maniplos' },
+  401: { ima: 'īmus, -a, -um · adj. · mais baixo. Aqui, neutro plural substantivado, as baixadas' },
+  406: { pennis: 'penna, pennae, f. · s. · pena, asa. Aqui, ablativo de meio' },
+  409: { pennis: 'penna, pennae, f. · s. · pena, asa. Aqui, ablativo de meio' },
+
+  412: { solitum: 'solitus, -a, -um · adj. · habitual. Praeter solitum significa além do costume' },
+  419: { denset: 'dēnseō, dēnsēre · v. · adensar, tornar compacto' },
+  425: { numquam: 'numquam · adv. · nunca' },
+
+  431: { phoebe: 'Phoebē, Phoebēs, f. · nome próprio · Febe, nome poético da Lua' },
+  433: { obtunsis: 'obtundō, obtundere, obtudī, obtūsum · v. · embotar. Aqui, do crescente lunar' },
+  437: { panopeae: 'Panopēa, Panopēae, f. · nome próprio · Panopeia, nereida', inoo: 'Īnōus, -a, -um · adj. · de Ino. Aqui, filho de Ino', melicertae: 'Melicertēs, Melicertae, m. · nome próprio · Melicertes, divindade marinha' },
+
+  439: { sequentur: 'sequor, sequī, secūtus sum · v. depoente · seguir, acompanhar. Aqui, futuro' },
+  443: { alto: 'altum, altī, n. · s. · alto-mar. Aqui, em ab altō' },
+  447: { tithoni: 'Tīthōnus, Tīthōnī, m. · nome próprio · Titono, esposo da Aurora' },
+
+  452: { uultu: 'vultus, vultūs, m. · s. · rosto, semblante' },
+  454: { incipiunt: 'incipiō, incipere, incēpī, inceptum · v. · começar' },
+  456: { altum: 'altum, altī, n. · s. · alto-mar' },
+  457: { moneat: 'moneō, monēre, monuī, monitum · v. · aconselhar' },
+  466: { exstincto: 'exstinguō, exstinguere, exstīnxī, exstīnctum · v. · extinguir, matar. Particípio no ablativo absoluto', romam: 'Rōma, Rōmae, f. · nome próprio · Roma' },
+  469: { quamquam: 'quamquam · conj. concessiva · embora. Aqui, em transição, contudo' },
+  472: { aetnam: 'Aetna, Aetnae, f. · nome próprio · Etna, vulcão da Sicília' },
+  474: { germania: 'Germānia, Germāniae, f. · nome próprio · Germânia' },
+  476: { uulgo: 'vulgō · adv. · por toda parte, publicamente' },
+  480: { inlacrimat: 'inlacrimō, inlacrimāre, inlacrimāvī, inlacrimātum · v. · verter lágrimas, chorar' },
+
+  488: { totiens: 'totiēns · adv. · tantas vezes' },
+  490: { romanas: 'Rōmānus, -a, -um · adj. · romano', philippi: 'Philippī, -ōrum, m. pl. · nome próprio · Filipos, cidade da Macedônia' },
+  492: { emathiam: 'Ēmathia, -ae, f. · nome próprio · Emátia, região da Macedônia', haemi: 'Haemus, -ī, m. · nome próprio · Hemo, cadeia montanhosa da Trácia' },
+
+  498: { indigetes: 'Indigetēs, -um, m. pl. · nome próprio · Indígetes, divindades pátrias', romule: 'Rōmulus, -ī, m. · nome próprio · Rômulo, fundador de Roma' },
+  499: { tuscum: 'Tuscus, -a, -um · adj. · etrusco, toscano', tiberim: 'Tiberis, Tiberis, m. · nome próprio · Tibre, rio de Roma', romana: 'Rōmānus, -a, -um · adj. · romano' },
+  502: { laomedonteae: 'Laomedonteus, -a, -um · adj. · de Laomedonte, rei de Troia' },
+  509: { germania: 'Germānia, Germāniae, f. · nome próprio · Germânia' },
+
 };
 
 export const readingPassages = {
@@ -628,6 +801,27 @@ export const readingPassages = {
     370: [373, 'Mas quando relampeja do lado do feroz Bóreas e troveja a morada de Euro e Zéfiro, todos os campos ficam inundados, com as valas cheias, e todo marinheiro no mar recolhe as velas molhadas.'],
     374: [378, 'A chuva nunca causou dano sem aviso. Ou as gruas, no ar, fugiram dela ao vê-la subir dos vales mais fundos, ou a novilha, erguendo os olhos para o céu, aspirou a brisa com as narinas dilatadas. Ou a andorinha estridente rodeou os lagos em voo, e as rãs cantaram na lama sua velha queixa.'],
     379: [382, 'Repetidas vezes a formiga trouxe os ovos do interior do ninho, percorrendo uma trilha estreita. O enorme arco-íris bebeu, e um exército de corvos, voltando do pasto em grande bando, fez ruído com o bater cerrado das asas.'],
+    383: [389, 'Verias então as várias aves marinhas e as que reviram os prados do Caístro nas lagoas de água doce da Ásia derramarem, à porfia, água abundante sobre os ombros. Ora expõem a cabeça às ondas, ora correm para a água, agitadas pelo vão afã de se banhar. Então a gralha atrevida chama a chuva a plenos brados e passeia sozinha pela areia seca.'],
+    390: [392, 'Nem mesmo as moças, ocupadas à noite com a fiação, deixam de pressentir o temporal quando, à luz da lâmpada de barro, veem o azeite faiscar e formarem-se crostas friáveis de fuligem.'],
+    393: [400, 'Depois da chuva, também poderás prever dias de sol e céu aberto por sinais seguros. Então o brilho das estrelas não parece baço, nem se vê a Lua erguer-se sob os raios do irmão, ou finos velos de lã passarem pelo céu. As alcíones, queridas de Tétis, não estendem as asas na praia ao sol morno, e os porcos imundos tampouco se lembram de atirar com a boca os feixes soltos.'],
+    401: [409, 'As névoas buscam as baixadas e repousam no campo. A coruja, que observa o pôr do sol do alto do telhado, entoa em vão seus cantos tardios. Niso aparece no alto, no ar límpido, e Cila paga pelo cabelo purpúreo. Por onde quer que ela fuja, cortando com as asas o ar leve, eis que Niso, inimigo feroz, a persegue pelos ares com grande estridor. Por onde Niso se lança aos ares, ela foge depressa, cortando com as asas o ar leve.'],
+    410: [414, 'Então os corvos, apertando a garganta, repetem três ou quatro vezes seus gritos límpidos. Muitas vezes, alegres em seus altos pousos com uma doçura estranha ao costume, grasnam uns para os outros na folhagem. Passadas as chuvas, dá-lhes prazer rever a pequena prole e os ninhos queridos.'],
+    415: [423, 'Não creio que tenham recebido dos deuses esse engenho ou do destino maior conhecimento das coisas. Quando o tempo e a umidade mutável do céu mudam de curso, e Júpiter, úmido pelos ventos do sul, adensa as nuvens até há pouco rarefeitas e dissipa as densas, mudam as disposições dos ânimos. Os peitos sentem agora impulsos diferentes dos que sentiam enquanto o vento impelia as nuvens. Daí o coro das aves nos campos, a alegria dos rebanhos e os grasnidos de júbilo dos corvos.'],
+    424: [426, 'Se observares o curso veloz do Sol e as fases sucessivas da Lua, a hora de amanhã nunca te enganará e as ciladas de uma noite serena jamais te apanharão.'],
+    427: [431, 'Quando a Lua começa a reunir a luz que retorna, se abarcar o ar negro com seu crescente escuro, prepara-se uma chuva enorme para os lavradores e para o mar. Mas, se um rubor virginal lhe tingir o rosto, haverá vento. Sob o vento, a dourada Febe sempre enrubesce.'],
+    432: [437, 'Se, porém, na quarta aparição, o indício mais seguro, ela atravessar o céu límpida e com as pontas do crescente nítidas, aquele dia inteiro e os que se seguirem até completar o mês passarão sem chuva nem ventos. Salvos, os marinheiros cumprirão na praia seus votos a Glauco, a Panopeia e a Melicertes, filho de Ino.'],
+    438: [444, 'Também o Sol dará sinais, tanto ao nascer como ao esconder-se nas ondas. Acompanham-no sinais seguros, os que ele traz pela manhã e os que dá quando os astros começam a aparecer. Quando salpicar de manchas o próprio nascer ou se recolher numa nuvem com metade do disco encoberta, desconfia de chuvas. Do alto-mar avança o Noto, funesto para as árvores, as searas e o gado.'],
+    445: [449, 'Ou, se ao amanhecer os raios divergentes abrirem caminho entre nuvens densas, ou se a Aurora pálida se erguer deixando o leito cor de açafrão de Titono, ai, a folhagem mal protegerá as uvas tenras. Tão abundante saltará o granizo medonho, crepitando nos telhados.'],
+    450: [457, 'Convém sobretudo lembrar isto quando o Sol já se retira, depois de percorrer o céu. Muitas vezes vemos cores diversas correrem por seu rosto. Azulado, anuncia chuva. Cor de fogo, anuncia ventos de leste. Se manchas começarem a misturar-se ao fogo rubro, verás tudo ferver ao mesmo tempo com vento e nuvens de chuva. Nessa noite, ninguém me aconselhe a sair para o alto-mar ou a soltar a amarra da terra.'],
+    458: [460, 'Mas, se o disco estiver brilhante tanto ao trazer de volta o dia como ao escondê-lo, em vão te assustarás com nuvens de chuva e verás os bosques agitados pelo Aquilo sob céu limpo.'],
+    461: [465, 'Enfim, o Sol te dará sinais do que traz o Vésper tardio, de onde o vento impele as nuvens claras e do que trama o Austro úmido. Quem ousaria chamar o Sol de mentiroso? Muitas vezes ele avisa que se aproximam agitações secretas e que a fraude e as guerras ocultas ganham força.'],
+    466: [473, 'Também se compadeceu de Roma quando César morreu. Cobriu então de escura ferrugem a cabeça brilhante, e as gerações ímpias temeram uma noite eterna. Naquele tempo, porém, também a terra, as águas do mar, as cadelas de mau agouro e as aves funestas davam sinais. Quantas vezes vimos o Etna, rompidas as fornalhas dos Ciclopes, ferver e transbordar sobre os campos, rolando globos de fogo e rochas derretidas!'],
+    474: [480, 'A Germânia ouviu o estrondo de armas por todo o céu, e os Alpes tremeram com abalos insólitos. Por toda parte se ouviu uma voz enorme nos bosques silenciosos. Espectros estranhamente pálidos foram vistos na escuridão da noite, e os rebanhos falaram, coisa indizível! Os rios param, a terra se fende, o marfim chora triste nos templos e os bronzes suam.'],
+    481: [488, 'O Erídano, rei dos rios, inundou os bosques, torcendo-os num remoinho insano, e levou por todos os campos os rebanhos com seus estábulos. Naquele mesmo tempo, não cessaram de aparecer fibras ameaçadoras nas entranhas funestas, nem de manar sangue dos poços, nem de ressoar pela noite as altas cidades com o uivo dos lobos. Nunca caíram tantos raios de um céu sereno, nem arderam tantas vezes cometas funestos.'],
+    489: [492, 'Assim Filipos viu de novo as fileiras romanas se chocarem entre si com armas iguais. Os deuses aceitaram que a Emátia e os vastos campos do Hemo se fertilizassem duas vezes com nosso sangue.'],
+    493: [497, 'Virá ainda o tempo em que, naquelas terras, o lavrador, revolvendo o solo com o arado curvo, encontrará dardos corroídos pela ferrugem áspera. Ou baterá com pesados rastelos em elmos vazios e, ao desenterrar sepulturas, se espantará com ossos enormes.'],
+    498: [504, 'Deuses pátrios, Indígetes, Rômulo e mãe Vesta, que guardas o Tibre toscano e os Palácios de Roma, deixai ao menos que este jovem socorra uma geração arruinada. Há muito já expiamos com nosso sangue os perjúrios da Troia de Laomedonte. Há muito, César, a morada régia do céu nos inveja tua presença e se queixa de que te ocupes dos triunfos dos homens.'],
+    505: [514, 'Aqui se invertem o justo e o injusto. Há tantas guerras pelo mundo, tantas formas de crime e nenhuma honra digna do arado. Os campos definham, pois os lavradores foram arrebatados, e as foices curvas são fundidas em espadas rígidas. De um lado o Eufrates move guerra, do outro a Germânia. Cidades vizinhas rompem suas leis mútuas e empunham armas. Marte ímpio enfurece-se no mundo inteiro. É como quando as quadrigas irrompem das barreiras e aceleram pela pista. O cocheiro puxa as rédeas em vão, arrastado pelos cavalos, e o carro já não lhe obedece.'],
   },
 };
 
