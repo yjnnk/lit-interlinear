@@ -121,3 +121,33 @@ de Arcturo, revolvê-la num sulco raso:
 lá, para que as ervas não prejudiquem as searas viçosas;
 aqui, para que a escassa umidade não abandone a areia estéril.`.split('\n'),
 };
+
+// Glosas na ordem do latim, uma por palavra, a partir de I.7.
+export const wordGlosses = {
+  1: `Baco|e|nutriz|Ceres|vosso|se|por dádiva|a terra
+da Caônia|farta|a bolota|trocou|pela espiga
+e as taças|descobertas|de Aqueloo|misturou|com uvas
+e|vós|dos lavradores|presentes|divindades|Faunos
+movei|juntos|e Faunos|o pé|e Dríades|donzelas
+os dons|vossos|canto|e tu|ó|para quem|primeiro|relinchante
+fez brotar|o cavalo|pelo grande|a terra|ferida|tridente
+Netuno|e|habitante|dos bosques|para quem|férteis|de Ceos
+três vezes|cem|brancos|pastam|os matagais|novilhos
+tu mesmo|o bosque|deixando|natal|e os pastos|do Liceu
+Pã|das ovelhas|guardião|teu|se|a ti|Mênalo|é caro
+vem|ó|Tegeu|propício|e da oliveira|Minerva
+inventora|e do curvo|o jovem|que ensinou o uso|arado
+e|tenro|desde|a raiz|trazendo|Silvano|o cipreste
+e os deuses|e as deusas|todos|empenho|para quem|os campos|proteger
+e vós que|novas|fazeis crescer|sem|nenhuma|semente|searas
+e vós que|às sementeiras|abundante|do céu|mandais|chuva
+e tu|ainda|a quem|em breve|quais|hão|de acolher|dos deuses
+assembleias|incerto|é|se as cidades|velar por|César
+e das terras|queiras|o cuidado|e|a ti|o vastíssimo|mundo
+doador|de colheitas|e das estações|senhor
+receba|cingindo|materno|as têmporas|com mirto
+ou se|deus|do imenso|venhas|mar|e|tuas|os marinheiros
+divindades|apenas|cultuem|a ti|sirva|a remota|Tule
+e a ti|para si|por genro|Tétis|compre|com todas|as ondas
+ou se|novo|lentos|astro|a ti|aos meses|acrescentes`.split('\n').map(line => line.split('|')),
+};
