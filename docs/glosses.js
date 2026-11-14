@@ -141,13 +141,33 @@ e|tenro|desde|a raiz|trazendo|Silvano|o cipreste
 e os deuses|e as deusas|todos|empenho|para quem|os campos|proteger
 e vós que|novas|fazeis crescer|sem|nenhuma|semente|searas
 e vós que|às sementeiras|abundante|do céu|mandais|chuva
-e tu|ainda|a quem|em breve|quais|hão|de acolher|dos deuses
+e tu|ademais|a quem|em breve|quais|hão|de acolher|dos deuses
 assembleias|incerto|é|se as cidades|velar por|César
 e das terras|queiras|o cuidado|e|a ti|o vastíssimo|mundo
 doador|de colheitas|e das estações|senhor
 receba|cingindo|materno|as têmporas|com mirto
 ou se|deus|do imenso|venhas|mar|e|tuas|os marinheiros
 divindades|apenas|cultuem|a ti|sirva|a remota|Tule
-e a ti|para si|por genro|Tétis|compre|com todas|as ondas
+e a ti|para si|por genro|Tétis|conquiste|ao preço de todas|as ondas
 ou se|novo|lentos|astro|a ti|aos meses|acrescentes`.split('\n').map(line => line.split('|')),
+};
+
+// Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
+export const openingEntries = {
+  7: { liber: 'Liber, Liberi, m. · nome próprio · Líber, deus itálico identificado com Baco' },
+  8: { chaoniam: 'Chaonius, -a, -um · adj. · da Caônia, região do Epiro' },
+  9: { acheloia: 'Acheloius, -a, -um · adj. · de Aqueloo, deus fluvial associado à água das taças' },
+  10: { fauni: 'Faunus, -i, m. · nome próprio · Fauno. No plural, divindades rurais' },
+  11: { faunique: 'Faunus, -i, m. · nome próprio · os Faunos. -que · conj. enclítica · e', pedem: 'pes, pedis, m. · s. · pé. Ferre pedem, aqui, mover o pé na dança' },
+  13: { equum: 'equus, -i, m. · s. · cavalo' },
+  14: { ceae: 'Cea, -ae, f. · nome próprio · Ceos, ilha das Cíclades' },
+  16: { lycaei: 'Lycaeus, -i, m. · nome próprio · Liceu, monte da Arcádia' },
+  17: { pan: 'Pan, Panos, m. · nome próprio · Pã, deus pastoril' },
+  18: { tegeaee: 'Tegeaeus, -a, -um · adj. · de Tegeia. Aqui, epíteto de Pã no vocativo' },
+  23: { satis: 'satum, -i, n. · s. · sementeira. Aqui, dativo plural' },
+  25: { urbisne: 'urbs, urbis, f. · s. · cidade. Aqui, acusativo plural urbis. -ne · partícula interrogativa que abre a primeira alternativa' },
+  26: { uelis: 'volo, velle, volui · v. · querer' },
+  28: { tempora: 'tempus, temporis, n. · s. · têmpora. Aqui, acusativo plural', myrto: 'myrtus, -i, f. · s. · mirto. O mirto materno remete a Vênus' },
+  30: { thule: 'Thule, -es, f. · nome próprio · Tule, terra do extremo norte' },
+  32: { anne: 'anne · conj. interrogativa · ou se, introduzindo outra alternativa', nouum: 'novus, -a, -um · adj. · novo' },
 };
