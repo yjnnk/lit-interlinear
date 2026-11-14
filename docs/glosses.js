@@ -449,7 +449,57 @@ o próprio|Pai|no meio|das nuvens|em|noite|cintilante
 os raios|lança|com a destra|com cujo|imenso|abalo
 a terra|treme|fogem|as feras|e|mortais|os corações
 entre|os povos|abatidos|prostrou|o pavor|ele|flamejante
-ou|o Atos|ou|o Ródope|ou|os altos|Ceráunios|com o dardo`.split('\n').map(line => line.split('|')),
+ou|o Atos|ou|o Ródope|ou|os altos|Ceráunios|com o dardo
+derruba|redobram|os austros|e|densíssima|a chuva
+ora|os bosques|com enorme|vento|ora|as praias|açoitam
+isso|temendo|do céu|os meses|e|os astros|observa
+frio|de Saturno|se|onde|o astro|retire
+quais|o fogo|no céu|cilênio|percorra|em|órbitas
+entre|as primeiras coisas|venera|os deuses|e|anuais|à grande
+ritos|oferece|a Ceres|viçosas|celebrando|entre|as ervas
+do derradeiro|perto de|o fim|inverno|já|na primavera|serena
+então|gordos|os cordeiros|e|então|suavíssimos|os vinhos
+então|os sonos|doces|e densas|nos|montes|as sombras
+toda|para ti|Ceres|a juventude|rural|adore
+para quem|tu|com leite|os favos|e|suave|dissolve|com Baco
+e três vezes|novas|ao redor|propícia|vá|a vítima|searas
+todo|a qual|o coro|e|os companheiros|acompanhem|exultantes
+e|Ceres|com clamor|chamem|para|as moradas|nem|antes
+a foice|maduras|alguém|ponha sob|as espigas
+que|a Ceres|entrançado|cingido|nas têmporas|com carvalho
+dê|passos|desordenados|e|cantos|entoe
+e|essas coisas|para que|certos|pudéssemos|aprender|por sinais
+e calores|e chuvas|e|trazendo|frio|os ventos
+o próprio|Pai|determinou|o que|mensal|a Lua|anunciasse
+por que|sinal|cessassem|os austros|o que|muitas vezes|vendo
+os lavradores|mais perto|dos estábulos|os rebanhos|mantivessem
+logo|os ventos|levantando-se|ou|as águas|do mar
+começam|agitadas|a inchar|e|seco|nos altos
+montes|a ouvir-se|um estrondo|ou|ressoantes|ao longe
+as praias|a agitar-se|e|dos bosques|a crescer|o murmúrio
+já|a si|então|de|curvas|mal|se contém|a onda|quilhas
+quando|do meio|rápidos|voltam voando|de|mar|os mergulhões
+e o clamor|levam|às|praias|e quando|marinhas
+em|terra seca|brincam|as galeironas|e conhecidos|os pântanos
+abandona|e|alta|por cima|voa|a garça|da nuvem
+muitas vezes|também|as estrelas|vento|iminente|verás
+precipitadas|do céu|cair|e da noite|por|a sombra
+de chamas|longos|atrás|de si|branquear|rastros
+muitas vezes|leve|a palha|e|as folhas|esvoaçar|caídas
+ou|à superfície|flutuantes|na|água|brincar juntas|as plumas
+mas|de Bóreas|do|lado|feroz|quando|relampeja|e|quando
+e de Euro|e de Zéfiro|troveja|a morada|todos|cheias
+os campos|flutuam|com valas|e|todo|marinheiro|no mar
+molhadas|as velas|recolhe|nunca|aos desprevenidos|a chuva
+prejudicou|ou|dela|surgindo|dos vales|mais fundos
+aéreas|fugiram|as gruas|ou|a novilha|o céu
+erguendo o olhar|com dilatadas|aspirou|narinas|as brisas
+ou|estridente|os lagos|rodeou voando|a andorinha
+e|antiga|na|lama|as rãs|cantaram|a queixa
+repetidamente|e|das moradas|mais internas|trouxe para fora|os ovos
+estreito|a formiga|percorrendo|caminho|e|bebeu|enorme
+o arco|e|de|se alimentar|retirando-se|em bando|grande
+de corvos|ressoou|com cerradas|o exército|asas`.split('\n').map(line => line.split('|')),
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -531,6 +581,15 @@ export const openingEntries = {
 
   324: { alto: 'altum, -ī, n. · s. · altura, alto do céu', arduus: 'arduus, -a, -um · adj. · elevado, alto' },
   331: { flagranti: "flagrō, flagrāre, flagrāvī, flagrātum · v. · arder. Aqui, particípio que modifica o dardo" },
+  337: { cyllenius: 'Cyllēnius, -a, -um · adj. · do monte Cilene. Aqui, epíteto de Mercúrio' },
+  344: { cui: 'quī, quae, quod · pron. relativo · para quem. Aqui, retoma Ceres', baccho: 'Bacchus, -ī, m. · nome próprio · Baco. Aqui, o vinho por metonímia' },
+  360: { a: 'ā, ab · prep. com ablativo · de, longe de' },
+  363: { sicco: 'siccum, -ī, n. · s. · terra firme. In siccō significa em terra seca' },
+  366: { praecipitis: 'praeceps, praecipitis · adj. · precipitado. Aqui, acusativo plural em -īs' },
+  368: { frondes: 'frōns, frondis, f. · s. · folha, folhagem' },
+  369: { conludere: 'conlūdō, conlūdere, conlūsī, conlūsum · v. · brincar juntos, mover-se em conjunto' },
+  378: { querelam: "querēla, querēlae, f. · s. · queixa, lamento. Aqui, o coaxar das rãs" },
+
 };
 
 export const readingPassages = {
@@ -559,7 +618,16 @@ export const readingPassages = {
     311: [315, 'Por que falar das tempestades e dos astros do outono, ou do que os homens precisam vigiar quando o dia já se encurta e o calor abranda? E quando irrompe a primavera chuvosa, a seara já se eriça de espigas nos campos e os grãos leitosos incham no colmo verde?'],
     316: [321, 'Muitas vezes, quando o lavrador levava o ceifeiro aos campos dourados e já colhia a cevada de colmo frágil, vi todos os ventos se lançarem ao combate. Por toda parte arrancavam a seara carregada de grãos desde as raízes mais fundas e a arremessavam ao alto. Num turbilhão negro, a tempestade levava o colmo leve e a palha voadora.'],
     322: [327, 'Muitas vezes também desce do céu uma imensa coluna de água. As nuvens, reunidas nas alturas, acumulam uma tempestade medonha de chuvas negras. O céu desaba e, com a chuva imensa, arruína as plantações viçosas e o trabalho dos bois. As valas se enchem, os rios crescem ruidosamente em seus leitos fundos, e o mar ferve em águas revoltas.'],
-    328: [332, 'No meio da noite cintilante de nuvens, o próprio Pai lança os raios com a destra. A terra treme com o imenso abalo, as feras fogem e o pavor prostra os corações mortais entre os povos. Com seu dardo flamejante, ele investe contra o Atos, o Ródope ou os altos Ceráunios.'],
+    328: [334, 'No meio da noite cintilante de nuvens, o próprio Pai lança os raios com a destra. A terra treme com o imenso abalo, as feras fogem e o pavor prostra os corações mortais entre os povos. Com seu dardo flamejante, ele investe contra o Atos, o Ródope ou os altos Ceráunios, e os derruba. Redobram os ventos do sul e a chuva cerrada. Com vento impetuoso, açoitam ora os bosques, ora as praias.'],
+    335: [337, 'Temendo isso, observa os meses e os astros do céu. Repara onde se recolhe o astro frio de Saturno e que órbitas percorre pelo céu o fogo de Mercúrio, o deus do Cilene.'],
+    338: [342, 'Antes de tudo, venera os deuses e oferece à grande Ceres os ritos anuais, celebrando entre as ervas viçosas, ao fim do inverno, já na primavera serena. Então os cordeiros estão gordos, os vinhos são suavíssimos, os sonos são doces e as sombras são densas nos montes.'],
+    343: [350, 'Que toda a juventude do campo adore Ceres. Em sua honra, dissolve os favos em leite e vinho suave. Que a vítima propícia dê três voltas em torno das novas searas, com todo o coro e os companheiros a acompanhá-la em júbilo, e convidem Ceres com seus clamores a entrar nas casas. Que ninguém leve a foice às espigas maduras antes de, com as têmporas cingidas de ramos entrelaçados de carvalho, dançar passos livres e entoar cantos em honra de Ceres.'],
+    351: [355, 'Para que pudéssemos reconhecer por sinais seguros o calor, as chuvas e os ventos que trazem frio, o próprio Pai determinou o que a Lua anunciaria a cada mês, por qual sinal se saberia que os ventos do sul iam cessar e diante de que indícios os lavradores, tantas vezes, manteriam os rebanhos mais perto dos estábulos.'],
+    356: [364, 'Logo que os ventos se levantam, as águas agitadas começam a inchar, ou se ouve um estrondo seco nos altos montes, ou as praias, ressoando ao longe, se revolvem e cresce o murmúrio dos bosques. Então a onda mal se contém diante das quilhas curvas. Os mergulhões voltam velozes do alto-mar e levam seus gritos à praia, as galeironas marinhas brincam em terra seca e a garça abandona os pântanos conhecidos e voa acima das nuvens altas.'],
+    365: [369, 'Muitas vezes também, quando o vento ameaça, verás estrelas precipitar-se do céu e longos rastros de chamas branquear atrás delas na escuridão da noite. Muitas vezes verás a palha leve e as folhas caídas esvoaçarem, ou penas flutuarem juntas à superfície da água.'],
+    370: [373, 'Mas quando relampeja do lado do feroz Bóreas e troveja a morada de Euro e Zéfiro, todos os campos ficam inundados, com as valas cheias, e todo marinheiro no mar recolhe as velas molhadas.'],
+    374: [378, 'A chuva nunca causou dano sem aviso. Ou as gruas, no ar, fugiram dela ao vê-la subir dos vales mais fundos, ou a novilha, erguendo os olhos para o céu, aspirou a brisa com as narinas dilatadas. Ou a andorinha estridente rodeou os lagos em voo, e as rãs cantaram na lama sua velha queixa.'],
+    379: [382, 'Repetidas vezes a formiga trouxe os ovos do interior do ninho, percorrendo uma trilha estreita. O enorme arco-íris bebeu, e um exército de corvos, voltando do pasto em grande bando, fez ruído com o bater cerrado das asas.'],
   },
 };
 
