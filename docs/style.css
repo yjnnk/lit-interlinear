@@ -4,3 +4,5 @@
 @media(max-width:760px){header span,.sidebar{display:none}main{padding-top:1.5rem}.layout{grid-template-columns:minmax(0,1fr)}.verses{padding:.6rem}.verse{gap:.25rem}.number{min-width:1.75rem}.word{min-height:2.75rem}dialog{margin:auto auto 0;width:100%;max-width:none}}
 
 .verse-content{min-width:0}.translation{color:var(--olive);font:.9rem/1.5 "DM Sans",system-ui,sans-serif;padding:.15rem .23rem .3rem}
+
+.word small{max-width:13rem;overflow-wrap:anywhere}.sidebar .panel,dialog{max-height:calc(100dvh - 2rem);overflow:auto}
