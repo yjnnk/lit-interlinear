@@ -349,7 +349,107 @@ nem|de Pelúsio|o cultivo|desdenhares|da lentilha
 não|obscuros|ao se pôr|enviará|a ti|sinais|o Boieiro
 começa|e|até|o meio de|a semeadura|estende|geadas
 por isso|determinadas|dividido|em partes|o globo
-através de|doze|governa|do mundo|o sol|dourado|astros`.split('\n').map(line => line.split('|')),
+através de|doze|governa|do mundo|o sol|dourado|astros
+cinco|ocupam|o céu|faixas|das quais|uma|cintilante
+sempre|sob o sol|rubra|e|abrasada|sempre|pelo|fogo
+a qual|em torno|as extremas|à direita|e à esquerda|se estendem
+azuladas|pelo gelo|endurecidas|e|chuvas|escuras
+estas|entre|e a central|duas|aos mortais|aflitos
+por dádiva|concedidas|dos deuses|e|uma via|traçada|através de|ambas
+oblíqua|por onde|se|dos signos|movesse|a sequência
+o mundo|como|em direção à|Cítia|e Rifeus|elevado|cumes
+se ergue|se abaixa|da Líbia|inclinado|para|os austros
+este|polo|para nós|sempre|elevado|mas|aquele
+sob|os pés|o Estige|negro|vê|e os Manes|das profundezas
+enorme|aqui|em curva|sinuosa|desliza|a Serpente
+em torno|e entre|duas|à|maneira|de rio|Ursas
+Ursas|do Oceano|temerosas|nas águas|de mergulhar
+lá|como|contam|ou|intempestiva|silencia|a noite
+sempre|e|estendida|adensam-se|a noite|as trevas
+ou|volta|de|nós|a Aurora|e o dia|traz de volta
+e sobre nós|quando|primeiro|com cavalos|o Oriente|soprou|ofegantes
+lá|tardio|avermelhado|acende|as luzes|Vésper
+daí|as tempestades|incerto|prever|pelo céu
+podemos|daí|e da colheita|o dia|e a época|de semear
+e|quando|traiçoeiro|a remos|impelir|o mar
+convenha|quando|equipadas|lançar ao mar|as frotas
+ou|maduro|nos bosques|derrubar|o pinheiro
+nem|em vão|dos signos|os ocasos|observamos|e|os nascimentos
+e às estações|igual|distintas|quatro|o ano
+fria|o lavrador|se|alguma vez|retém|a chuva
+muitas tarefas|seriam|que|em breve|sob céu|a apressar|sereno
+adiantar|é dado|duro|forja|o lavrador
+da relha|embotada|o dente|escava|no tronco|canoas
+ou|no gado|uma marca|ou|números|imprimiu|nos montes
+afiam|outros|estacas|e forcados|de duas pontas
+e|de Améria|preparam|para a flexível|amarras|videira
+agora|maleável|de silva|seja trançado|o cesto|com vara
+agora|torrai|ao fogo|os grãos|agora|parti-os|com pedra
+pois|até|festivos|certos trabalhos|executar|em dias
+o direito divino|e|as leis|permitem|canais|abrir|nenhuma
+proibição religiosa|vedou|à seara|antepor|uma cerca
+armadilhas|para aves|armar|queimar|sarças
+e das ovelhas que balem|o rebanho|no rio|mergulhar|salutar
+muitas vezes|com azeite|lento|os flancos|o condutor|do burrinho
+baratos|ou|carrega|com frutos|e uma pedra|ao voltar
+de moinho|ou|de negra|um bloco|pez|da cidade|traz
+ela própria|os dias|uns|em outra|deu|ordem|a lua
+propícios|aos trabalhos|o quinto|evita|pálido|Orco
+e as Eumênides|nasceram|então|num parto|a Terra|nefando
+e Ceo|e Jápeto|gera|e feroz|Tifeu
+e|conjurados|o céu|para romper|os irmãos
+três vezes|tinham|tentado|impor|ao Pélion|o Ossa
+a saber|e|sobre o Ossa|frondoso|amontoar|o Olimpo
+três vezes|o Pai|empilhados|desfez|com o raio|os montes
+a sétima|depois de|a décima|propícia|tanto|a plantar|a videira
+como|apanhados|a domar|os bois|e|os fios|ao tear
+acrescentar|a nona|para a fuga|melhor|desfavorável|aos furtos
+muitas coisas|de fato|na fria|melhor|se|à noite|deram
+ou|quando|com sol|novo|as terras|orvalha|a Estrela da Manhã
+à noite|leves|melhor|as palhas|à noite|secos|os prados
+são ceifados|de noite|persistente|não|falta|a umidade
+e|um homem|tardias|da invernal|junto de|luz|chamas
+passa a noite em vigília|e com ferro|as tochas|aponta|afiado
+enquanto isso|longo|com canto|aliviando|o trabalho
+sonoro|a esposa|percorre|com o pente|a trama
+ou|do doce|mosto|ao fogo|reduz|o líquido
+e|com folhas|o líquido|do borbulhante|escuma|caldeirão
+mas|avermelhada|Ceres|em pleno|é ceifada|calor
+e|em pleno|tostados|calor|debulha|a eira|os grãos
+despido|ara|semeia|despido|o inverno|ocioso|para o lavrador
+nos frios|do que ganharam|os lavradores|em geral|desfrutam
+e recíprocos|entre|si|alegres|banquetes|preparam
+convida|festivo|o inverno|e as preocupações|dissipa
+como|carregadas|quando|já|o porto|alcançaram|as quilhas
+nas popas|e|alegres|os marinheiros|puseram|coroas
+mas|contudo|também|de carvalho|as bolotas|então|colher|é tempo
+e|do loureiro|as bagas|e a azeitona|e rubros|os mirtos
+então|para os grous|laços|e|redes|armar|para os cervos
+e orelhudas|perseguir|as lebres|então|atingir|os gamos
+de estopa|brandindo|balear|os golpes|da funda
+quando|a neve|espessa|jaz|o gelo|quando|os rios|empurram
+por que|as tempestades|do outono|e|os astros|mencionaria
+e|quando|já|e mais breve|o dia|e|mais brando|o calor
+que coisas|devem ser vigiadas|pelos homens|ou|quando|irrompe|chuvosa|a primavera
+de espigas|já|nos campos|quando|a seara|se eriçou|e|quando
+os cereais|em|verde|palha|leitosos|incham
+muitas vezes|eu|quando|dourados|o ceifeiro|levava|aos campos
+o lavrador|e|frágil|já|colhia|as cevadas|no colmo
+todos|dos ventos|convergir|os combates|vi
+que|pesada de grãos|por toda parte|a seara|desde|as raízes|mais fundas
+ao alto|arrancada|revolviam|assim|em turbilhão|negro
+levava|a tempestade|e o colmo|leve|e as palhas|voadoras
+muitas vezes|também|imensa|do céu|vem|uma coluna|de águas
+e|medonha|acumulam|uma tempestade|com chuvas|escuras
+reunidas|do|alto|as nuvens|desaba|elevado|o céu
+e|com chuva|enorme|as plantações|viçosas|e dos bois|os trabalhos
+arruína|enchem-se|as valas|e|fundos|os rios|crescem
+com|estrondo|e ferve|com as águas|agitadas|o mar
+o próprio|Pai|no meio|das nuvens|em|noite|cintilante
+os raios|lança|com a destra|com cujo|imenso|abalo
+a terra|treme|fogem|as feras|e|mortais|os corações
+entre|os povos|abatidos|prostrou|o pavor|ele|flamejante
+ou|o Atos|ou|o Ródope|ou|os altos|Ceráunios|com o dardo`.split('\n').map(line => line.split('|')),
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -408,6 +508,29 @@ export const openingEntries = {
   228: { pelusiacae: 'Pēlūsiacus, -a, -um · adj. · de Pelúsio, no Egito' },
   232: { duodena: 'duodēnī, -ae, -a · numeral distributivo · doze de cada vez. Aqui, os doze astros' },
 
+  238: { diuum: 'deus, deī, m. · s. · deus. Dīvum é genitivo plural poético' },
+  239: { obliquus: 'oblīquus, -a, -um · adj. · oblíquo' },
+  240: { scythiam: 'Scythia, Scythiae, f. · nome próprio · Cítia', riphaeasque: 'Riphaeus, -a, -um · adj. · rifeu. -que · conj. enclítica · e', arduus: 'arduus, -a, -um · adj. · elevado', arces: 'arx, arcis, f. · s. · altura, cume' },
+  248: { densentur: 'dēnseō, dēnsēre · v. · adensar. Aqui, as trevas tornam-se mais densas' },
+  262: { obtunsi: 'obtundō, obtundere, obtudī, obtūsum · v. · embotar. Obtūnsus é variante do particípio', lintres: 'linter, lintris, f. · s. · canoa' },
+  264: { exacuunt: 'exacuō, exacuere, exacuī, exacūtum · v. · afiar' },
+  265: { amerina: 'Amerīnus, -a, -um · adj. · de Améria, na Úmbria' },
+
+  272: { balantumque: 'bālō, bālāre, bālāvī, bālātum · v. · balir. Bālantum é genitivo plural poético do particípio. -que · conj. enclítica · e' },
+  279: { coeumque: 'Coeus, -ī, m. · nome próprio · Ceo, titã. -que · conj. enclítica · e', iapetumque: 'Iapetus, -ī, m. · nome próprio · Jápeto, titã. -que · conj. enclítica · e', saeuumque: 'saevus, -a, -um · adj. · feroz. -que · conj. enclítica · e' },
+  281: { sunt: 'sum, esse, fuī · v. · ser, estar. Auxiliar em sunt conātī, tentaram' },
+
+  288: { inrorat: 'inrōrō, inrōrāre, inrōrāvī, inrōrātum · v. · cobrir de orvalho' },
+  289: { nocte: 'nox, noctis, f. · s. · noite. Nocte é ablativo de tempo' },
+  290: { noctes: 'nox, noctis, f. · s. · noite. Aqui, acusativo plural de tempo' },
+  295: { volcano: 'Volcānus, -ī, m. · nome próprio · Vulcano. Aqui, o fogo por metonímia' },
+  296: { aeni: 'aēnum, -ī, n. · s. · caldeirão de bronze' },
+
+  300: { fruuntur: 'fruor, fruī, frūctus sum · v. depoente · desfrutar, gozar de algo. Aqui, rege parto no ablativo' },
+  309: { balearis: 'Baleāris, -e · adj. · balear, das ilhas Baleares. Aqui, modifica fundae' },
+
+  324: { alto: 'altum, -ī, n. · s. · altura, alto do céu', arduus: 'arduus, -a, -um · adj. · elevado, alto' },
+  331: { flagranti: "flagrō, flagrāre, flagrāvī, flagrātum · v. · arder. Aqui, particípio que modifica o dardo" },
 };
 
 export const readingPassages = {
@@ -420,6 +543,23 @@ export const readingPassages = {
     215: [218, 'Na primavera semeiam-se as favas. Então os sulcos fofos também te acolhem, alfafa, e chega a época de cuidar do painço. É quando o Touro brilhante abre o ano com seus chifres dourados e o Cão, recuando diante do astro oposto, se põe.'],
     219: [226, 'Mas, se vais trabalhar o solo para a colheita de trigo e de robusta espelta e te dedicar apenas aos cereais, espera que as Plêiades orientais desapareçam e que se ponha a estrela de Cnossos, na Coroa brilhante. Só então confia aos sulcos as sementes devidas e entrega à terra a esperança do ano, sem te apressares enquanto ela ainda resiste. Muitos começaram antes do ocaso de Maia, mas a seara que esperavam os enganou com aveia sem grão.'],
     227: [232, 'Se, porém, vais semear ervilhaca e o humilde feijão, e aceitas cultivar a lentilha de Pelúsio, o Boieiro, ao se pôr, te dará sinais claros. Começa e prolonga a semeadura até que as geadas estejam em pleno curso. Para isso, o sol dourado governa o globo, dividido em regiões determinadas, ao percorrer os doze astros do mundo.'],
+    233: [239, 'Cinco faixas ocupam o céu. Uma delas, sempre rubra ao sol cintilante, arde sem cessar. Em torno dela, à direita e à esquerda, estendem-se as faixas extremas, azuladas e endurecidas pelo gelo e pelas chuvas escuras. Entre essas e a central, duas foram concedidas aos mortais aflitos por dádiva dos deuses. Uma via foi traçada através de ambas, por onde passaria obliquamente a sequência dos signos.'],
+    240: [246, 'Assim como o mundo se ergue rumo à Cítia e aos altos cumes Rifeus, desce inclinado para os ventos do sul da Líbia. Para nós, este polo está sempre elevado. O outro, sob nossos pés, é visto pelo Estige negro e pelos Manes das profundezas. Aqui a enorme Serpente desliza em curvas, como um rio, ao redor e por entre as duas Ursas, que temem mergulhar nas águas do Oceano.'],
+    247: [251, 'Lá, segundo contam, ou reina sempre o silêncio da noite profunda e as trevas se adensam sob o manto noturno, ou a Aurora se afasta de nós e lhes devolve o dia. Quando o Oriente sopra primeiro sobre nós, com seus cavalos ofegantes, lá o Vésper tardio e rubro acende suas luzes.'],
+    252: [258, 'Daí podemos prever as tempestades quando o céu é incerto, o dia da colheita e a época da semeadura. Podemos saber quando convém avançar a remos no mar traiçoeiro, lançar ao mar frotas equipadas ou derrubar nos bosques o pinheiro no tempo certo. Observamos com proveito os ocasos e os nascimentos dos signos e o ano repartido por igual entre quatro estações distintas.'],
+    259: [265, 'Se a chuva fria retém o lavrador, ele pode adiantar muitas tarefas que logo teria de apressar sob o céu sereno. Forja o dente duro da relha embotada, escava canoas num tronco, imprime marcas no gado ou números nos montes de grãos. Outros afiam estacas e forcados de duas pontas e preparam amarras de Améria para a videira flexível.'],
+    266: [272, 'Ora se trança um cesto de varas flexíveis de silva, ora se torram os grãos ao fogo e se quebram com pedra. Até em dias festivos o direito divino e as leis permitem certos trabalhos. Nenhum preceito religioso proíbe abrir canais, proteger a seara com uma cerca, armar laços para as aves, queimar as sarças ou mergulhar o rebanho de ovelhas num rio salubre.'],
+    273: [275, 'Muitas vezes o condutor carrega os flancos do burrinho lento com azeite ou frutos baratos. Na volta, traz da cidade uma pedra de moinho ou um bloco de pez negra.'],
+    276: [282, 'A própria Lua dispôs em ordem diversa os dias propícios ao trabalho. Evita o quinto. Nele nasceram o pálido Orco e as Eumênides, e a Terra, num parto nefando, gerou Ceo, Jápeto e o feroz Tifeu, irmãos conjurados para rasgar o céu. Três vezes tentaram pôr o Ossa sobre o Pélion e amontoar sobre o Ossa o Olimpo frondoso.'],
+    283: [286, 'Três vezes o Pai desfez com o raio os montes empilhados. O décimo sétimo dia é propício para plantar a videira, domar os bois já apanhados e pôr os fios no tear. O nono é melhor para fugir e desfavorável aos furtos.'],
+    287: [290, 'Muitos trabalhos rendem melhor no frio da noite ou quando a Estrela da Manhã cobre de orvalho a terra ao nascer do sol. É melhor ceifar à noite a palha leve e a erva seca dos prados, pois de noite a umidade persiste.'],
+    291: [298, 'Há quem passe a noite acordado, junto ao fogo que ilumina o inverno, e apare as tochas com ferro afiado. Enquanto isso, a esposa alivia com o canto o longo trabalho e percorre a trama com o pente sonoro, ou reduz o doce mosto ao fogo e, com folhas, retira a espuma do caldeirão borbulhante. Já a seara avermelhada é ceifada em pleno calor, e em pleno calor a eira debulha os grãos tostados.'],
+    299: [304, 'Ara despido, semeia despido. No inverno, o lavrador repousa. Nos dias frios, os lavradores em geral desfrutam do que ganharam e, alegres, oferecem banquetes uns aos outros. O inverno festivo convida à mesa e dissipa as preocupações, como quando os navios carregados enfim alcançam o porto e os marinheiros, alegres, põem coroas nas popas.'],
+    305: [310, 'Mesmo assim, é tempo de colher bolotas de carvalho, bagas de loureiro, azeitonas e frutos rubros do mirto. É tempo de armar laços para os grous e redes para os cervos, perseguir as lebres orelhudas e atingir os gamos, brandindo a funda balear de estopa, quando a neve jaz espessa e os rios empurram o gelo.'],
+    311: [315, 'Por que falar das tempestades e dos astros do outono, ou do que os homens precisam vigiar quando o dia já se encurta e o calor abranda? E quando irrompe a primavera chuvosa, a seara já se eriça de espigas nos campos e os grãos leitosos incham no colmo verde?'],
+    316: [321, 'Muitas vezes, quando o lavrador levava o ceifeiro aos campos dourados e já colhia a cevada de colmo frágil, vi todos os ventos se lançarem ao combate. Por toda parte arrancavam a seara carregada de grãos desde as raízes mais fundas e a arremessavam ao alto. Num turbilhão negro, a tempestade levava o colmo leve e a palha voadora.'],
+    322: [327, 'Muitas vezes também desce do céu uma imensa coluna de água. As nuvens, reunidas nas alturas, acumulam uma tempestade medonha de chuvas negras. O céu desaba e, com a chuva imensa, arruína as plantações viçosas e o trabalho dos bois. As valas se enchem, os rios crescem ruidosamente em seus leitos fundos, e o mar ferve em águas revoltas.'],
+    328: [332, 'No meio da noite cintilante de nuvens, o próprio Pai lança os raios com a destra. A terra treme com o imenso abalo, as feras fogem e o pavor prostra os corações mortais entre os povos. Com seu dardo flamejante, ele investe contra o Atos, o Ródope ou os altos Ceráunios.'],
   },
 };
 
