@@ -5,6 +5,12 @@ const labels = ['I', 'II', 'III', 'IV'];
 const authors = [{ name: 'Virgílio', works: [{ title: 'Geórgicas', id: 'georgicas' }] }];
 const dictionary = 'https://logeion.uchicago.edu/';
 let books;
+let dictionaryForms = {};
+
+function dictionaryKey(lemma) {
+  return lemma.toLowerCase().normalize('NFD')
+    .replace(/[^a-z]/g, '').replaceAll('v', 'u').replaceAll('j', 'i');
+}
 const lexicalBooks = new Map();
 let renderId = 0;
 
@@ -66,7 +72,7 @@ function dictionaryEntry(target, form, gloss, book, verse, parts, entries, conte
   }
   for (const [lemma, pos, , key] of edited ? [] : parts ?? []) {
     const entry = entries[key];
-    const title = element('h4', entry?.[0] ?? lemma, 'headword');
+    const title = element('h4', dictionaryForms[dictionaryKey(lemma)] ?? entry?.[0] ?? lemma, 'headword');
     title.lang = 'la';
     target.append(title, element('p', [wordClasses[pos] ?? pos, entry?.[1]].filter(Boolean).join(' · '), 'muted'));
     if (entry) {
@@ -113,7 +119,7 @@ async function render() {
       <section class="verses" aria-label="Texto latino"></section>
       <aside class="sidebar"><section class="panel"><h2>Vocabulário</h2><div id="entry" aria-live="polite">Selecione uma palavra.</div></section></aside>
     </div>
-    <p class="note muted">Lemas e análise do <a href="https://github.com/CIRCSE/LASLA">LASLA via LiLa</a>. Verbetes de <a href="https://doi.org/10.5281/zenodo.13989172">Fonseca, Cardoso e Velez, edição digital de Lucas Consolin Dezotti</a>. Dados adaptados sob <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+    <p class="note muted">Lemas e análise do <a href="https://github.com/CIRCSE/LASLA">LASLA via LiLa</a>. Verbetes de <a href="https://doi.org/10.5281/zenodo.13989172">Fonseca, Cardoso e Velez, edição digital de Lucas Consolin Dezotti</a>. Formas latinas de <a href="https://github.com/PerseusDL/lexica">Lewis &amp; Short, edição digital do Perseus</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>). Dados de LiLa adaptados sob <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
     <dialog aria-labelledby="dialog-title"><form method="dialog"><button class="control">Fechar</button></form><h2 id="dialog-title">Vocabulário</h2><div id="mobile-entry"></div></dialog>`;
   const dialog = app.querySelector('dialog');
   const verses = app.querySelector('.verses');
@@ -161,6 +167,12 @@ try {
   const response = await fetch(new URL('./georgicas.json', import.meta.url));
   if (!response.ok) throw new Error(response.status);
   books = await response.json();
+  try {
+    const forms = await fetch(new URL('./formas-dicionario.json', import.meta.url));
+    if (forms.ok) dictionaryForms = await forms.json();
+  } catch {
+    // The Portuguese entries can still be used without the additional forms.
+  }
   await render();
   addEventListener('hashchange', async () => {
     await render();
