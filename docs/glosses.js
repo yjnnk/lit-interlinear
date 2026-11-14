@@ -1,0 +1,55 @@
+// Cada par contém a glosa no contexto e o verbete latino.
+export const opening = {
+  1: [
+    [
+      ['o que','quis, quid · pron. interrogativo · quem? o quê?'],
+      ['torna','facio, facere, feci, factum · v. · fazer, tornar'],
+      ['viçosas','laetus, -a, -um · adj. · alegre, fértil, viçoso'],
+      ['as searas','seges, segetis, f. · s. · seara, plantação'],
+      ['sob que','qui, quae, quod · adj. interrogativo · qual?'],
+      ['astro','sidus, sideris, n. · s. · astro, constelação'],
+      ['a terra','terra, -ae, f. · s. · terra, solo'],
+    ],
+    [
+      ['revolver','verto, vertere, verti, versum · v. · virar, revolver'],
+      ['ó Mecenas','Maecenas, Maecenatis, m. · nome próprio · Mecenas'],
+      ['e aos olmos','ulmus, -i, f. · s. · olmo. -que · conj. enclítica · e'],
+      ['unir','adiungo, adiungere, adiunxi, adiunctum · v. · unir, ligar'],
+      ['as videiras','vitis, -is, f. · s. · videira'],
+    ],
+    [
+      ['convém','convenio, convenire, conveni, conventum · v. · reunir-se, convir'],
+      ['que','qui, quae, quod · adj. interrogativo · qual?'],
+      ['cuidado','cura, -ae, f. · s. · cuidado, atenção'],
+      ['dos bois','bos, bovis, m./f. · s. · boi, vaca'],
+      ['que','qui, quae, quod · adj. interrogativo · qual?'],
+      ['manejo','cultus, -us, m. · s. · cultivo, cuidado, manejo'],
+      ['para criar','habeo, habere, habui, habitum · v. · ter, manter'],
+    ],
+    [
+      ['haja','sum, esse, fui · v. · ser, estar, haver'],
+      ['o gado','pecus, pecoris, n. · s. · gado, rebanho'],
+      ['para as abelhas','apis, -is, f. · s. · abelha'],
+      ['quanta','quantus, -a, -um · adj. interrogativo · quão grande? quanto?'],
+      ['experiência','experientia, -ae, f. · s. · experiência, prática'],
+      ['frugais','parcus, -a, -um · adj. · econômico, frugal'],
+    ],
+    [
+      ['daí','hinc · adv. · daqui, daí'],
+      ['a cantar','cano, canere, cecini, cantum · v. · cantar, celebrar'],
+      ['começarei','incipio, incipere, incepi, inceptum · v. · começar'],
+      ['vós','vos · pron. pessoal · vós'],
+      ['ó','o · interj. · ó'],
+      ['mais brilhantes','clarus, -a, -um · adj. · claro, brilhante, ilustre'],
+      ['do mundo','mundus, -i, m. · s. · mundo, universo'],
+    ],
+    [
+      ['luminares','lumen, luminis, n. · s. · luz, luminar'],
+      ['que desliza','labor, labi, lapsus sum · v. depoente · deslizar, passar'],
+      ['pelo céu','caelum, -i, n. · s. · céu'],
+      ['que','qui, quae, quod · pron. relativo · que, o qual'],
+      ['conduzis','duco, ducere, duxi, ductum · v. · conduzir, levar'],
+      ['o ano','annus, -i, m. · s. · ano'],
+    ],
+  ],
+};
