@@ -1,4 +1,4 @@
-import { opening, openingEntries, readingDictionaryForms, readingPassages, translations, wordGlosses } from './glosses.js';
+import { bookTwoEntries, opening, openingEntries, readingDictionaryForms, readingPassages, translations, wordGlosses } from './glosses.js';
 
 const app = document.querySelector('#app');
 const labels = ['I', 'II', 'III', 'IV'];
@@ -60,9 +60,8 @@ function dictionaryEntry(target, form, gloss, book, verse, parts, entries, conte
   target.replaceChildren(element('h3', form, 'entry'), element('p', `Livro ${labels[book - 1]}, verso ${verse}`, 'muted'));
   target.firstChild.lang = 'la';
   if (contextual) target.append(element('p', `No verso: ${contextual}`));
-  const editorialEntry = book === 1
-    ? openingEntries[verse]?.[form.toLowerCase().replace(/[^a-z]/g, '')]
-    : undefined;
+  const editorialEntries = book === 1 ? openingEntries : book === 2 ? bookTwoEntries : {};
+  const editorialEntry = editorialEntries[verse]?.[form.toLowerCase().replace(/[^a-z]/g, '')];
   const edited = editorialEntry ?? gloss?.[1];
   if (edited) {
     const [heading, ...details] = edited.split(' · ');
