@@ -54,73 +54,8 @@ export const opening = {
   ],
 };
 
-// Tradução de leitura alinhada aos versos do Livro I, a partir do verso 7.
-export const translations = {
-  1: `Baco e nutriz Ceres, se por dádiva vossa a terra
-trocou a bolota da Caônia pela espiga farta,
-e misturou às taças de Aqueloo o sumo das uvas descobertas;
-e vós, Faunos, divindades que assistis aos camponeses
-(vinde dançar juntos, Faunos e donzelas Dríades:
-canto vossos dons); e tu, para quem a terra, ferida
-pelo grande tridente, fez brotar o primeiro cavalo relinchante,
-Netuno; e tu, habitante dos bosques, para quem
-trezentos novilhos brancos pastam nos matos férteis de Ceos;
-e tu mesmo, deixando o bosque natal e os pastos do Liceu,
-Pã, guardião das ovelhas, se te é caro o teu Mênalo,
-vem propício, ó Tegeu; e Minerva,
-inventora da oliveira, e o jovem que ensinou o uso do arado curvo,
-e tu, Silvano, que trazes um cipreste tenro arrancado pela raiz;
-e todos os deuses e deusas cujo empenho é proteger os campos,
-vós que fazeis crescer novas searas sem semente
-e vós que do céu mandais chuva abundante às sementeiras.
-E tu, César, a quem em breve acolherá
-uma assembleia divina — ainda é incerto qual —, quer queiras
-assumir o cuidado das cidades e das terras, e o vasto mundo
-te receba como doador de colheitas e senhor das estações,
-cingindo-te as têmporas com o mirto de tua mãe;
-quer venhas como deus do mar imenso, e os marinheiros
-cultuem apenas tua divindade, e a remota Tule te sirva,
-e Tétis te conquiste por genro ao preço de todas as suas ondas;
-quer te acrescentes como novo astro aos meses lentos,
-onde se abre um lugar entre Erígone e as Pinças que a seguem
-(o ardente Escorpião já retrai para ti os braços
-e te cedeu mais que a justa porção do céu);
-o que quer que venhas a ser — pois nem o Tártaro te espera como rei,
-nem te venha tão funesto desejo de reinar,
-ainda que a Grécia admire os campos Elísios
-e Perséfone, reclamada pela mãe, não queira segui-la —,
-dá-me curso fácil e aprova minha empresa ousada;
-compadece-te comigo dos lavradores que ignoram o caminho,
-vem e desde já habitua-te a ser invocado em preces.
-No começo da primavera, quando a umidade gelada
-se derrete nos montes brancos e o torrão fofo se desfaz ao Zéfiro,
-que já então o touro comece, sob o arado fincado,
-a gemer para mim, e a relha brilhe de tanto roçar no sulco.
-Só corresponde aos votos do lavrador ávido
-a seara que sentiu duas vezes o sol e duas vezes o frio;
-suas colheitas imensas arrebentaram os celeiros.
-E antes que rasguemos com o ferro uma extensão de terra desconhecida,
-devemos conhecer de antemão os ventos e as mudanças do céu,
-os cultivos tradicionais e as características dos lugares,
-o que cada região produz e o que recusa.
-Aqui crescem melhor os cereais; ali, as uvas;
-noutros lugares, os frutos das árvores, e verdejam espontâneas
-as ervas. Não vês como o Tmolo envia perfumes de açafrão,
-a Índia, marfim, os delicados sabeus, seu incenso,
-os cálibes nus, ferro, o Ponto, o castóreo
-de cheiro forte, e o Epiro, éguas vencedoras em Élis?
-Desde o princípio, a natureza impôs a lugares determinados
-essas leis e pactos eternos, desde o tempo em que
-Deucalião lançou pedras no mundo despovoado,
-das quais nasceram os homens, raça dura. Vamos, portanto:
-que desde os primeiros meses do ano os touros fortes
-revirem logo o solo fértil, e que o verão poeirento
-coza os torrões expostos sob o sol que amadurece.
-Mas, se a terra não for fecunda, bastará, perto
-de Arcturo, revolvê-la num sulco raso:
-lá, para que as ervas não prejudiquem as searas viçosas;
-aqui, para que a escassa umidade não abandone a areia estéril.`.split('\n'),
-};
+// Compatibilidade com o leitor anterior durante a publicação.
+export const translations = {};
 
 // Glosas na ordem do latim, uma por palavra, a partir de I.7.
 export const wordGlosses = {
@@ -767,6 +702,33 @@ export const openingEntries = {
 
 export const readingPassages = {
   1: {
+    1: [6, 'Começarei a cantar o que torna viçosas as searas, sob que astro convém revolver a terra, ó Mecenas, e unir as videiras aos olmos, que cuidados pedem os bois, que trato requer a criação do gado e quanta perícia exigem as abelhas frugais. Ó vós, claríssimos luminares do mundo, que conduzis pelo céu o ano que desliza,'],
+    7: [23, "Baco e nutriz Ceres, se por dádiva vossa a terra trocou a bolota da Caônia pela espiga farta, e misturou às taças de Aqueloo o sumo das uvas descobertas; e vós, Faunos, divindades que assistis aos camponeses (vinde dançar juntos, Faunos e donzelas Dríades: canto vossos dons); e tu, para quem a terra, ferida pelo grande tridente, fez brotar o primeiro cavalo relinchante, Netuno; e tu, habitante dos bosques, para quem trezentos novilhos brancos pastam nos matos férteis de Ceos; e tu mesmo, deixando o bosque natal e os pastos do Liceu, Pã, guardião das ovelhas, se te é caro o teu Mênalo, vem propício, ó Tegeu; e Minerva, inventora da oliveira, e o jovem que ensinou o uso do arado curvo, e tu, Silvano, que trazes um cipreste tenro arrancado pela raiz; e todos os deuses e deusas cujo empenho é proteger os campos, vós que fazeis crescer novas searas sem semente e vós que do céu mandais chuva abundante às sementeiras."],
+    24: [35, "E tu, César, a quem em breve acolherá uma assembleia divina — ainda é incerto qual —, quer queiras assumir o cuidado das cidades e das terras, e o vasto mundo te receba como doador de colheitas e senhor das estações, cingindo-te as têmporas com o mirto de tua mãe; quer venhas como deus do mar imenso, e os marinheiros cultuem apenas tua divindade, e a remota Tule te sirva, e Tétis te conquiste por genro ao preço de todas as suas ondas; quer te acrescentes como novo astro aos meses lentos, onde se abre um lugar entre Erígone e as Pinças que a seguem (o ardente Escorpião já retrai para ti os braços e te cedeu mais que a justa porção do céu);"],
+    36: [42, "o que quer que venhas a ser — pois nem o Tártaro te espera como rei, nem te venha tão funesto desejo de reinar, ainda que a Grécia admire os campos Elísios e Perséfone, reclamada pela mãe, não queira segui-la —, dá-me curso fácil e aprova minha empresa ousada; compadece-te comigo dos lavradores que ignoram o caminho, vem e desde já habitua-te a ser invocado em preces."],
+    43: [46, "No começo da primavera, quando a umidade gelada se derrete nos montes brancos e o torrão fofo se desfaz ao Zéfiro, que já então o touro comece, sob o arado fincado, a gemer para mim, e a relha brilhe de tanto roçar no sulco."],
+    47: [49, "Só corresponde aos votos do lavrador ávido a seara que sentiu duas vezes o sol e duas vezes o frio; suas colheitas imensas arrebentaram os celeiros."],
+    50: [53, "E antes que rasguemos com o ferro uma extensão de terra desconhecida, devemos conhecer de antemão os ventos e as mudanças do céu, os cultivos tradicionais e as características dos lugares, o que cada região produz e o que recusa."],
+    54: [59, "Aqui crescem melhor os cereais; ali, as uvas; noutros lugares, os frutos das árvores, e verdejam espontâneas as ervas. Não vês como o Tmolo envia perfumes de açafrão, a Índia, marfim, os delicados sabeus, seu incenso, os cálibes nus, ferro, o Ponto, o castóreo de cheiro forte, e o Epiro, éguas vencedoras em Élis?"],
+    60: [66, "Desde o princípio, a natureza impôs a lugares determinados essas leis e pactos eternos, desde o tempo em que Deucalião lançou pedras no mundo despovoado, das quais nasceram os homens, raça dura. Vamos, portanto: que desde os primeiros meses do ano os touros fortes revirem logo o solo fértil, e que o verão poeirento coza os torrões expostos sob o sol que amadurece."],
+    67: [70, "Mas, se a terra não for fecunda, bastará, perto de Arcturo, revolvê-la num sulco raso: lá, para que as ervas não prejudiquem as searas viçosas; aqui, para que a escassa umidade não abandone a areia estéril."],
+    71: [76, 'Em anos alternados, deixa repousar os pousios ceifados e permite que o campo ocioso endureça com o abandono. Ou, mudada a estação, semeia ali a espelta dourada, de onde antes colheste a leguminosa viçosa de vagens que chocalham, os brotos delgados da ervilhaca ou os caules frágeis do tremoço amargo, um matagal rumoroso.'],
+    77: [83, 'A cultura do linho esgota o campo, e a da aveia também. Esgotam-no igualmente as papoulas embebidas no sono do Lete. Ainda assim, a alternância facilita o trabalho, contanto que não te envergonhes de saturar os solos secos com esterco gordo nem de espalhar cinza suja pelos campos exaustos. Assim, mudando as culturas, os campos descansam, e a terra que fica sem arar também rende proveito.'],
+    84: [93, 'Muitas vezes também foi proveitoso incendiar os campos estéreis e queimar a palha leve em chamas crepitantes. Talvez assim a terra absorva forças ocultas e ricos nutrientes, ou o fogo consuma os defeitos do solo e faça exsudar a umidade inútil. Talvez aquele calor abra mais vias e passagens ocultas por onde a seiva chegue às ervas novas. Ou talvez endureça o solo e contraia seus canais abertos, para que não o queimem as chuvas finas, o ardor mais forte do sol impetuoso ou o frio penetrante de Bóreas.'],
+    94: [99, 'Muito beneficia os campos quem quebra com rastelos os torrões compactos e arrasta grades de vime. A loura Ceres o contempla do alto Olimpo, e seu olhar não é em vão. Também beneficia os campos quem volta a romper de través, guiando o arado em outra direção, os lombos que a primeira lavra levantou na superfície, e assim trabalha assiduamente a terra e domina os campos.'],
+    100: [103, 'Rogai, lavradores, por solstícios úmidos e invernos serenos. Com o pó do inverno, a espelta é viçosíssima e o campo prospera. A Mísia de nenhum cultivo tanto se gaba, e a própria Gárgara se admira de suas colheitas.'],
+    104: [110, 'Que direi daquele que, mal lança a semente, vem logo atrás pelo campo e derruba os montes de areia pouco fértil? Depois conduz às sementeiras o rio e os regatos que o seguem. Quando o campo abrasado arde e as ervas murcham, eis que ele faz correr água da borda de um caminho inclinado. Ao cair, ela faz soar um murmúrio rouco entre as pedras lisas, e suas borbulhas refrescam os campos ressequidos.'],
+    111: [117, 'E que dizer daquele que, para o colmo não tombar sob o peso das espigas, deixa o gado pastar o excesso das searas quando os brotos ainda tenros mal chegam à altura dos sulcos? E daquele que drena pela areia porosa a umidade acumulada no pântano? Isso é especialmente necessário quando, em meses incertos, o rio transborda e cobre tudo de lama, da qual as poças fundas exsudam umidade morna.'],
+    118: [124, 'Mesmo depois de homens e bois provarem esses trabalhos ao revolver a terra, ainda causam dano o ganso voraz, os grous do Estrímon e a chicória de raízes amargas. Até a sombra faz mal. O próprio Pai quis que o caminho do cultivo fosse difícil. Foi o primeiro a fazer trabalhar os campos com técnica, aguçando com cuidados os corações mortais, e não deixou seus domínios entorpecerem numa pesada letargia.'],
+    125: [128, 'Antes de Júpiter, nenhum lavrador trabalhava os campos. Nem sequer era lícito demarcar ou dividir a terra com limites. Buscavam tudo em comum e a própria terra, sem que ninguém lhe pedisse, produzia tudo com maior abundância.'],
+    129: [132, 'Ele pôs veneno nocivo nas serpentes negras, mandou que os lobos caçassem e que o mar se agitasse. Sacudiu o mel das folhas, retirou o fogo e represou o vinho que corria por toda parte em riachos.'],
+    133: [135, 'Tudo isso para que a prática, pela reflexão, forjasse pouco a pouco as diversas técnicas, procurasse nos sulcos o broto do cereal e arrancasse dos veios da sílex o fogo oculto.'],
+    136: [146, 'Então os rios sentiram pela primeira vez os amieiros escavados. O marinheiro deu números e nomes às estrelas, as Plêiades, as Híades e a brilhante Ursa de Licáon. Descobriu-se como capturar feras com laços, enganá-las com visco e cercar vastos bosques com cães. Um já lança a rede no rio largo, buscando as águas profundas. Outro puxa do mar as redes molhadas. Vieram a dureza do ferro e a lâmina da serra estridente, pois os primeiros homens rachavam a madeira com cunhas. Vieram então diversas técnicas. Tudo venceram o trabalho incansável e a necessidade que aperta em circunstâncias duras.'],
+    147: [154, 'Ceres foi a primeira a ensinar os mortais a revolver a terra com o ferro, quando já faltavam as bolotas e os frutos do medronheiro no bosque sagrado e Dodona negava sustento. Logo mais trabalho se acrescentou ao cultivo dos cereais, pois a ferrugem daninha comia os colmos e o cardo improdutivo se eriçava nos campos. Perecem as searas, ergue-se um matagal áspero de bardanas e abrolhos, e entre as plantações viçosas dominam o joio nocivo e a aveia estéril.'],
+    155: [159, 'Se não perseguires as ervas com rastelos incessantes, espantares as aves com ruído, reduzires com a foice as sombras do campo e invocares a chuva em preces, ai, contemplarás em vão o grande monte de grãos de outro e aliviarás a fome nos bosques sacudindo o carvalho.'],
+    160: [168, 'Cumpre dizer também quais são os instrumentos dos lavradores calejados, sem os quais as searas não poderiam ser semeadas nem crescer. Primeiro, a relha e a pesada madeira do arado curvo. Depois, os lentos carros rodantes da mãe de Elêusis, os trilhos de debulha, as grades e os rastelos de peso desigual. Além disso, os humildes utensílios de vime de Celeu, as grades de medronheiro e a joeira mística de Iaco. Prepara e guarda atentamente tudo isso com bastante antecedência, se te aguarda a merecida glória do campo divino.'],
+    169: [175, 'Logo no bosque se curva à força o olmo até que tome a forma da peça curva do arado. Desde a base estende-se um timão de oito pés. Ajustam-se duas orelhas e os suportes da relha ao dorso duplo. Corta-se também de antemão a tília leve para o jugo, e a faia alta para a rabiça que dirige o arado por trás. Suspensas sobre as lareiras, as peças de madeira são postas à prova pela fumaça.'],
+    176: [182, 'Posso referir-te muitos preceitos dos antigos, se não te esquivares e não te aborrecer conhecer cuidados minuciosos. Antes de tudo, nivela a eira com um rolo enorme, revolve-a à mão e firma-a com argila aderente, para que não brotem ervas nem se esfarele em pó. Do contrário, várias pragas fazem estragos. Muitas vezes o pequeno rato instala moradas debaixo da terra e constrói celeiros.'],
     183: [186, 'Ou as toupeiras cegas cavam suas tocas. Nas cavidades encontra-se o sapo e toda sorte de criaturas que a terra produz. O gorgulho devasta o enorme monte de espelta, e a formiga faz o mesmo, temendo uma velhice de privações.'],
     187: [192, 'Observa também quando as nogueiras nos bosques se cobrem de flores e curvam os ramos perfumados. Se os frutos vingarem em abundância, também virão cereais em profusão, e com o grande calor chegará uma grande debulha. Mas, se a folhagem exuberante só der sombra, a eira, coberta de palha, trilhará os colmos em vão.'],
     193: [200, 'Vi muitos semeadores tratarem as sementes, embebendo-as primeiro em natrão e em borra negra de azeite, para que o grão crescesse mais nas vagens enganosas e, mesmo apressado em fogo brando, amolecesse. Vi também sementes selecionadas por muito tempo e examinadas com grande esforço degenerarem quando o homem deixava de escolher à mão, a cada ano, as maiores. Assim, por força do destino, tudo tende a piorar, declina e recua.'],
