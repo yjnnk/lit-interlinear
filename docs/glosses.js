@@ -567,6 +567,57 @@ as armas|empunham|enfurece-se|todo|Marte|ímpio|no mundo
 como|quando|das barreiras|se|precipitaram|as quadrigas
 aceleram|pelas|pistas|e|em vão|as rédeas|puxando
 é arrastado|pelos cavalos|o cocheiro|nem|obedece|o carro|às rédeas`.split('\n').map(line => line.split('|')),
+  2: `até aqui|dos campos|o cultivo|e|os astros|do céu
+agora|a ti|ó Baco|cantarei|e não|menos|silvestres|contigo
+os arbustos|e|a prole|lentamente|crescente|da oliveira
+para cá|pai|ó|Leneu|de teus|aqui|todas as coisas|cheias
+dons|para ti|de pâmpanos|carregado|no outono
+floresce|o campo|espuma|nas cheias|a vindima|cubas
+para cá|pai|ó|Leneu|vem|e desnudas|com mosto
+tinge|novo|comigo|retirados|as pernas|os coturnos
+primeiro|para as árvores|diversa|é|a natureza|ao nascerem
+pois|umas|sem que ninguém|dentre os homens|as force|por si mesmas
+por impulso|próprio|nascem|e os campos|e|os rios|largamente
+sinuosos|ocupam|como|macio|o vimeiro|e flexíveis|as giestas
+o álamo|e|azulada|esbranquiçados|na folhagem|os salgueirais
+parte|porém|depositada|brota|de|semente|como|altos
+castanheiros|e dos bosques|para Júpiter|que|maior|viceja
+o carvalho|e|tidos|pelos gregos|por oráculos|os carvalhos
+brota|da|raiz|de outras|densíssima|mata
+como|das cerejeiras|e dos olmos|também|parnasiano|o loureiro
+pequeno|sob|enorme|da mãe|se|coloca|sombra
+esses|a natureza|modos|primeiro|deu|por eles|o gênero|todo
+de bosques|e arbustos|verdeja|e de arvoredos|sagrados
+há|outros|que|ela própria|por método|para si|descobriu|a prática
+um|mudas|tenro|cortando|do|corpo|das mães
+depositou|nos sulcos|outro|estacas|enterrou|no campo
+e fendidas em quatro|estacas|e|afiada|de madeira|mourões
+e dos bosques|outras|enterrados|da mergulhia|os arcos
+esperam|e|vivos|seus|rebentos|na terra
+nada|de raiz|precisam|outras|e o extremo|o podador
+não|hesita|à terra|levando de volta|em confiar|o ápice
+mais ainda|também|dos troncos|cortados|admirável|de dizer
+irrompe|de|seca|a raiz|da oliveira|madeira
+e|muitas vezes|de uma|os ramos|sem dano|vemos
+transformar-se|em|de outra|e mudada|enxertadas|maçãs
+dar|a pereira|e|com ameixas|duros como pedra|enrubescer|os frutos do corno
+por isso|vamos|ó|próprios|por espécie|aprendei|os cultivos
+lavradores|e os frutos|silvestres|suavizai|cultivando
+nem|ociosas|jazam|as terras|agrada|o Ísmaro|de Baco
+plantar|e|com oliveira|o grande|vestir|Taburno
+e tu|vem|e iniciado|junto comigo|percorre|o trabalho
+ó|glória|ó|da fama|com razão|parte|maior|nossa
+Mecenas|e ao mar|voando|dá|as velas|aberto
+não|eu|tudo|nos meus|abarcar|versos|desejo
+não|para mim|se|línguas|cem|houvesse|e bocas|cem
+de ferro|a voz|vem|e|da primeira|costeia|da costa|a orla
+ao alcance|das mãos|as terras|não|aqui|a ti|em canto|inventado
+e|por|rodeios|e|longas|introduções|reterei
+por impulso|próprio|as que|se|erguem|para|da luz|as regiões
+improdutivas|de fato|mas|viçosas|e|fortes|crescem
+pois|no solo|a natureza|está presente|contudo|essas|também|se|alguém
+enxertar|ou|em covas|confiar|transplantadas|revolvidas`.split('\n').map(line => line.split('|')),
+
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -785,6 +836,17 @@ export const readingPassages = {
     498: [504, 'Deuses pátrios, Indígetes, Rômulo e mãe Vesta, que guardas o Tibre toscano e os Palácios de Roma, deixai ao menos que este jovem socorra uma geração arruinada. Há muito já expiamos com nosso sangue os perjúrios da Troia de Laomedonte. Há muito, César, a morada régia do céu nos inveja tua presença e se queixa de que te ocupes dos triunfos dos homens.'],
     505: [514, 'Aqui se invertem o justo e o injusto. Há tantas guerras pelo mundo, tantas formas de crime e nenhuma honra digna do arado. Os campos definham, pois os lavradores foram arrebatados, e as foices curvas são fundidas em espadas rígidas. De um lado o Eufrates move guerra, do outro a Germânia. Cidades vizinhas rompem suas leis mútuas e empunham armas. Marte ímpio enfurece-se no mundo inteiro. É como quando as quadrigas irrompem das barreiras e aceleram pela pista. O cocheiro puxa as rédeas em vão, arrastado pelos cavalos, e o carro já não lhe obedece.'],
   },
+  2: {
+    1: [3, 'Até aqui cantei o cultivo dos campos e os astros do céu. Agora cantarei a ti, ó Baco, e contigo os arbustos silvestres e a prole da oliveira que cresce devagar.'],
+    4: [8, 'Vem cá, ó pai Leneu. Aqui tudo está cheio de teus dons. Para ti floresce o campo, carregado de pâmpanos no outono, e a vindima espuma nas cubas cheias. Vem, ó pai Leneu, tira os coturnos e tinge comigo as pernas nuas no mosto novo.'],
+    9: [19, 'Primeiro, as árvores nascem de modos diversos. Umas brotam espontaneamente, sem intervenção humana, e ocupam vastos campos e as margens dos rios sinuosos, como o vimeiro macio, as giestas flexíveis, o álamo e os salgueirais de folhagem azulada e esbranquiçada. Outras brotam da semente que cai no chão, como os altos castanheiros, o carvalho que entre as árvores do bosque cresce mais frondoso para Júpiter e os carvalhos que os gregos tinham por oráculos. Da raiz de outras brota um matagal densíssimo, como acontece com as cerejeiras e os olmos. Até o pequeno loureiro do Parnaso cresce sob a sombra imensa da mãe.'],
+    20: [25, 'A natureza deu primeiro esses modos, pelos quais vicejam bosques, arbustos e arvoredos sagrados de toda espécie. Há outros que a própria prática descobriu por método. Um homem corta mudas do corpo tenro das plantas-mães e as deposita nos sulcos. Outro enterra no campo estacas, varas fendidas em quatro e mourões de madeira afiada.'],
+    26: [34, 'Outras árvores do bosque esperam que se enterrem os ramos curvados para a mergulhia e produzem na própria terra rebentos vivos. Outras dispensam raízes, e o podador não hesita em confiar à terra a própria ponta que tirou da árvore. Mais ainda, coisa admirável de dizer, de troncos cortados e secos irrompe a raiz da oliveira. Muitas vezes vemos ramos de uma árvore passarem sem dano a outra. Vemos a pereira transformada pelo enxerto dar maçãs e os frutos duros do corno enrubescerem com o enxerto de ameixas.'],
+    35: [41, 'Vamos, lavradores, aprendei o cultivo próprio de cada espécie, suavizai pelo cultivo os frutos silvestres e não deixeis as terras ociosas. É prazeroso plantar de videiras o Ísmaro e vestir de oliveiras o grande Taburno. E tu, Mecenas, vem percorrer comigo o trabalho já começado, ó glória, com razão a maior parte da minha fama. Lança veloz as velas ao mar aberto.'],
+    42: [46, 'Não desejo abarcar tudo em meus versos, ainda que eu tivesse cem línguas, cem bocas e voz de ferro. Vem e costeia a orla do primeiro litoral. A terra está ao alcance das mãos. Aqui não te reterei com canto inventado, rodeios e longos preâmbulos.'],
+
+  },
+
 };
 
 // Formas expandidas para os lemas no contexto de I.183–232.
