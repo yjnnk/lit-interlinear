@@ -147,7 +147,7 @@ async function render() {
       const parts = annotations[index]?.[position];
       const definition = entries[parts?.[0]?.[3]]?.[2][0];
       const shortDefinition = definition?.split(/[,.;]/)[0]?.trim();
-      const translation = gloss?.[0] ?? wordGlosses[book]?.[verse - 7]?.[position];
+      const translation = gloss?.[0] ?? wordGlosses[book]?.[verse - (book === 1 ? 7 : 1)]?.[position];
       if (translation || shortDefinition) word.append(element('small', translation ?? shortDefinition));
       word.addEventListener('click', () => {
         selected?.setAttribute('aria-pressed', 'false');
