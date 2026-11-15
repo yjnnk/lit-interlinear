@@ -616,7 +616,499 @@ e|por|rodeios|e|longas|introduções|reterei
 por impulso|próprio|as que|se|erguem|para|da luz|as regiões
 improdutivas|de fato|mas|viçosas|e|fortes|crescem
 pois|no solo|a natureza|está presente|contudo|essas|também|se|alguém
-enxertar|ou|em covas|confiar|transplantadas|revolvidas`.split('\n').map(line => line.split('|')),
+enxertar|ou|em covas|confiar|transplantadas|revolvidas
+despirão|silvestre|o ânimo|e com cultivo|assíduo
+em|quaisquer|queiras|técnicas|nada|lentas|seguirão
+nem|menos|também|estéril|a que|brota|das cepas|desde|mais baixas
+isso|faria|vazios|se|for|distribuída|pelos|campos
+agora|altas|as folhas|e|os ramos|da mãe|fazem sombra
+e à que cresce|tiram|os frutos|e crestam|a que produz
+já|a que|de sementes|lançadas|se|ergueu|a árvore
+lenta|vem|tardios|para dar|aos netos|sombra
+e os frutos|degeneram|os sabores|esquecidos|anteriores
+e|ruim|às aves|como presa|oferece|a videira|os cachos
+decerto|a todas|é|trabalho|a dedicar|e|todas
+a conduzir|ao|sulco|e|com grande|dispêndio|a domar
+mas|por troncos|as oliveiras|melhor|por mergulhia|as videiras
+respondem|sólido|de Pafos|de|madeiro|o mirto
+por mudas|as duras|aveleiras|nascem|também|enorme
+o freixo|e de Hércules|a árvore|sombria|da coroa
+e do caônio|Pai|as bolotas|também|alta|a palmeira
+nasce|e|os azares|o abeto|que verá|marinhos
+enxerta-se|porém|também|com broto|da nogueira|o medronheiro|áspero
+e|estéreis|os plátanos|macieiras|produziram|vigorosas
+os castanheiros|faias|e o freixo|embranqueceu|com branca
+flor|da pereira|e bolota|os porcos|quebraram|sob|olmos
+nem|o método|de enxertar|e|gemas|de inserir|é único
+pois|onde|se|do meio|forçam a sair|da|casca|os brotos
+e|finas|rompem|películas|estreita|no|próprio
+nó|faz-se|uma cavidade|aqui|de outra|de|árvore|um broto
+inserem|e na úmida|ensinam|a crescer|entre-casca
+ou|por sua vez|sem nós|os troncos|são recortados|e|fundo
+abre-se|em|madeira maciça|com cunhas|um caminho|depois|férteis
+mudas|são inseridas|e não|longo|o tempo|e|enorme
+ergueu-se|para|o céu|com ramos|férteis|a árvore
+e admirou|novas|folhas|e|não|seus|frutos
+além disso|a espécie|não|única|nem|aos robustos|olmos
+nem|ao salgueiro|e ao lótus|nem|do Ida|aos ciprestes
+nem|gordas|única|em|aparência|nascem|as azeitonas
+as órquades|e|as rádias|e|amarga|a pásia|de baga
+e os frutos|e|de Alcínoo|os arvoredos|nem|o rebento|o mesmo
+de Crustumério|e sírias|às peras|e pesadas|às de encher a mão
+não|a mesma|nos suportes|pende|a vindima|nossos
+que|de Metimna|colhe|do|sarmento|Lesbos
+há|de Tasos|videiras|há|também|mareóticas|brancas
+férteis|estas|às terras|adaptadas|às mais leves|aquelas
+e|para vinho de passas|a psítia|mais útil|e leve|a lágeos
+que há de subjugar|os pés|um dia|e prender|a língua
+as purpúreas|e as précicas|e|em que|a ti|canto|direi
+rética|nem|com adegas|por isso|disputes|falernas
+há|também|aminéias|videiras|os mais firmes|vinhos
+o tmólio|se levanta|diante dos quais|e|rei|o próprio|faneu
+e a argítide|menor|com a qual|não|competirá|nenhuma
+ou|tanto|em manar|ou|outros tantos|durar|por|anos
+não|eu|a ti|aos deuses|e|às mesas|grata|segundas
+deixaria de mencionar|ródita|e|inchados|ó bumasto|pelos cachos
+mas|nem|quão|numerosas|as espécies|nem|os nomes|quais|são
+há|conta|nem|pois|em número|abarcar|importa
+o qual|quem|saber|quisesse|do líbio|quisesse|mar|o mesmo
+dizer|quão|numerosas|pelo Zéfiro|são revolvidas|as areias
+ou|quando|contra os navios|mais violento|se lança|o Euro
+saber|quantas|jônias|chegam|às|praias|ondas
+nem|de fato|as terras|produzir|todas|tudo|podem
+nos rios|os salgueiros|e nos espessos|pântanos|os amieiros
+nascem|estéreis|nos rochosos|montes|os freixos
+as praias|para mirtos|fertilíssimas|por fim|abertas
+Baco|ama|as colinas|o Aquilão|e|o frio|os teixos
+observa|também|pelos remotos|domado|cultivadores|o mundo
+e orientais|as moradas|dos árabes|e tatuados|os gelonos
+distribuídas|pelas árvores|as pátrias|só|a Índia|negro
+produz|ébano|só|há|de incenso|vara|para os sabeus
+por que|a ti|perfumada|mencionaria|que exsudam|da madeira
+e os bálsamos|e|as bagas|sempre|verde|do acanto
+por que|os bosques|dos etíopes|macia|brancos|de lã
+e os velos|como|das folhas|penteiam|finos|os seres
+ou|que|do Oceano|mais próxima|produz|a Índia|bosques
+extremo|recanto|do mundo|onde|o ar|ultrapassar|o topo
+da árvore|nem|quaisquer|com o disparo|puderam|flechas
+e|povo|aquele|decerto|tomadas|não|lento|as aljavas
+a Média|produz|amargos|sucos|e persistente|sabor
+da salutar|maçã|que|não|mais eficaz|nenhum
+as taças|se|alguma vez|cruéis|envenenaram|madrastas
+e misturaram|ervas|e|não|inócuas|palavras
+remédio|vem|e|dos membros|expulsa|negros|venenos
+ela própria|enorme|a árvore|e no aspecto|muito semelhante|ao loureiro
+e|se|não|outro|por toda parte|espalhasse|odor
+um loureiro|seria|as folhas|não|com quaisquer|caindo|ventos
+a flor|até|o extremo|tenaz|o hálito|e|malcheirosas|os medos
+as bocas|refrescam|com ele|e|aos velhos|medicam|ofegantes
+mas|nem|dos medos|os bosques|riquíssima|terra
+nem|o belo|Ganges|e|de ouro|turvo|o Hermo
+com os louvores|da Itália|rivalizem|nem|Bactra|nem|os indianos
+e toda|de incenso|a Pancaia|fértil|em areias
+estes|lugares|não|touros|expelindo|pelas narinas|fogo
+revolveram|semeados|de enorme|com dentes|dragão
+nem|de elmos|e densas|de homens|a seara|eriçou-se|de lanças
+mas|pesadas|as searas|e|de Baco|do Másico|o licor
+encheram|ocupam|as oliveiras|e os rebanhos|viçosos
+daqui|guerreiro|o cavalo|ao campo|se|erguido|lança
+daqui|brancos|ó Clituno|os rebanhos|e|a maior|o touro
+vítima|muitas vezes|em tua|banhados|corrente|sagrada
+romanos|aos|templos|dos deuses|conduziram|triunfos
+aqui|primavera|contínua|e|em alheios|meses|verão
+duas vezes|prenhes|os rebanhos|duas vezes|em frutos|produtiva|a árvore
+mas|raivosos|os tigres|estão ausentes|e|ferozes|de leões
+as crias|nem|infelizes|enganam|os acônitos|os que os colhem
+nem|traça|imensos|círculos|pela|terra|nem|tão grande
+escamosa|em|espiral|comprimento|se|enrola|a serpente
+acrescenta|tantas|ilustres|cidades|e das obras|o esforço
+tantas|erguidas|à mão|em escarpados|cidadelas|rochedos
+e rios|antigas|por baixo|correndo|muralhas
+ou|o mar|que|acima|mencionaria|e o que|banha|abaixo
+ou|lagos|tão grandes|a ti|ó Lário|imenso|e a ti
+com ondas|e|estrondo|erguendo-te|ó Benaco|marinho
+ou|mencionaria|os portos|e ao Lucrino|acrescentadas|as barreiras
+e|indignado|com grandes|estridores|o mar
+Júlia|onde|no mar|ao longe|ressoa|a onda|repelido
+e tirrena|às águas|é lançada|a maré|do Averno
+esta|mesma|de prata|veios|e de bronze|minas
+mostrou|nas veias|e|em ouro|abundantíssima|correu
+esta|raça|vigorosa|de homens|os marsos|e a juventude|sabélica
+e habituado|à dureza|o lígure|e os volscos|armados de dardos
+gerou|esta|os Décios|os Mários|e os grandes|Camilos
+os Cipiões|duros|na guerra|e|a ti|ó maior|César
+que|agora|extremas|da Ásia|já|vitorioso|nas|costas
+desarmado|afastas|das romanas|fortalezas|o indo
+salve|grande|mãe|de frutos|satúrnia|terra
+grande|de homens|para ti|feitos|de antiga|glória|e|a arte
+empreendo|sagradas|ousando|reabrir|as fontes
+e de Ascra|canto|romanas|pelas|cidades|a canção
+agora|é a vez|dos campos|das qualidades|quais|forças|a cada um
+qual|cor|e|qual|seja|para produtos|a natureza|a produzir
+difíceis|primeiro|as terras|e as colinas|ingratas
+fina|onde|a argila|e|nos espinhosos|o cascalho|campos
+de Palas|se comprazem|no bosque|da longeva|oliveira
+de indício|serve|na extensão|brotando|a oliveira brava|mesma
+abundantíssima|e|cobertos|de bagas|silvestres|os campos
+mas|a que|gorda|a terra|e de doce|pela umidade|viçosa
+e o que|abundante|em ervas|e|fértil|em seiva|o campo
+tal como|muitas vezes|na funda|do monte|depressão|costumamos
+avistar de cima|para cá|das altas|descem|rochas|os rios
+e fértil|arrastam|limo|e o que|exposto|ao Austro
+e|a samambaia|hostil|nutre|aos curvos|arados
+este|para ti|vigorosíssimas|um dia|e abundante|que manam
+fornecerá|de vinho|videiras|este|fértil|de uva
+este|de licor|tal como|em taças|libamos|e|em ouro
+soprou|quando|robusto|o marfim|o tirreno|junto|aos altares
+e|em pratos|curvos|fumegantes|oferecemos|as entranhas
+se porém|os rebanhos|mais|é teu empenho|e os bezerros|cuidar
+ou|das ovelhas|a prole|ou|que devoram|as plantações|as cabrinhas
+os pastos|e|da rica|busca|as terras distantes|Tarento
+e|tal como|infeliz|perdeu|Mântua|um campo
+que alimentava|brancos como neve|no herboso|rio|cisnes
+não|límpidas|aos rebanhos|fontes|não|ervas|faltarão
+e|quanto|nos longos|pastarão|os rebanhos|dias
+na breve|outro tanto|frio|o orvalho|na noite|reporá
+negra|em geral|e|pressionada|gorda|sob|a relha|a terra
+e|que tem|fofo|o solo|pois|isto|imitamos|arando
+ótima|para cereais|não|de nenhum|de|campo|verás
+mais|para casa|retornarem|carros|com lentos|novilhos
+ou|de onde|irado|o bosque|removeu|o lavrador
+e|os arvoredos|derrubou|muitos|ociosos|por|anos
+e antigas|moradas|das aves|com|as raízes|mais fundas
+arrancou|elas|o alto|buscaram|dos ninhos|abandonados
+mas|inculto|brilhou|impelida|a relha|o campo
+pois|pobre|decerto|inclinado|o cascalho|do campo
+mal|rasteiras|às abelhas|cássias|e orvalho|fornece
+e|o tufo|áspero|e|por negras|escavada|serpentes
+a cré|dizem que não|outros|igualmente|às serpentes|campos
+doce|produzem|alimento|e|curvos|oferecem|esconderijos
+a que|fina|exala|névoa|e vapores|fugazes
+e|bebe|a umidade|e|quando|quer|de|si|mesma|solta
+e a que|com sua|sempre|verde|se|erva|veste
+nem|com aspereza|e|salina|danifica|com ferrugem|o ferro
+essa|para ti|de viçosas|entretecerá|com videiras|os olmos
+essa|fértil|em azeite|é|essa|experimentarás|ao cultivar
+e|propícia|ao gado|e|tolerante|da relha|curva
+tal|rica|ara|Cápua|e|vizinha|ao Vesúvio
+a região|à crista|e|às despovoadas|o Clânio|não|propício|Acerras
+agora|de que|cada uma|modo|possas|reconhecer|direi
+porosa|seja|ou|acima de|o normal|se|compacta|investigares
+uma|aos cereais|pois|favorece|outra|a Baco
+compacta|mais|a Ceres|a mais porosa|cada uma|a Lieu
+primeiro|o lugar|escolherás|com os olhos|e fundo|mandarás
+em|solo firme|um poço|cavar|e toda|reporás
+de novo|a terra|e|com os pés|superficiais|nivelarás|as areias
+se|faltarem|porosa|e para o gado|e|para videiras|nutrizes
+mais adequada|a terra fértil|será|mas se|a|seus|poder|recusarem
+voltar|lugares|e|com as covas|sobrará|terra|cheias
+compacto|o campo|torrões|resistentes|e grossos|lombos
+espera|e|com robustos|a terra|lavra|novilhos
+salina|porém|a terra|e|a que|é chamada|amarga
+para os grãos|improdutiva|essa|nem|se torna dócil|ao arar
+nem|para Baco|a variedade|ou|para os frutos|seus|nomes|conserva
+tal|dará|prova|tu|de trançado cerrado|de vime|os cestos
+e os coadores|das prensas|dos enfumaçados|tira|telhados
+aqui|o solo|aquele|ruim|e doces|de|fontes|as águas
+até|encher|sejam apertados|a água|escapará|toda
+decerto|e|grossas|correrão|por|as varas|gotas
+mas|o sabor|a prova|dará|evidente|e|os rostos
+contraídos|dos que provam|com sensação|retorcerá|amarga
+gorda|também|qual|seja|a terra|desta|enfim|maneira
+aprendemos|não|jamais|nas mãos|manuseada|se esfarela
+mas|do pez|à|maneira|aos|dedos|fica pegajosa|ao ser apertada
+úmida|maiores|ervas|alimenta|e ela própria|que o justo
+mais viçosa|ah|demais|não|seja|para mim|fértil|essa
+nem|se|vigorosíssima|nas primeiras|mostre|espigas
+a que|pesada|é|pelo próprio|calada|se|pelo peso|denuncia
+e a que|leve|fácil|é|com os olhos|reconhecer antes|a negra
+e|qual|para cada uma|a cor|mas|maldito|detectar|o frio
+difícil|é|os abetos|somente|e os teixos|nocivos
+às vezes|ou|as heras|revelam|os indícios|negras
+estas coisas|observadas|a terra|muito|antes|lembra-te
+de expor ao calor|e|grandes|com covas|cortar|os montes
+antes|revirados|ao Aquilão|expor|os torrões
+que|viçosa|enterres|de videira|a espécie|os melhores|em fofo
+campos|solo|disso|os ventos|cuidam|e frias|as geadas
+e|afrouxadas|revolvendo|robusto|as glebas|o cavador
+mas|se|a alguns|não|nenhuma|homens|atenção|escapa
+antes|um lugar|semelhante|procuram|onde|primeiro|se prepare
+para as árvores|o viveiro|e|para onde|depois|distribuída|seja levada
+mudada|estranhem|de repente|para que não|as mudas|a mãe
+até|mesmo|do céu|a direção|na|casca|marcam
+para que|em que|cada uma|posição|esteve|de que|lado|os calores
+do sul|suportou|que|costas|voltou|ao polo
+restabeleçam|tanto|nos|tenros|acostumar-se|muito|vale
+nas colinas|ou|no plano|melhor|seja|plantar|a videira
+pergunta|primeiro|se|férteis|os terrenos|demarcares|da planície
+densas|semeia|em|denso|não|menos vigoroso|solo fértil|Baco
+mas se|nos outeiros|inclinado|o solo|e as colinas|suaves
+dá espaço|às fileiras|nem|menos|todo|à|perfeição
+com árvores|plantadas|traçado|o caminho|o limite|se alinhe
+como|muitas vezes|em grande|guerra|quando|longas|as coortes
+desdobrou|a legião|e|no campo|parou|a coluna|aberto
+e alinhadas|as fileiras|e|ao longe|ondula|toda
+com bronze|reluzente|a terra|e ainda não|terríveis|travam
+combates|mas|incerto|em meio|Marte|erra|entre|as armas
+tudo|seja|iguais|em intervalos|medido|dos caminhos
+não|o espírito|somente|para que|nutra|a vista|vazio
+mas|porque|não|de outro modo|forças|dará|a todas|iguais
+a terra|nem|no|espaço livre|poderão|se|estender|os ramos
+talvez|também|para as covas|quais|sejam|as profundidades|perguntes
+ousaria|até|raso|a videira|confiar|a um sulco
+mais fundo|e|bem para dentro|na terra|é fincada|a árvore
+o carvalho|em|primeiro lugar|que|tanto|com a copa|em direção a|as brisas
+celestes|outro tanto|com a raiz|para|o Tártaro|se estende
+por isso|nem|os invernos|a ele|nem|as rajadas|nem|as chuvas
+arrancam|imóvel|permanece|e muitos|descendentes
+muitas|dos homens|atravessando|ao durar|gerações|sobrevive
+então|forte|ao longe|os ramos|e|os braços|estendendo
+para cá|para lá|no centro|ela própria|imensa|sustenta|sombra
+e não|para ti|para|o sol|se inclinem|as vinhas|poente
+nem|entre|as videiras|aveleira|planta|nem|os sarmentos
+do topo|busca|ou|alta|arranca|de|árvore|as mudas
+tão grande|o amor|pela terra|nem|com ferro|fere|embotado
+as mudas|nem|de oliveira|silvestre|enxerta|os troncos
+pois|muitas vezes|incautos|aos pastores|escapa|o fogo
+que|às escondidas|espessa|primeiro|sob|a casca|oculto
+os lenhos|apanha|e à folhagem|subindo|para|a alta
+enorme|ao céu|estrondo|deu|daí|avançando
+pelos|ramos|vitorioso|e pelas|altas|copas|reina
+e|todo|envolve|em chamas|o bosque|e|lança|negra
+ao|céu|de pez|espesso|na treva|uma nuvem
+sobretudo|se|uma tempestade|do|alto|sobre os bosques
+abateu-se|e avoluma|levando|os incêndios|o vento
+isso|quando ocorre|não|da|cepa|têm força|e cortadas|a voltar
+podem|e|no fundo|como antes|reverdecer|da terra
+improdutiva|sobrevive|de folhas|a oliveira brava|amargas
+nem|a ti|tão|prudente|alguém|persuada|conselheiro
+a terra|Bóreas|endurecida|soprando|a revolver
+os campos|com gelo|então|fecha|o inverno|nem|semente|lançada
+gelada|permite|à raiz|fixar-se|na terra
+a melhor|para as vinhas|semeadura|quando|na primavera|rubra
+branca|chega|a ave|às longas|odiada|serpentes
+primeiros|ou|do outono|perto de|os frios|quando|veloz|o Sol
+ainda não|o inverno|alcança|com os cavalos|já|passa|o verão
+a primavera|de fato|à folhagem|dos bosques|a primavera|útil|às matas
+na primavera|incham|as terras|e|fecundas|sementes|pedem
+então|o pai|onipotente|com fecundas|chuvas|Éter
+da esposa|ao|regaço|viçosa|desce|e|todos
+grandioso|nutre|ao grande|unido|corpo|os frutos
+ermos|então|ressoam|de aves|os arbustos|canoras
+e|a Vênus|em determinados|buscam de novo|os rebanhos|dias
+dá à luz|nutriz|o campo|e de Zéfiro|mornas|às brisas
+abrem|as terras|o regaço|abunda|suave|em todas|a umidade
+e aos|novos|sóis|ousam|se|as ervas|sem perigo
+confiar|nem|teme|que se levantam|a parra|os austros
+ou|impelida|do céu|pelos grandes|aquilões|a chuva
+mas|faz sair|os brotos|e|as folhas|desdobra|todas
+não|outros|na primeira|nascente|origem|do mundo
+terem brilhado|os dias|ou outro|terem tido|curso
+eu creria|primavera|aquela|era|primavera|o grande|vivia
+mundo|e|invernais|poupavam|os sopros|os Euros
+quando|primeiros|a luz|os animais|beberam|e de homens
+nascida da terra|a prole|a cabeça|ergueu|dos duros|campos
+e lançadas|as feras|às matas|e|os astros|ao céu
+nem|os seres|este|tenros|poderiam|suportar|esforço
+se|não|tamanho|repouso|passasse|e o frio|e o calor
+entre|e|acolhesse|do céu|a indulgência|as terras
+quanto ao que|resta|quaisquer|enterrares|mudas|pelos|campos
+espalha|com esterco|gordo|e|com muita|lembra de|cobrir|terra
+ou|pedra|porosa|ou|rugosas|enterra|conchas
+por entre|pois|correrão|as águas|e fino|penetrará
+o sopro|e|vigor|ganharão|as plantas|e já|houve
+que|com pedra|por cima|e|de enorme|com o peso|telha
+comprimissem|isso|torrenciais|é proteção|contra|as chuvas
+isso|quando|gretados|de sede|fende|o Cão|ardente|os campos
+as mudas|plantadas|resta|revolver|a terra
+mais vezes|junto|às bases|e|duros|manejar|os enxadões
+ou|pressionada|trabalhar|a terra|sob|a relha|e|mesmas
+guiar|que resistem|entre|as vinhas|os novilhos
+então|leves|as canas|e|de alisada|as hastes|vara
+e de freixo|ajustar|as estacas|e as forquilhas|robustas
+com o apoio|a subir|das quais|e|a desprezar|os ventos
+se habituem|e os altos|a seguir|andaimes|pelos|olmos
+e|enquanto|primeira|com novas|cresce|folhas|a idade
+é preciso poupar|as tenras|e|enquanto|se|viçoso|para|as brisas
+o sarmento|lança|com soltas|pelo|ar limpo|lançado|rédeas
+com o próprio|fio|ainda não|da foice|devem ser tocadas|mas|com recurvas
+devem ser arrancadas|mãos|as folhas|e dentre elas|escolhidas
+depois|quando|já|com vigorosas|abraçados|cepas|os olmos
+tiverem subido|então|apara|as copas|então|os braços|poda
+antes|temem|o ferro|então|enfim|duros
+exerce|comandos|e|os ramos|contém|que se alastram
+devem ser trançadas|cercas|também|e|o gado|todo|contido
+sobretudo|enquanto|a folhagem|tenra|e inexperiente|das provações
+à qual|além de|cruéis|invernos|e do sol|poderoso
+selvagens|os auroques|continuamente|e as corças|perseguidoras
+maltratam|pastam|as ovelhas|e vorazes|as novilhas
+os frios|nem|tanto|branca|endurecidos|pela geada
+ou|opressivo|pesando|sobre rochedos|ressequidos|o verão
+quanto|aqueles|prejudicaram|rebanhos|e do duro|o veneno
+dente|e|pela mordida|marcada|na|cepa|a cicatriz
+não|outra|por|culpa|a Baco|o bode|em todos|os altares
+é sacrificado|e|antigos|entram|em cena|os jogos
+e prêmios|aos talentos|pelos povoados|e|encruzilhadas|ao redor
+os descendentes de Teseu|instituíram|e|entre|as taças|alegres
+macios|nos|prados|untados|saltaram|sobre|odres
+também|não menos|ausônios|de Troia|povo|enviado|os lavradores
+com versos|rudes|brincam|e com riso|solto
+e máscaras|de cascas|tomam|horrendas|escavadas
+e|a ti|ó Baco|invocam|com|cantos|alegres|e para ti
+figurinhas|de|alto|penduram|oscilantes|pinheiro
+daí|toda|abundante|amadurece|a vinha|com frutos
+enchem-se|e os vales|côncavos|e os desfiladeiros|profundos
+e|por onde quer que|o deus|ao redor|a cabeça|moveu|formosa
+portanto|segundo o rito|sua|a Baco|dedicaremos|honra
+com cantos|pátrios|e pratos|e|bolos rituais|levaremos
+e|conduzido|pelo chifre|ficará|sagrado|o bode|junto|ao altar
+e gordas|em|espetos|assaremos|as entranhas|de aveleira
+há|também|aquele|trabalho|para cuidar|das videiras|outro
+do qual|nunca|esgotado|o bastante|há|pois|todo|anualmente
+três vezes e|quatro vezes e|o solo|deve ser fendido|e o torrão|revirados
+sempre|deve ser quebrado|com enxadões|todo|deve ser aliviado
+da folhagem|o arvoredo|volta|aos lavradores|o trabalho|levado|em|círculo
+e|sobre|si|seus|por entre|vestígios|rola|o ano
+e|já|cedo|tardias|depôs|quando|a vinha|folhas
+frio|e|dos bosques|o Aquilão|sacudiu|o ornamento
+já|então|diligente|os cuidados|vindouro|estende|ao|ano
+o lavrador|e|curvo|de Saturno|com o dente|abandonada
+percorre|a videira|aparando|e dá forma|podando
+primeiro|a terra|cava|primeiro|retirados|queima
+os sarmentos|e|os mourões|primeiro|sob|os tetos|recolhe
+por último|colhe|duas vezes|sobre as videiras|avança|a sombra
+duas vezes|a plantação|com densos|cobrem|espinhos|as ervas
+duro|cada um dos dois|trabalho|louva|imensos|os campos
+pequeno|cultiva|e não|menos|também|ásperos|do rusco
+os ramos|pelo|bosque|e|nas margens|fluvial|a cana
+é cortada|e do inculto|ocupa|o cuidado|salgueiral
+já|atadas|as videiras|já|a foice|os arvoredos|depõem
+já|canta|concluídas|o último|o vinhateiro|as fileiras
+deve ser revolvida|contudo|a terra|e o pó|remexido
+e|já|pelas maduras|deve ser temido|Júpiter|uvas
+ao contrário|não|qualquer|há|para as oliveiras|cultivo|nem|elas
+recurva|esperam|a foice|e rastelos|tenazes
+quando|uma vez|se fixaram|nos campos|e as brisas|suportaram
+a própria|às plantas|terra|quando|com dente|é aberta|curvo
+fornece|umidade|e|carregadas|quando|com a relha|searas
+por isso|gorda|e|grata|à Paz|nutre|a oliveira
+as árvores frutíferas|também|logo que|primeiro|os troncos|sentiram|robustos
+e|forças|tiveram|próprias|rumo a|os astros|rapidamente
+com vigor|próprio|se erguem|e de auxílio|não|necessitadas|nosso
+nem|menos|entretanto|de frutos|o arvoredo|todo|se torna pesado
+e cor de sangue|incultos|enrubescem|os pousos das aves|com bagas
+são cortados|os citisos|archotes|o bosque|alto|fornece
+e são alimentados|os fogos|noturnos|e|luz|espalham
+e|hesitam|os homens|em plantar|e|em dedicar|cuidado
+por que|coisas maiores|seguiria|os salgueiros|e baixas|as giestas
+ou|elas|ao gado|folhagem|ou|aos pastores|sombra
+fornecem|e cerca|às sementeiras|e|alimento|ao mel
+e|agrada|ondulante|de buxo|contemplar|o Cítoro
+e do narício|pez|os bosques|agrada|os campos|ver
+não|a rastelos|dos homens|não|a nenhum|sujeitos|cuidado
+os próprios|caucasiano|estéreis|no|cume|bosques
+que|impetuosos|os Euros|sem cessar|quebram e|carregam
+dão|diversos|cada um|frutos|dão|útil|madeira
+para navios|os pinheiros|para casas|e cedro|e ciprestes
+daí|raios|tornearam|para rodas|daí|discos|para carros
+os lavradores|e|curvas|para balsas|fizeram|quilhas
+em varas|os salgueiros|fecundos|em folhas|os olmos
+mas|o mirto|para robustas|hastes|e|bom|na guerra
+o corno|itureus|os teixos|são curvados|em|arcos
+nem|as tílias|leves|ou|ao torno|torneável|o buxo
+não|forma|recebem|e com ferro|são escavados|afiado
+e não|menos|também|torrencial|a onda|leve|flutua sobre|o amieiro
+lançado|no Pó|e não|menos|também|as abelhas|os enxames|abrigam
+e nas cascas|ocas|e da carcomida|azinheira|no ventre
+o que|memorável|igualmente|báquicos|os dons|trouxeram
+Baco|também|para|a culpa|motivos|deu|ele|enfurecidos
+os centauros|pela morte|subjugou|e Reco|e Folo
+e|com grande|Hileu|aos lápitas|cratera|ameaçando
+ó|afortunados|demais|seus|se|bens|conhecessem
+os lavradores|a quem|ela própria|longe|dos discordantes|armamentos
+derrama|do solo|fácil|sustento|justíssima|a terra
+se|não|imensa|pelas portas|a casa|alta|soberbas
+de manhã|dos que saúdam|de toda|vomita|a morada|onda
+nem|variegados|cobiçam|de bela|tartaruga|os batentes
+e bordadas|a ouro|as vestes|e coríntios|bronzes
+branca|nem|com assírio|é tingida|a lã|corante
+nem|com cássia|do líquido|é adulterado|o uso|azeite
+mas|seguro|repouso|e|incapaz|de enganar|a vida
+rica|de recursos|variados|e|em vastas|ócios|propriedades
+grutas|e vivos|lagos|e|frescos|vales
+e mugidos|dos bois|e suaves|sob|a árvore|sonos
+não|faltam|ali|pastos|e|covis|de feras
+e|resistente|aos trabalhos|e ao pouco|acostumada|juventude
+ritos|dos deuses|e veneráveis|pais|derradeiras|entre|eles
+a Justiça|retirando-se|das terras|pegadas|deixou
+a mim|porém|primeiro|doces|antes de|tudo|as Musas
+das quais|os ritos|levo|por enorme|ferido|amor
+acolham|e do céu|os caminhos|e|os astros|mostrem
+eclipses|do sol|variados|e da lua|as provações
+de onde|o tremor|às terras|com que|força|os mares|fundos|incham
+as barreiras|rompidas|e de novo|em|si|mesmos|recuam
+por que|tanto|ao Oceano|se apressam|se|a banhar|os sóis
+invernais|ou|que|às lentas|demora|noites|obsta
+mas se|a estas|para que não|eu possa|da natureza|chegar|partes
+frio|se opuser|ao redor|do peito|o sangue
+os campos|a mim|e|irrigantes|agradem|nos|vales|rios
+rios|eu ame|e bosques|sem glória|ó|onde|os campos
+e o Esperqueu|e|por donzelas|celebrado em bacanais|lacedemônias
+o Taígeto|ó|quem|me|nos frios|vales|do Hemo
+ponha|e|com enorme|dos ramos|proteja|sombra
+feliz|quem|pôde|das coisas|conhecer|as causas
+e|os medos|todos|e|inexorável|o destino
+submeteu|aos pés|e o estrondo|do Aqueronte|avaro
+afortunado|também|aquele|os deuses|que|conhece|rurais
+e Pã|e Silvano|velho|e as ninfas|irmãs
+a ele|não|do povo|os fasces|não|a púrpura|dos reis
+dobrou|e|desleais|agitando|a discórdia|irmãos
+ou|conjurado|descendo|o dácio|do|Istro
+não|os negócios|romanos|e destinados a perecer|os reinos|nem|ele
+ou|sofreu|compadecendo-se|do pobre|ou|invejou|quem tem
+os que|os ramos|frutos|os que|eles próprios|de bom grado|os campos
+por impulso|próprio|deram|colheu|nem|férreas|leis
+e insano|o fórum|ou|do povo|os arquivos|viu
+agitam|outros|a remos|estreitos|cegos|e precipitam-se
+contra|o ferro|penetram|os palácios|e|os limiares|dos reis
+este|ataca|com destruição|a cidade|e infelizes|os penates
+para que|de gema|beba|e|em tíria|durma|púrpura
+esconde|riquezas|outro|e sobre enterrado|deita-se|ouro
+este|pasma|atônito|na tribuna|a este|o aplauso|boquiaberto
+pelas|arquibancadas|redobrado|de fato|e da plebe|e dos senadores
+arrebatou|alegram-se|banhados|em sangue|dos irmãos
+e pelo exílio|as casas|e|doces|os limiares|trocam
+e|outro|a pátria|buscam|sob|sol|situada
+o lavrador|com curvo|a terra|revolveu|arado
+este|do ano|o trabalho|daí|a pátria|e os pequenos|netos
+sustenta|daí|os rebanhos|de bois|e os merecedores|novilhos
+nem|repouso|sem que|ou|de frutos|transborde|o ano
+ou|de crias|do gado|ou|de Ceres|de feixes|de colmos
+e em abundância|carregue|os sulcos|e|os celeiros|supere
+vem|o inverno|é moída|de Sícion|a azeitona|nos moinhos
+de bolotas|os porcos|alegres|voltam|dão|medronhos|os bosques
+e|variados|depõe|frutos|o outono|e|no alto
+madura|nos|ensolarados|amadurece|a vindima|rochedos
+enquanto isso|queridos|pendem|ao redor|dos beijos|os filhos
+casta|a pudicícia|guarda|a casa|os úberes|as vacas
+leitosos|abaixam|e gordos|na|erva|viçosa
+entre|si|opostos|lutam|com os chifres|os cabritos
+ele próprio|os dias|celebra|festivos|e estendido|pela|erva
+o fogo|onde|no|meio|e|os companheiros|a cratera|coroam
+a ti|libando|ó Leneu|invoca|e do gado|aos guardadores
+do veloz|dardo|as provas|marca|no|olmo
+e os corpos|na rural|desnudam|duríssimos|palestra
+esta|outrora|os antigos|vida|cultivaram|sabinos
+esta|Remo|e|o irmão|assim|valente|a Etrúria|cresceu
+decerto|e|das coisas|tornada|foi|a mais bela|Roma
+e sete|sozinha|para si|com muralha|cercou|cidadelas
+antes|também|do cetro|dicteu|do rei|e|antes
+ímpia|que|sacrificados|a raça|tenha|banqueteado|novilhos
+dourado|esta|vida|nas|terras|Saturno|levava
+nem ainda|também|tinham ouvido|soarem|as trombetas|nem ainda
+postas|nas duras|tilintar|bigornas|as espadas
+mas|nós|imenso|em distâncias|percorremos|o mar
+e|já|é tempo|dos cavalos|fumegantes|de soltar|os pescoços`.split('\n').map(line => line.split('|')),
 
 };
 
@@ -844,7 +1336,77 @@ export const readingPassages = {
     26: [34, 'Outras árvores do bosque esperam que se enterrem os ramos curvados para a mergulhia e produzem na própria terra rebentos vivos. Outras dispensam raízes, e o podador não hesita em confiar à terra a própria ponta que tirou da árvore. Mais ainda, coisa admirável de dizer, de troncos cortados e secos irrompe a raiz da oliveira. Muitas vezes vemos ramos de uma árvore passarem sem dano a outra. Vemos a pereira transformada pelo enxerto dar maçãs e os frutos duros do corno enrubescerem com o enxerto de ameixas.'],
     35: [41, 'Vamos, lavradores, aprendei o cultivo próprio de cada espécie, suavizai pelo cultivo os frutos silvestres e não deixeis as terras ociosas. É prazeroso plantar de videiras o Ísmaro e vestir de oliveiras o grande Taburno. E tu, Mecenas, vem percorrer comigo o trabalho já começado, ó glória, com razão a maior parte da minha fama. Lança veloz as velas ao mar aberto.'],
     42: [46, 'Não desejo abarcar tudo em meus versos, ainda que eu tivesse cem línguas, cem bocas e voz de ferro. Vem e costeia a orla do primeiro litoral. A terra está ao alcance das mãos. Aqui não te reterei com canto inventado, rodeios e longos preâmbulos.'],
+    47: [56, 'As árvores que se erguem espontaneamente à luz crescem viçosas e fortes, embora improdutivas, pois a natureza age no próprio solo. Contudo, se alguém as enxertar ou transplantar para covas de terra revolvida, perderão o ânimo silvestre e, sob cultivo assíduo, prontamente se prestarão às técnicas que se quiserem aplicar. O mesmo faria o rebento estéril que brota do pé da árvore, se fosse transplantado para campos desocupados. Onde está, as folhas altas e os ramos da mãe lhe fazem sombra, privam-no de frutos enquanto cresce e, quando chega a produzi-los, crestam-no.'],
+    57: [62, 'Já a árvore que se ergue da semente lançada cresce devagar e só dará sombra aos netos tardios. Seus frutos degeneram e esquecem os sabores de antes, e a videira ruim oferece às aves os cachos como presa. A todas é preciso dedicar trabalho. Todas devem ser levadas ao sulco e domadas com grande dispêndio.'],
+    63: [68, 'Mas as oliveiras respondem melhor por estacas grossas, as videiras por mergulhia, o mirto de Pafos por madeira sólida e as duras aveleiras por mudas. Assim nascem também o enorme freixo, a árvore sombria da coroa de Hércules e os carvalhos do Pai caônio. Nasce ainda a alta palmeira, e o abeto que há de conhecer os azares do mar.'],
+    69: [72, 'Enxerta-se também o medronheiro áspero com um broto de nogueira. Plátanos estéreis produziram macieiras vigorosas, e castanheiros, faias. O freixo embranqueceu com a flor da pereira, e porcos quebraram bolotas sob os olmos.'],
+    73: [77, 'Há mais de um modo de enxertar e inserir gemas. Onde os brotos forçam a saída pelo meio da casca e rompem as películas finas, abre-se uma estreita cavidade no próprio nó. Ali inserem um broto de outra árvore e fazem-no crescer na entrecasca úmida.'],
+    78: [82, 'Ou então recortam troncos sem nós, abrem com cunhas uma fenda profunda na madeira maciça e nela introduzem mudas férteis. Em pouco tempo uma árvore enorme se ergue para o céu com ramos fecundos, admirada com as folhas novas e os frutos que não eram seus.'],
+    83: [88, 'Além disso, há mais de uma espécie de olmo robusto, de salgueiro, de lótus e de cipreste do Ida. As azeitonas gordas também variam de aspecto. Há as órquades, as rádias e a pásia de baga amarga. Diversos são também os frutos e os arvoredos de Alcínoo, e não é o mesmo o rebento das peras de Crustumério, das sírias e das pesadas peras que enchem a mão.'],
+    89: [96, 'Dos nossos suportes não pende a mesma vindima que Lesbos colhe dos sarmentos de Metimna. Há videiras de Tasos e as brancas do Mareótis, estas próprias para terras férteis, aquelas para as mais leves. A psítia é mais útil para vinho de passas, e a leve lágeos um dia há de tolher os pés e prender a língua. Há as purpúreas e as précicas. E a ti, rética, em que canto te celebrarei? Por isso mesmo, não disputes com as adegas falernas.'],
+    97: [100, 'Há também as videiras aminéias, de vinhos muito firmes, diante dos quais se levantam em respeito o tmólio e o próprio rei faneu. E há a argítide menor, com a qual nenhuma rivaliza em produzir tanto ou em durar tantos anos.'],
+    101: [102, 'Eu não te deixaria de mencionar, videira de Rodes, grata aos deuses e às mesas da sobremesa, nem a ti, bumasto de cachos inchados.'],
+    103: [108, 'Mas não há como contar quantas são as espécies nem dizer quais são todos os seus nomes, e tampouco importa abarcá-las num número. Quem quisesse sabê-lo poderia igualmente dizer quantos grãos de areia no litoral líbio o Zéfiro revolve ou, quando o Euro se lança mais violento contra os navios, saber quantas ondas jônias chegam às praias.'],
+    109: [117, 'Nem toda terra pode produzir de tudo. Os salgueiros nascem junto aos rios, os amieiros nos pântanos espessos e os freixos estéreis nos montes rochosos. As praias são especialmente férteis para os mirtos. Baco ama as colinas abertas, e os teixos, o Aquilão e o frio. Olha também o mundo submetido ao cultivo por povos remotos, as moradas orientais dos árabes e os gelonos tatuados. As terras se distinguem por suas árvores. Só a Índia produz o ébano negro, e só os sabeus têm o ramo do incenso.'],
+    118: [125, 'Por que te falaria dos bálsamos que exsudam da madeira perfumada, das bagas do acanto sempre verde, dos bosques dos etíopes, brancos de lã macia, ou de como os seres penteiam das folhas finos velos? E que dizer dos bosques que a Índia produz mais perto do Oceano, nesse recanto extremo do mundo, onde nenhuma flecha disparada conseguiu passar acima da copa das árvores? E aquele povo decerto é ágil quando toma as aljavas.'],
+    126: [130, 'A Média produz o fruto salutar de suco amargo e sabor persistente. Se madrastas cruéis alguma vez envenenaram as taças, misturando ervas e palavras danosas, nenhum remédio é mais eficaz que esse fruto, que expulsa dos membros o negro veneno.'],
+    131: [135, 'A própria árvore é enorme e muito semelhante ao loureiro no aspecto. Se não espalhasse por toda parte outro perfume, seria um loureiro. Nenhum vento lhe derruba as folhas, e a flor resiste até o fim. Com esse fruto, os medos refrescam o hálito e a boca malcheirosa e tratam os velhos ofegantes.'],
+    136: [144, 'Nem os bosques dos medos, terra riquíssima, nem o belo Ganges, nem o Hermo turvo de ouro rivalizam com a Itália em glória. Tampouco Bactra, os indianos ou toda a Pancaia, rica em areias que dão incenso. Touros que lançam fogo pelas narinas não lavraram essas terras semeadas com dentes de dragão monstruoso, e nenhuma seara de homens se eriçou de elmos e lanças cerradas. Encheram-nas as searas carregadas e o licor de Baco da região do Másico. Ocupam-nas as oliveiras e os rebanhos viçosos.'],
+    145: [148, 'Daqui se lança ao campo o cavalo de guerra, de porte altivo. Daqui também, ó Clituno, os rebanhos brancos e o touro, a maior das vítimas, tantas vezes banhados em tua corrente sagrada, conduziram os triunfos romanos aos templos dos deuses.'],
+    149: [154, 'Aqui a primavera é contínua e o verão se estende por meses que não são seus. Duas vezes os rebanhos emprenham, duas vezes a árvore dá frutos. Estão ausentes os tigres raivosos e as crias ferozes dos leões. Os acônitos não enganam os infelizes que os colhem, e a serpente escamosa não traça círculos imensos pela terra nem se enrola em espiral com tamanha extensão.'],
+    155: [160, 'Acrescenta tantas cidades ilustres e o esforço de suas obras, tantas cidadelas erguidas à mão em rochedos escarpados e rios que correm sob antigas muralhas. Mencionaria o mar de cima e o que banha a Itália por baixo? Ou lagos tão grandes? A ti, imenso Lário, e a ti, Benaco, que te ergues com ondas e estrondo de mar?'],
+    161: [166, 'Mencionaria os portos, as barreiras acrescentadas ao Lucrino e o mar que protesta com grandes estridores, onde a onda Júlia ressoa ao longe, repelido o mar, e a maré tirrena entra nas águas do Averno? Essa mesma terra revelou em suas veias correntes de prata e minas de bronze e foi pródiga em ouro.'],
+    167: [176, 'Essa terra gerou uma raça vigorosa de homens, os marsos, a juventude sabélica, o lígure habituado à dureza e os volscos armados de dardos. Gerou os Décios, os Mários, os grandes Camilos, os Cipiões duros na guerra e a ti, grandíssimo César, que agora, vitorioso nas costas mais remotas da Ásia, afastas o indo desarmado das fortalezas romanas. Salve, terra de Saturno, grande mãe de frutos, grande mãe de homens. Por ti empreendo cantar os feitos de antiga glória e a arte do cultivo. Ouso reabrir as fontes sagradas e canto pelas cidades romanas a canção de Ascra.'],
+    177: [183, 'É hora de falar das qualidades dos campos, da força e da cor de cada um e do que sua natureza permite produzir. Primeiro, as terras difíceis e as colinas ingratas, onde há argila fina e cascalho nos campos espinhosos, favorecem o bosque da oliveira longeva de Palas. A prova está na abundância de oliveiras bravas na mesma região e nos campos cobertos de bagas silvestres.'],
+    184: [194, 'Já a terra gorda, viçosa de doce umidade, e o campo abundante em ervas e seiva, como os que costumamos avistar lá embaixo, no fundo de um vale, onde os rios descem dos rochedos e arrastam limo fértil, ou ainda o campo exposto ao vento sul, onde cresce a samambaia hostil ao arado curvo, darão um dia videiras vigorosas e vinho em abundância. Esse solo é fértil em uvas e no licor que vertemos em libação de taças de ouro, quando o robusto tirreno sopra a trombeta de marfim junto aos altares e oferecemos entranhas fumegantes em pratos curvos.'],
+    195: [202, 'Se, porém, te empenhas mais em cuidar de rebanhos e bezerros, das crias das ovelhas ou das cabrinhas que devoram as plantações, busca os pastos da rica e distante Tarento. Ou procura um campo como o que a infeliz Mântua perdeu, onde um rio coberto de ervas alimentava cisnes brancos como a neve. Aos rebanhos não faltarão fontes límpidas nem erva, e o orvalho frio, na breve noite, reporá tanto quanto o gado tiver pastado nos longos dias.'],
+    203: [211, 'A terra em geral negra, rica sob a pressão da relha e de solo fofo, condição que procuramos reproduzir ao arar, é a melhor para os cereais. De nenhum outro campo verás voltar para casa mais carros puxados por novilhos lentos, salvo daquele de onde o lavrador irado removeu a mata e derrubou bosques ociosos havia muitos anos. Arrancou pela raiz as antigas moradas das aves. Elas abandonaram os ninhos e buscaram as alturas, e o campo antes inculto brilhou à passagem da relha.'],
+    212: [216, 'O cascalho pobre da encosta mal fornece às abelhas cássias rasteiras e orvalho. O tufo áspero e a cré escavada por serpentes negras mostram que nenhum outro terreno dá às serpentes alimento tão agradável nem lhes oferece esconderijos tão sinuosos.'],
+    217: [225, 'A terra que exala névoa fina e vapores fugazes, bebe a umidade e a solta quando quer, veste-se sempre de erva verde e poupa o ferro da aspereza e da ferrugem salina, essa entretecerá para ti os olmos com videiras viçosas. Dá azeite em abundância, e pelo cultivo verás que é propícia ao gado e suporta a relha curva. Tal é a terra que lavram a rica Cápua, a região vizinha à crista do Vesúvio e a região do Clânio, hostil à despovoada Acerras.'],
 
+    226: [232, 'Agora direi como podes reconhecer cada solo. Se quiseres saber se é poroso ou mais compacto que o normal, escolhe primeiro o lugar a olho, manda cavar um poço fundo em chão firme, repõe toda a terra e nivela com os pés a areia da superfície. Um solo favorece os cereais, outro, Baco. O compacto é mais propício a Ceres, e quanto mais poroso, melhor para Lieu.'],
+    233: [237, 'Se faltar terra para encher a cova, o solo é poroso e mais adequado ao gado e às videiras fecundas. Se a terra não couber no lugar de onde saiu e ainda sobrar com as covas cheias, o campo é compacto. Espera torrões resistentes e lombos grossos e abre a primeira lavra com novilhos robustos.'],
+    238: [247, 'A terra salina ou dita amarga, imprópria para os cereais, que não se torna dócil ao arado nem conserva a variedade da videira ou os nomes próprios dos frutos, dará a seguinte prova. Tira de sob os telhados enfumaçados os cestos de vime cerrado e os coadores das prensas. Enche-os até a borda, apertando dentro deles aquela terra ruim e água doce das fontes. Toda a água acabará por escapar, e grossas gotas passarão pelo vime. O sabor dará prova evidente e fará os que provarem torcer o rosto com o amargor.'],
+    248: [253, 'Também se reconhece assim a terra gorda. Manuseada, ela jamais se esfarela, mas, apertada, adere aos dedos como pez. A terra úmida nutre ervas maiores e é, ela mesma, mais viçosa que o normal. Ah, que ela não seja fértil demais para mim nem ostente força excessiva já nas primeiras espigas!'],
+    254: [258, 'A terra pesada se denuncia em silêncio pelo próprio peso, e o mesmo vale para a leve. É fácil reconhecer a olho a terra negra e distinguir a cor de cada uma. Difícil é detectar o maldito frio do solo. Só os abetos, os teixos nocivos ou, às vezes, as heras negras revelam seus indícios.'],
+    259: [264, 'Feitas essas observações, lembra-te de deixar a terra exposta ao calor com bastante antecedência, abrir covas nos grandes montes e expor ao Aquilão os torrões revirados antes de plantar uma variedade viçosa de videira. Os melhores campos têm solo fofo. Os ventos e as geadas frias se encarregam disso, assim como o cavador robusto que revolve as glebas já afrouxadas.'],
+    265: [272, 'Há homens tão atentos que primeiro procuram um terreno semelhante àquele onde se prepara o viveiro e para onde as árvores serão depois levadas e distribuídas, para que as mudas não estranhem a mudança repentina de mãe. Até marcam na casca a direção do céu, para restabelecer a posição de cada árvore, o lado que recebia o calor do sul e o que se voltava ao polo. Tanto importa o hábito adquirido em tenra idade.'],
+    273: [278, 'Pergunta primeiro se é melhor plantar a videira nas colinas ou na planície. Se demarcares terrenos férteis na planície, planta em fileiras cerradas, pois Baco não é menos vigoroso em solo fértil e compacto. Mas, se tiveres solo inclinado nos outeiros e colinas suaves, dá espaço às fileiras. Ainda assim, depois de plantar as árvores, alinha com precisão todos os caminhos segundo a linha traçada.'],
+    279: [287, 'É como quando, numa grande guerra, a legião desdobra suas longas coortes. A coluna se detém no campo aberto, as fileiras se alinham e toda a terra ondula ao longe sob o bronze reluzente. Ainda não travam os terríveis combates, e Marte, incerto, vagueia entre as armas. Mede tudo com intervalos iguais entre os caminhos. Assim a vista agrada ao espírito ocioso, a terra dá vigor igual a todas as plantas e os ramos podem estender-se pelo espaço livre.'],
+    288: [297, 'Talvez perguntes também que profundidade devem ter as covas. Eu ousaria confiar a videira até a um sulco raso. Já a árvore se finca muito mais fundo na terra, sobretudo o carvalho, cuja raiz se estende até o Tártaro tanto quanto a copa se eleva às brisas celestes. Por isso nem os invernos, nem as rajadas, nem as chuvas o arrancam. Permanece imóvel e, atravessando gerações, sobrevive a muitos descendentes. Forte, estende ao longe os ramos e braços para cá e para lá e, no centro, sustenta uma sombra imensa.'],
+    298: [302, 'Que tuas vinhas não se inclinem para o sol poente. Não plantes aveleiras entre as videiras. Não busques sarmentos no topo nem arranques mudas do alto da árvore, tão grande é seu amor pela terra. Não firas as mudas com ferro embotado nem enxertes troncos de oliveira silvestre.'],
+    303: [311, 'Pois muitas vezes o fogo escapa aos pastores incautos. Primeiro, escondido sob a casca espessa, toma a madeira. Depois sobe à folhagem alta e ergue ao céu um estrondo enorme. Daí avança vitorioso pelos ramos e reina nas altas copas, envolve todo o bosque em chamas e lança ao céu uma nuvem negra, espessa na treva cor de pez. Isso acontece sobretudo quando uma tempestade se abate do alto sobre os bosques e o vento, levando os incêndios, os avoluma.'],
+    312: [314, 'Quando isso acontece, as árvores perdem a força da cepa. Mesmo cortadas, já não podem brotar de novo das profundezas da terra e reverdecer como antes. Sobrevive a oliveira brava, improdutiva, de folhas amargas.'],
+    315: [318, 'Que conselheiro algum, por mais prudente, te persuada a revolver a terra endurecida quando sopra Bóreas. Então o inverno fecha os campos com gelo e, lançada a semente, não deixa que a raiz se fixe na terra congelada.'],
+    319: [324, 'A melhor época de plantar as vinhas é quando, na primavera rubra, chega a ave branca odiada pelas longas serpentes, ou perto dos primeiros frios do outono, quando o Sol veloz ainda não alcança o inverno com seus cavalos e o verão já passa. A primavera favorece a folhagem dos bosques e convém às matas. Na primavera as terras incham e pedem sementes fecundas.'],
+    325: [329, 'Então Éter, o pai onipotente, desce em chuvas fecundas ao regaço da esposa viçosa. Unido, imenso, ao grande corpo dela, nutre toda a sua prole. Os arbustos dos ermos ressoam de aves canoras, e os rebanhos tornam a buscar Vênus nos dias propícios.'],
+    330: [335, 'O campo nutriz dá à luz, e as terras abrem o regaço às brisas mornas de Zéfiro. Em todas abunda a umidade suave, e as ervas ousam confiar-se sem perigo aos novos sóis. A parra não teme os ventos do sul que se levantam nem a chuva que os fortes ventos do norte impelem do céu. Faz sair os brotos e desdobra todas as folhas.'],
+    336: [342, 'Eu creria que, na primeira origem do mundo nascente, brilharam dias como estes e que não tiveram outro curso. Era primavera. O vasto mundo vivia a primavera e os Euros continham seus sopros de inverno, quando os primeiros animais beberam a luz, a prole humana nascida da terra ergueu a cabeça dos campos duros, e as feras foram lançadas às matas e os astros ao céu.'],
+    343: [345, 'Nem poderiam os seres tenros suportar esse esforço se tamanho repouso não se interpusesse entre o frio e o calor e a indulgência do céu não acolhesse as terras.'],
+    346: [353, 'Quanto ao mais, espalha esterco gordo sobre todas as mudas que enterrares pelos campos e lembra-te de cobri-las com bastante terra. Ou enterra uma pedra porosa ou conchas rugosas. Por entre elas correrá a água, penetrará um sopro fino e as plantas ganharão vigor. Já houve quem comprimisse a terra por cima com uma pedra ou com o peso de uma enorme telha. Isso protege contra as chuvas torrenciais e serve também quando o Cão ardente fende os campos gretados de sede.'],
+    354: [361, 'Plantadas as mudas, resta revolver mais vezes a terra junto às bases e manejar os enxadões duros, ou trabalhar o solo com a relha fincada e guiar os novilhos que resistem por entre as próprias vinhas. Depois, ajusta canas leves, hastes de vara alisada, estacas de freixo e forquilhas robustas, para que, apoiadas nelas, as videiras se habituem a subir, a desprezar os ventos e a seguir os altos andaimes pelos olmos.'],
+    362: [366, 'Enquanto a primeira idade cresce entre folhas novas, é preciso poupar as videiras tenras. Enquanto o sarmento viçoso se lança às brisas, solto no ar limpo como de rédeas frouxas, as folhas ainda não devem ser tocadas pelo fio da foice. Arranca-as e desbasta-as com as mãos recurvas.'],
+    367: [370, 'Depois, quando as videiras tiverem subido abraçadas aos olmos, com cepas já vigorosas, apara as copas e poda os braços. Antes disso elas temem o ferro. Então, enfim, impõe teu mando severo e contém os ramos que se alastram.'],
+    371: [375, 'É preciso também trançar cercas e manter todo o gado afastado, sobretudo enquanto a folhagem for tenra e inexperiente nas provações. Além dos invernos cruéis e do sol poderoso, maltratam-na continuamente os auroques selvagens e as corças que a procuram, e nela pastam ovelhas e novilhas vorazes.'],
+    376: [379, 'Nem os frios endurecidos pela geada branca nem o verão opressivo que pesa sobre os rochedos secos fizeram à videira tanto mal quanto aqueles rebanhos, o veneno do dente duro e a cicatriz que a mordida deixou na cepa.'],
+    380: [389, 'Por essa culpa se sacrifica o bode a Baco em todos os altares, e os antigos jogos entram em cena. Pelos povoados e pelas encruzilhadas, os descendentes de Teseu instituíram prêmios para os talentosos e, alegres entre as taças, saltaram sobre odres untados nos prados macios. Também os lavradores ausônios, povo vindo de Troia, brincam com versos rudes e riso solto. Põem máscaras horrendas feitas de cascas escavadas, invocam-te, ó Baco, com cantos alegres e penduram para ti figurinhas oscilantes num alto pinheiro.'],
+    390: [396, 'Daí toda vinha amadurece com frutos abundantes. Enchem-se os vales côncavos e os desfiladeiros profundos, onde quer que o deus tenha voltado a cabeça formosa. Portanto, prestaremos a Baco a honra que lhe cabe, conforme o rito, com cantos pátrios, e levaremos pratos e bolos rituais. Conduzido pelo chifre, o bode sagrado ficará junto ao altar, e assaremos suas entranhas gordas em espetos de aveleira.'],
+    397: [402, 'Há ainda outro trabalho no cuidado das videiras, e nunca se faz o bastante para dá-lo por acabado. A cada ano é preciso romper todo o solo três e quatro vezes e quebrar sem cessar os torrões com os enxadões voltados. É preciso aliviar de folhagem todo o arvoredo. O trabalho dos lavradores volta em círculo, e o ano gira sobre si mesmo, seguindo os próprios vestígios.'],
+    403: [407, 'Já cedo, quando a vinha depõe as folhas tardias e o frio Aquilão sacode o ornamento dos bosques, o lavrador diligente estende seus cuidados ao ano que vem. Com o dente curvo de Saturno, percorre a videira despojada, apara-a e dá-lhe forma pela poda.'],
+    408: [415, 'Sê o primeiro a cavar a terra, o primeiro a queimar os sarmentos retirados e o primeiro a recolher os mourões sob o teto. Sê o último a colher. Duas vezes a sombra avança sobre as videiras. Duas vezes as ervas cobrem a plantação de espinhos cerrados. Duros são ambos os trabalhos. Louva os campos imensos e cultiva um pequeno. Também se cortam no bosque os ramos ásperos do rusco e, nas margens, a cana do rio. E o salgueiral inculto ainda exige cuidados.'],
+    416: [417, 'Já estão atadas as videiras, já os arvoredos depõem a foice, já o último vinhateiro canta as fileiras concluídas.'],
+    418: [425, 'Ainda assim, é preciso revolver a terra e remexer o pó, e já se deve temer Júpiter pelas uvas maduras. As oliveiras, ao contrário, dispensam cuidados e não esperam a foice recurva ou os rastelos tenazes, uma vez enraizadas nos campos e acostumadas aos ares. A própria terra, aberta pelo dente curvo, fornece umidade às plantas e, lavrada pela relha, dá searas carregadas. Nutre, pois, a oliveira gorda e grata à Paz.'],
+    426: [433, 'Também as árvores frutíferas, tão logo sentem robustos os troncos e ganham suas próprias forças, erguem-se rapidamente para os astros por vigor próprio, sem precisar de nosso auxílio. Entretanto, todo o arvoredo se carrega de frutos, e os pousos incultos das aves enrubescem com bagas cor de sangue. Cortam-se os citisos, o bosque alto fornece archotes, e os fogos noturnos, assim alimentados, espalham luz. E os homens hesitam em plantar e dedicar cuidados?'],
+    434: [439, 'Por que enumerar coisas maiores? Os salgueiros e as giestas baixas dão folhagem ao gado, sombra aos pastores, cercas às sementeiras e alimento às abelhas para o mel. Dá prazer contemplar o Cítoro ondulante de buxo e os bosques de pez narício, e ver campos que dispensam rastelos e cuidados humanos.'],
+    440: [448, 'Até os bosques estéreis nos cumes do Cáucaso, que os Euros impetuosos sem cessar quebram e arrebatam, dão frutos diversos. Os pinheiros dão madeira para navios, o cedro e os ciprestes para casas. Dessa madeira os lavradores fazem raios de rodas, discos para carros e quilhas curvas para balsas. Os salgueiros dão muitas varas, os olmos muitas folhas. O mirto e o corno, bom para a guerra, fornecem hastes robustas, e os teixos são curvados em arcos itureus.'],
+    449: [457, 'Também a tília leve e o buxo torneável recebem forma e são escavados com ferro agudo. O amieiro leve, lançado ao Pó, flutua na corrente, e as abelhas abrigam seus enxames nas cascas ocas e no ventre da azinheira carcomida. Que trouxeram os dons de Baco de igualmente memorável? Baco também deu motivo para faltas. Subjugou pela morte os centauros enfurecidos, Reco e Folo, e Hileu, que ameaçava os lápitas com uma grande cratera.'],
+    458: [474, "Ó lavradores, mais que afortunados, se conhecessem seus bens! Longe da discórdia das armas, a própria terra, justíssima, lhes prodigaliza sustento fácil. Se a casa alta de portas soberbas não vomita de manhã uma onda de visitantes, se eles não cobiçam batentes de bela carapaça, vestes bordadas a ouro nem bronzes coríntios, se a lã branca não se tinge de corante assírio e o azeite puro não se adultera com cássia, têm repouso seguro e vida que ignora o engano, rica em recursos variados. Não lhes faltam ócio em vastas propriedades, grutas, lagos de águas vivas, vales frescos, mugidos de bois e sono suave sob uma árvore. Ali há pastos e covis de feras, uma juventude afeita à lida e a viver com pouco, ritos dos deuses e pais veneráveis. Foi entre eles que a Justiça, ao deixar a terra, imprimiu suas últimas pegadas."],
+    475: [489, "A mim, porém, acolham antes de tudo as doces Musas, cujos ritos celebro ferido de amor imenso. Mostrem-me os caminhos do céu e os astros, os vários eclipses do Sol e as provações da Lua. Digam de onde vêm os tremores da terra, com que força os mares profundos incham, rompem as barreiras e tornam a recolher-se, por que os sóis de inverno tanto se apressam a mergulhar no Oceano ou que demora retém as noites lentas. Mas, se o sangue frio em torno do coração me impedir de penetrar nesses domínios da natureza, agradem-me os campos e os rios que regam os vales. Que eu ame os rios e os bosques, sem glória. Onde estão as campinas, o Esperqueu e o Taígeto, onde as donzelas espartanas celebram os ritos de Baco? Quem me colocará nos vales frios do Hemo e me abrigará à sombra imensa de seus ramos?"],
+    490: [502, "Feliz quem pôde conhecer as causas das coisas e pôs sob os pés todos os medos, o destino inexorável e o estrondo do Aqueronte avaro. Afortunado também quem conhece os deuses do campo, Pã, o velho Silvano e as ninfas irmãs. A ele não dobraram os fasces do povo, a púrpura dos reis, a discórdia que agita irmãos desleais, o dácio que desce do Istro conjurado, os negócios de Roma ou os reinos destinados a perecer. Nem se afligiu por compaixão do pobre nem invejou quem tinha bens. Colheu os frutos que os ramos e os próprios campos lhe deram espontaneamente e não viu as leis de ferro, o fórum insano nem os arquivos do povo."],
+    503: [512, "Outros agitam a remos estreitos traiçoeiros, precipitam-se contra o ferro e penetram nos palácios e limiares dos reis. Um ataca com destruição a cidade e seus infelizes lares, para beber em taça de gema e dormir em púrpura tíria. Outro esconde suas riquezas e deita-se sobre o ouro enterrado. Um fica atônito diante da tribuna, outro, boquiaberto, é arrebatado pelo aplauso que redobra nas arquibancadas, vindo tanto da plebe como dos senadores. Alegram-se banhados no sangue dos irmãos, trocam suas casas e queridos limiares pelo exílio e procuram uma pátria situada sob outro sol."],
+    513: [522, "O lavrador revolve a terra com o arado curvo. Eis o trabalho do ano. Com ele sustenta a pátria e os pequenos netos, os rebanhos de bois e os novilhos que merecem seu sustento. Não há descanso sem que o ano transborde de frutos, de crias dos rebanhos ou de feixes de colmos de Ceres, carregue os sulcos de abundância e exceda a capacidade dos celeiros. Vem o inverno e a azeitona de Sícion se mói nos moinhos. Os porcos voltam contentes das bolotas, os bosques dão medronhos, o outono depõe frutos variados e, no alto dos rochedos ensolarados, amadurece a vindima."],
+    523: [531, "Enquanto isso, os filhos queridos rodeiam-no de beijos, a casa casta guarda a pudicícia, as vacas abaixam os úberes cheios de leite e os cabritos gordos lutam de chifres opostos na erva viçosa. Ele próprio celebra os dias festivos, estendido na erva. Com o fogo ao centro e os companheiros coroando a cratera, invoca-te, ó Leneu, enquanto faz libações, e marca no olmo as provas de dardo veloz para os guardadores do gado. Eles desnudam seus corpos endurecidos na palestra rural."],
+    532: [542, "Essa vida cultivaram outrora os antigos sabinos, Remo e seu irmão. Assim cresceu a valente Etrúria e Roma se tornou a mais bela de todas, cercando sozinha com uma muralha suas sete cidadelas. Antes mesmo do cetro do rei dicteu e antes que a raça ímpia se banqueteasse com novilhos sacrificados, o dourado Saturno levava essa vida na terra. Ainda não se tinham ouvido soar trombetas de guerra, nem tilintar espadas postas sobre duras bigornas. Mas nós já percorremos o mar imenso, e é hora de soltar os pescoços fumegantes dos cavalos."],
   },
 
 };
@@ -934,4 +1496,36 @@ export const readingDictionaryForms = {
   dimetior: 'dīmētior, dīmētīrī, dīmēnsus sum',
   rego: 'regō, regere, rēxī, rēctum',
   mundus: 'mundus, mundī, m.',
+};
+
+
+export const bookTwoEntries = {
+  226: { dicam: 'dīcō, dīcere, dīxī, dictum · v. · dizer, explicar', cognoscere: 'cognōscō, cognōscere, cognōvī, cognitum · v. · reconhecer' },
+  227: { sit: 'sum, esse, fuī · v. · ser, estar', requires: 'requīrō, requīrere, requīsīvī, requīsītum · v. · investigar' },
+  228: { fauet: 'faveō, favēre, fāvī, fautum · v. · favorecer', baccho: 'Bacchus, Bacchī, m. · nome próprio · Baco. Aqui, o cultivo da videira' },
+  229: { cereri: 'Cerēs, Cereris, f. · nome próprio · Ceres. Aqui, o cultivo dos cereais', lyaeo: 'Lyaeus, Lyaeī, m. · nome próprio · Lieu, epíteto de Baco', magis: 'magis · adv. · mais' },
+  230: { capies: 'capiō, capere, cēpī, captum · v. · escolher', iubebis: 'iubeō, iubēre, iussī, iussum · v. · mandar' },
+  231: { solido: 'solidum, solidī, n. · s. · terra firme', demitti: 'dēmittō, dēmittere, dēmīsī, dēmissum · v. · baixar. Aqui, cavar fundo', repones: 'repōnō, repōnere, reposuī, repositum · v. · repor' },
+  232: { humum: 'humus, humī, f. · s. · terra, solo', aequabis: 'aequō, aequāre, aequāvī, aequātum · v. · nivelar' },
+  233: { deerunt: 'dēsum, dēesse, dēfuī · v. · faltar', pecorique: 'pecus, pecoris, n. · s. · gado. -que · conj. enclítica · e' },
+  234: { uber: 'ūber, ūberis, n. · s. · solo fértil', erit: 'sum, esse, fuī · v. · ser, estar', negabunt: 'negō, negāre, negāvī, negātum · v. · negar, recusar' },
+  235: { ire: 'eō, īre, iī ou īvī, itum · v. · ir, voltar', superabit: 'superō, superāre, superāvī, superātum · v. · sobrar', terra: 'terra, terrae, f. · s. · terra', repletis: 'repleō, replēre, replēvī, replētum · v. · encher' },
+  236: { glaebas: 'glaeba, glaebae, f. · s. · torrão', cunctantis: 'cunctantēs, cunctantis · particípio de cunctor, cunctārī, cunctātus sum · resistir', crassaque: 'crassus, crassa, crassum · adj. · grosso. -que · conj. enclítica · e' },
+  237: { exspecta: 'exspectō, exspectāre, exspectāvī, exspectātum · v. · esperar', terram: 'terra, terrae, f. · s. · terra', proscinde: 'prōscindō, prōscindere, prōscidī, prōscissum · v. · lavrar pela primeira vez', iuuencis: 'iuvencus, iuvencī, m. · s. · novilho' },
+  240: { baccho: 'Bacchus, Bacchī, m. · nome próprio · Baco. Aqui, a videira por metonímia' },
+  241: { qualos: 'quālus, quālī, m. · s. · cesto de vime' },
+  244: { eluctabitur: 'ēluctor, ēluctārī, ēluctātus sum · v. depoente · abrir caminho para fora, escapar' },
+  247: { amaro: 'amārus, amāra, amārum · adj. · amargo' },
+
+  248: { tellus: 'tellūs, tellūris, f. · s. · terra, solo', pinguis: 'pinguis, pingue · adj. · gordo, fértil' },
+  249: { unquam: 'umquam · adv. · alguma vez. Haud umquam significa jamais', fatiscit: 'fatīscō, fatīscere · v. · abrir fendas, esfarelar-se' },
+  250: { lentescit: 'lentēscō, lentēscere · v. · tornar-se pegajoso', picis: 'pix, picis, f. · s. · pez' },
+  251: { alit: 'alō, alere, aluī, alitum ou altum · v. · nutrir' },
+  253: { ostendat: 'ostendō, ostendere, ostendī, ostentum ou ostensum · v. · mostrar' },
+  254: { prodit: 'prōdō, prōdere, prōdidī, prōditum · v. · denunciar, revelar' },
+  255: { praediscere: 'praediscō, praediscere, praedidicī · v. · conhecer de antemão' },
+  256: { exquirere: 'exquīrō, exquīrere, exquīsīvī, exquīsītum · v. · investigar, detectar' },
+  257: { nocentes: 'noceō, nocēre, nocuī, nocitum · v. · causar dano. Aqui, particípio presente' },
+  258: { pandunt: 'pandō, pandere, pandī, passum ou pansum · v. · abrir, revelar' },
+
 };
