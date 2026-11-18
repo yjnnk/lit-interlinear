@@ -1,4 +1,4 @@
-import { bookThreeEntries, bookTwoEntries, opening, openingEntries, readingDictionaryForms, readingPassages, translations, wordGlosses } from './glosses.js';
+import { bookFourEntries, bookThreeEntries, bookTwoEntries, opening, openingEntries, readingDictionaryForms, readingPassages, translations, wordGlosses } from './glosses.js';
 
 const app = document.querySelector('#app');
 const labels = ['I', 'II', 'III', 'IV'];
@@ -60,7 +60,7 @@ function dictionaryEntry(target, form, gloss, book, verse, parts, entries, conte
   target.replaceChildren(element('h3', form, 'entry'), element('p', `Livro ${labels[book - 1]}, verso ${verse}`, 'muted'));
   target.firstChild.lang = 'la';
   if (contextual) target.append(element('p', `No verso: ${contextual}`));
-  const editorialEntries = [openingEntries, bookTwoEntries, bookThreeEntries][book - 1];
+  const editorialEntries = [openingEntries, bookTwoEntries, bookThreeEntries, bookFourEntries][book - 1];
   const editorialEntry = editorialEntries?.[verse]?.[form.toLowerCase().replace(/[^a-z]/g, '')];
   const edited = editorialEntry ?? gloss?.[1];
   if (edited) {
@@ -72,7 +72,7 @@ function dictionaryEntry(target, form, gloss, book, verse, parts, entries, conte
   for (const [lemma, pos, , key] of edited ? [] : parts ?? []) {
     const entry = entries[key];
     const keyForForms = dictionaryKey(lemma);
-    const expanded = ((book === 1 && verse >= 183 && verse <= 232) || book === 3)
+    const expanded = ((book === 1 && verse >= 183 && verse <= 232) || book === 3 || book === 4)
       ? readingDictionaryForms[keyForForms]
       : undefined;
     const title = element('h4', expanded ?? dictionaryForms[keyForForms] ?? entry?.[0] ?? lemma, 'headword');
