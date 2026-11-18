@@ -72,7 +72,7 @@ function dictionaryEntry(target, form, gloss, book, verse, parts, entries, conte
   for (const [lemma, pos, , key] of edited ? [] : parts ?? []) {
     const entry = entries[key];
     const keyForForms = dictionaryKey(lemma);
-    const expanded = ((book === 1 && verse >= 183 && verse <= 232) || (book === 3 && verse >= 551))
+    const expanded = ((book === 1 && verse >= 183 && verse <= 232) || book === 3)
       ? readingDictionaryForms[keyForForms]
       : undefined;
     const title = element('h4', expanded ?? dictionaryForms[keyForForms] ?? entry?.[0] ?? lemma, 'headword');
