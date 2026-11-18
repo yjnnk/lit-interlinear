@@ -1110,6 +1110,573 @@ postas|nas duras|tilintar|bigornas|as espadas
 mas|nós|imenso|em distâncias|percorremos|o mar
 e|já|é tempo|dos cavalos|fumegantes|de soltar|os pescoços`.split('\n').map(line => line.split('|')),
 
+  3: `a ti|também|grande|Pales|e|a ti|memorável|cantaremos
+pastor|do|Anfriso|a vós|bosques|e rios|do Liceu
+os demais temas|que|ociosas|teriam ocupado|com canto|mentes
+todos|já|divulgados|quem|ou|Euristeu|cruel
+ou|do infame|desconhece|de Busíris|os altares
+a quem|não|foi cantado|Hilas|o jovem|e|de Latona|Delos
+e Hipodâmia|e pelo ombro|Pélops|ilustre|de marfim
+destro|com cavalos|a tentar|um caminho|é|por onde|me|também|eu possa
+erguer|do solo|e vitorioso|dos homens|voar|pelas|bocas
+primeiro|eu|para|a pátria|comigo|contanto que|vida|reste
+do aônio|voltando|trarei|do cume|as Musas
+primeiro|idumeias|trarei|para ti|ó Mântua|as palmas
+e|verde|em|campo|um templo|de|mármore|erguerei
+junto de|a água|lentas|vasto|onde|em curvas|serpenteia
+o Míncio|e|de tenro|reveste|caniço|as margens
+em|meio|para mim|César|estará|e o templo|ocupará
+para ele|vitorioso|eu|e|tíria|distinto|em|púrpura
+cem|de quatro cavalos|conduzirei|junto a|os rios|carros
+toda|para mim|o Alfeu|deixando|e os bosques|de Molorco
+em corridas|e|cruel|competirá|a Grécia|com o cesto
+eu mesmo|a cabeça|da aparada|com folhas|ornado|oliveira
+as oferendas|levarei|já|agora|solenes|conduzir|procissões
+aos|santuários|agrada|e abatidos|ver|novilhos
+ou|o cenário|que|viradas|se abra|as fachadas|e que
+purpúreas|entretecidos|levantem|as cortinas|os britanos
+nas|portas|a batalha|de|ouro|e maciço|marfim
+dos gangáridas|farei|e do vencedor|as armas|Quirino
+e|aqui|ondulante|de guerra|e vasto|correndo
+o Nilo|e|naval|erguidas|de bronze|colunas
+acrescentarei|cidades|da Ásia|subjugadas|e repelido|o Nífates
+e confiante|na fuga|o parto|e voltadas para trás|nas flechas
+e|dois|arrebatados|pela mão|distinto|de|inimigo|troféus
+e duas vezes|vencidos em triunfo|de ambas|de|margem|os povos
+erguer-se-ão|também|párias|pedras|que respiram|estátuas
+de Assáraco|a prole|e descendente|de|Júpiter|da linhagem
+os nomes|e Trós|pai|e|de Troia|o Cíntio|fundador
+a Inveja|infeliz|as Fúrias|e o rio|severo
+do Cocito|temerá|e retorcidas|de Íxion|as serpentes
+e monstruosa|a roda|e|não|superável|a pedra
+enquanto isso|das Dríades|os bosques|e os desfiladeiros|sigamos
+intactos|tuas|ó Mecenas|nada|brandas|ordens
+ti|sem|nada|elevado|a mente|começa|eis|anda|indolente
+rompe|as demoras|chama|com enorme|clamor|o Citéron
+e do Taígeto|os cães|e domadora|Epidauro|de cavalos
+e|a voz|com o assentimento|dos bosques|redobrada|ressoa
+em breve|contudo|ardentes|me prepararei|para narrar|batalhas
+de César|e|o nome|pela fama|tantos|levar|por|anos
+de Titono|primeira|quantos|dista|da|origem|César
+seja que|alguém|da olímpica|admirando|os prêmios|palma
+crie|cavalos|seja que|alguém|fortes|para|os arados|novilhos
+o porte|sobretudo|das mães|escolha|a melhor|de aspecto feroz
+forma|da vaca|cuja|feia|a cabeça|cujo|muito grosso|o pescoço
+e|às pernas|até|desde|o queixo|as papadas|pendem
+depois|longo|nenhum|ao flanco|limite|tudo|grande
+o pé|também|e|curvos|peludas|sob|os chifres|as orelhas
+nem|a mim|desagrade|pelas manchas|distinta|e|pelo branco
+ou|os jugos|recusando|e às vezes|agressiva|com o chifre
+e|no aspecto|ao touro|mais próxima|e que|alta|toda
+e|andando|baixas|varre|as pegadas|com a cauda
+a idade|Lucina|e legítimas|de suportar|as núpcias
+termina|antes de|dez|depois de|quatro|começa|anos
+a restante|nem|à procriação|apta|nem|forte|para os arados
+enquanto isso|sobra|aos rebanhos|enquanto|viçosa|a juventude
+solta|os machos|lança|em|Vênus|o gado|primeiro
+e|uma|a partir de|outra|pela reprodução|repõe|a prole
+o melhor|cada|dia|aos infelizes|mortais|da vida
+primeiro|foge|sobrevêm|as doenças|e triste|a velhice
+e|a lida|e|da cruel|arrebata|a dureza|morte
+sempre|haverá|cujos|corpos|trocar|prefiras
+sempre|pois|renova|e|para que não|depois|as perdidas|procures
+antes|vem|e|a prole|para o rebanho|seleciona|todo ano
+e não|menos|também|para o gado|há|a mesma|seleção|equino
+tu|apenas|os que|para|esperança|decidires|criar|da raça
+especial|já|desde|a|tenra idade|dedica|trabalho
+logo|do gado|de boa raça|o potro|nos|campos
+mais alto|caminha|e|flexíveis|as pernas|assenta
+primeiro|tanto|a percorrer|o caminho|como|os rios|a experimentar|ameaçadores
+ousa|e|a desconhecida|se|confiar|ponte
+nem|vãos|teme|ruídos|para ele|erguido|o pescoço
+e fina|a cabeça|curto|o ventre|e largos|os dorsos
+e avulta|em músculos|animoso|o peito|belos
+os castanhos|e os tordilhos|a cor|pior|aos brancos
+e|ao amarelado|então|se|algumas|som|longe|armas|deram
+ficar|no lugar|não sabe|agita|as orelhas|e|treme|nos membros
+e acumulado|contendo|rola|sob|as narinas|o fogo
+densa|a crina|e|direito|lançada|repousa|no|ombro
+mas|duplo|corre|pelos|lombos|o espinhaço|e escava
+a terra|e|sólido|pesadamente|ressoa|o casco|com o chifre
+tal|do amicleu|domado|de Pólux|pelas rédeas
+Cílaro|e|dos quais|gregos|se lembraram|os poetas
+de Marte|os cavalos|atrelados aos pares|e|do grande|os carros|Aquiles
+tal|também|ele próprio|a crina|do pescoço|derrama|equino
+da esposa|à chegada|veloz|Saturno|e|elevado
+o Pélion|com relincho|fugindo|encheu|agudo
+a este|também|quando|ou|por doença|abatido|ou|já|mais lento|pelos anos
+fraqueja|afasta|da casa|nem|à vergonhosa|perdoa|velhice
+frio|para|Vênus|o velho|e em vão|a lida
+ingrata|arrasta|e|se|alguma vez|aos|combates|chegado|foi
+como|outrora|em|palhas|grande|sem|forças|fogo
+em vão|se enfurece|portanto|o ânimo|e a idade|observarás
+sobretudo|depois|outras|qualidades|e a prole|dos pais
+e|qual|a cada um|a dor|vencido|qual|a glória|da palma
+não|vês|quando|impetuosa|em disputa|o campo
+tomaram|e precipitam-se|soltos|da barreira|os carros
+quando|as esperanças|se erguem|dos jovens|e exultantes|arrebata
+os corações|o temor|pulsando|eles|insistem|com o açoite|brandido
+e|inclinados|soltam|as rédeas|voa|com força|ardente|o eixo
+ora|baixos|ora|erguidos|ao alto|parecem
+o ar|pelo|vazio|ser levados|e|erguer-se|nas|brisas
+nem|demora|nem|repouso|mas|da fulva|uma nuvem|areia
+se levanta|molham-se|com espumas|e com o bafo|dos perseguidores
+tamanho|o amor|dos louvores|tamanho|é|da vitória|o cuidado
+primeiro|Erictônio|ao carro|e|quatro|ousou
+atrelar|cavalos|e veloz|sobre as rodas|firmar-se|vencedor
+freios|peletrônios|os lápitas|e círculos|ensinaram
+montados|no dorso|e|o cavalo de montaria|ensinaram|sob|armas
+a saltar|no chão|e|passos|a reunir|altivos
+igual|cada um dos dois|trabalhos|igualmente|e jovem|os mestres
+procuram|e ardente|de ânimo|e|nas corridas|veloz
+embora|muitas vezes|em fuga|voltados|ele|tenha impelido|os inimigos
+e|por pátria|o Epiro|alegue|e a forte|Micenas
+e de Netuno|da própria|derive|origem|a linhagem
+isto|observado|insistem|perto de|o tempo|e|todos
+dedicam|os cuidados|com espessa|a avolumar|gordura
+aquele que|escolheram|como chefe|e|para o gado|designaram|marido
+e viçosas|cortam|ervas|e água corrente|fornecem
+e espelta|para que não|à agradável|seja incapaz|de resistir|lida
+e fracos|dos pais|reproduzam|os jejuns|os filhos
+os próprios|porém|com magreza|emagrecem|rebanhos|deliberadamente
+e|quando|os acasalamentos|primeiros|já|conhecido|o prazer
+incita|e folhagem|negam|e|das fontes|afastam
+muitas vezes|também|com corrida|sacodem|e|ao sol|fatigam
+quando|pesadamente|batidos|geme|a eira|os grãos|e|quando
+que se levanta|ao|Zéfiro|as palhas|são lançadas|vazias
+isto|fazem|com excessivo|para que não|com fartura|mais embotado|o impulso
+seja|no fecundo|campo|e|os sulcos|enlameie|inertes
+mas|arrebate|sedenta|a Vênus|e mais fundo|a guarde
+por sua vez|o cuidado|dos pais|a cessar|e|a suceder|das mães
+começa|cumpridos|prenhes|quando|os meses|andam
+não|a elas|pesados|ninguém|jugos|puxar|com carros
+nem|a salto|vencer|o caminho|tenha|permitido|e|em veloz
+percorrer|os prados|corrida|e rios|atravessar a nado|impetuosos
+nos pastos|em|tranquilos|pastam|e|caudalosos|ao longo de
+rios|musgo|onde|e|verdejantíssima|de relva|a margem
+e cavernas|protejam|e|rochosa|se estenda|a sombra
+há|os bosques|do Sílaro|ao redor|e de azinheiras|verde
+em profusão|o Alburno|voando|ao qual|o nome|de asilo
+romano|é|estro|os gregos|traduziram|chamando
+áspero|estridente|soando|pelo qual|inteiros|aterrorizados|dos bosques
+fogem dispersos|os rebanhos|enfurece-se|com mugidos|o ar
+abalado|e os bosques|e|do seco|a margem|Tânagro
+com este|outrora|monstro|terrível|exerceu|as iras
+da filha de Ínaco|Juno|o tormento|tramando|à novilha
+a este|também|pois|nos maiores|calores|mais feroz|ataca
+afastarás|do prenhe|gado|e os rebanhos|apascentarás
+o sol|há pouco|nascido|ou|a noite|conduzindo|os astros
+depois de|o parto|o cuidado|para|os bezerros|é transferido|todo
+e logo|marcas|e|os nomes|da linhagem|gravam a fogo
+e|os que|ou|para o rebanho|prefiram|criar|a manter
+ou|para os altares|guardar|consagrados|ou|para fender|a terra
+e|o campo|eriçado|rompidos|revolver|os torrões
+os demais|pastam|verdes|rebanhos|pelas|ervas
+tu|os que|para|o trabalho|e|o uso|prepararás|agrícola
+já|bezerros|incita|e o caminho|empreende|da doma
+enquanto|dóceis|os ânimos|dos jovens|enquanto|maleável|a idade
+e|primeiro|frouxos|de fino|de|vime|aros
+ao pescoço|ata|depois|quando|livres|os pescoços
+ao serviço|se acostumarem|pelos próprios|por|colares|ajustados
+junta|pares|e|obriga|o passo|a igualar|os novilhos
+e|por eles|já|frequentemente|rodas|sejam puxadas|vazias
+pela|terra|e|no alto|rastros|no pó|marquem
+depois|pesado|esforçando-se|sob|o peso|de faia|o eixo
+ranja|e|atrelados|o timão|puxe|de bronze|os aros
+enquanto isso|à juventude|indômita|não|ervas|somente
+nem|comestíveis|dos salgueiros|folhas|e junco|palustre
+mas|cereais|à mão|colherás|semeados|nem|para ti|paridas
+à maneira|dos pais|níveos|encherão|os baldes|as vacas
+mas|inteiros|para|queridos|esgotarão|os úberes|filhos
+mas se|para|as guerras|mais|é teu empenho|e as tropas|ferozes
+ou|do Alfeu|com rodas|passar junto a|os rios|de Pisa
+e|de Júpiter|no|bosque|os carros|conduzir|voadores
+primeira|do cavalo|a tarefa|é|os ânimos|e|as armas|ver
+dos combatentes|e as trombetas|suportar|e no arrasto|rangente
+suportar|a roda|e|no estábulo|os freios|ouvir|sonoros
+depois|mais|e|mais|com afáveis|alegrar-se|do mestre
+elogios|e|do acariciado|o som|pescoço|amar
+e|isso|já|logo de início|afastado|de|o úbere|da mãe
+ouse|e por|sua vez|ofereça|aos macios|a boca|cabrestos
+fraco|e ainda|tremente|ainda|inexperiente|da vida
+mas|três|passados|quando|o quarto|chegar|verão
+percorrer|logo|o círculo|comece|e com passos|ressoar
+cadenciados|e descreva|alternados|arcos|das pernas
+e fique|a quem se esforça|semelhante|então|às corridas|os ventos
+então|desafie|e|pelas|abertas|voando|como se|livre|das rédeas
+planícies|mal|na superfície|pegadas|deixe|da areia
+tal como|hiperbóreas|o Aquilão|quando|cerrado|das|paragens
+se abate|e da Cítia|as tempestades|e|secas|dispersa
+nuvens|então|as searas|altas|e os campos|ondulantes
+com suaves|estremecem|sopros|e as copas|um rumor
+emitem|das florestas|e longas|avançam|para|as praias|as ondas
+ele|voa|ao mesmo tempo|os campos|no ímpeto|ao mesmo tempo|os mares|varrendo
+daí|ou|rumo a|da Élida|as balizas|e|vastíssimas|da pista
+suará|distâncias|e|espumas|lançará|pela boca|ensanguentadas
+belgas|ou|com flexível|melhor|levará|carros|pescoço
+então|só|com espessa|grande|forragem|o corpo
+crescer|já|aos domados|permite|pois|antes de|domar
+enormes|erguerão|ânimos|e agarrados|recusarão
+chicotadas|flexíveis|suportar|e|aos duros|obedecer|freios
+mas|não|nenhum|mais|as forças|cuidado|fortalece
+do que|Vênus|e|cegos|os aguilhões|afastar|do amor
+quer|dos bois|quer|seja|a alguém|mais agradável|o uso|dos cavalos
+e|por isso|os touros|para longe|e|para|isolados|afastam
+pastos|atrás de|um monte|interposto|e|além de|rios|largos
+ou|dentro|encerrados|fartos|junto de|cochos|guardam
+consome|pois|as forças|aos poucos|e abrasa|ao ser vista
+a fêmea|nem|dos bosques|deixa|lembrar-se|nem|da erva
+com doces|ela|de fato|seduções|e|muitas vezes|orgulhosos
+com os chifres|entre|si|obriga|a disputar|os amantes
+pasta|na|vasta|Sila|uma bela|novilha
+eles|alternando ataques|com muita|força|combates|travam
+com feridas|repetidas|banha|negro|os corpos|o sangue
+e voltados|contra|os que resistem|são impelidos|os chifres|enorme
+com|estrondo|ressoam|e as matas|e|o extenso|Olimpo
+nem|é costume|dos combatentes|juntos|ficar no estábulo|mas|um deles
+vencido|parte|e para longe|em desconhecidas|exila-se|paragens
+muito|lamentando|a desonra|e os golpes|do soberbo
+vencedor|depois|que|perdeu|sem vingança|os amores
+e|os estábulos|contemplando|dos domínios|saiu|ancestrais
+por isso|com todo|cuidado|as forças|exercita|e|entre
+duras|deita-se|a noite inteira|atapetado|rochas|o leito
+com folhas|ásperas|e|de junça|alimentado|afiada
+e|põe à prova|a si mesmo|e|enfurecer-se|nos|chifres|aprende
+de uma árvore|apoiado|no tronco|e os ventos|provoca
+com golpes|e|espalhada|para|o combate|ensaia|a areia
+depois|quando|reunido|o vigor|e as forças|restabelecidas
+os estandartes|move|e impetuoso|esquecido|lança-se|contra|o inimigo
+uma onda|como|no meio|começou|quando|a embranquecer|do mar
+mais longe|de|e do fundo|a curva|estende|e quando|rolando
+rumo a|terra|tremendamente|ressoa|entre|as rochas|nem|que o próprio
+monte|menor|desaba|mas|do fundo|ferve|a água
+em redemoinhos|e escura|para o alto|lança|a areia
+toda|assim|espécie|sobre|a terra|de homens e|de feras e
+e|a raça|marinha|os rebanhos|e coloridas|as aves
+em|fúrias|e fogo|precipitam-se|o amor|para todos|o mesmo
+em tempo|não|outro|dos filhotes|esquecida|a leoa
+mais feroz|vagou|pelos campos|nem|mortes|por toda parte
+tão|numerosas|disformes|os ursos|e mortandade|causaram
+pelas|matas|então|feroz|o javali|então|cruelíssima|a tigresa
+ai|com perigo|então|da Líbia|solitários|vaga-se|nos|campos
+acaso não|vês|como|inteiros|um tremor|percorre|dos cavalos
+os corpos|se|somente|conhecidas|o cheiro|trouxe|brisas
+e|nem|a eles|já|os freios|dos homens|nem|chicotadas|cruéis
+nem|penhascos|e rochas|cavadas|nem|interpostos|detêm
+rios|e arrastados|pela corrente|revolvendo|montes
+ele mesmo|precipita-se|e as presas|sabélico|afia|o javali
+e|com a pata|revolve|a terra|esfrega|na árvore|os flancos
+e|daqui|e|dali|os ombros|contra|feridas|endurece
+e o|jovem|grande|a quem|revolve|nos|ossos|um fogo
+cruel|amor|decerto|desatadas|revoltos|por tempestades
+na noite|atravessa a nado|escura|tarde|os estreitos|a quem|por cima|imensa
+a porta|troveja|do céu|e|contra as rochas|lançadas|respondem
+as águas|nem|desgraçados|podem|chamá-lo de volta|os pais
+nem|prestes a morrer|sobre|cruel|morte|a donzela
+e os|linces|de Baco|malhados|e|a raça|feroz|dos lobos
+e|dos cães|e que|que|pacíficos|travam|combates|os cervos
+decerto|acima de|todos|a fúria|é|notável|das éguas
+e|o impulso|Vênus|em pessoa|deu|quando|na época|de Glauco
+de Pótnias|com as mandíbulas|os membros|devoraram|as quatro éguas
+a elas|conduz|o amor|através dos|Gárgaros|e através do|ressoante
+Ascânio|vencem|montes|e|rios|atravessam a nado
+e logo|ávidas|quando|ateada|a chama|nas medulas
+na primavera|mais|porque|na primavera|o calor|volta|aos ossos|elas
+com o focinho|todas|voltadas|para|Zéfiro|ficam|sobre rochas|altas
+e recebem|leves|brisas|e|muitas vezes|sem|quaisquer
+acasalamentos|do vento|prenhes|admirável|de dizer
+rochas|por|e|penhascos|e|fundos|vales
+dispersam-se|não|Euro|teus|nem|do sol|rumo a|nascentes
+rumo a|Bóreas|e Cauro|ou|de onde|negríssimo|Austro
+nasce|e|chuvoso|entristece|com frio|o céu
+aqui|enfim|hipômanes|verdadeiro|que|pelo nome|chamam
+os pastores|viscoso|escorre|da|virilha|um veneno
+hipômanes|que|muitas vezes|más|recolheram|madrastas
+e misturaram|ervas|e|não|inofensivas|palavras
+mas|foge|entretanto|foge|irrecuperável|o tempo
+cada pormenor|enquanto|cativos|percorremos|pelo amor
+isto|basta|para as manadas|resta|parte|outra|do cuidado
+lanosos|conduzir|rebanhos|e peludas|cabras
+aqui|o trabalho|daí|glória|valentes|esperai|lavradores
+nem|estou|de ânimo|indeciso|em palavras|isso|dominar|grande
+quão|seja|e|a humildes|essa|acrescentar|coisas|honra
+mas|me|do Parnaso|desertos|por|caminhos escarpados|doce
+arrebata|amor|agrada|ir|pelos cumes|onde|nenhum|dos antecessores
+à Castália|suave|desvia-se|trilho|pela encosta
+agora|veneranda|Pales|com potente|agora|voz|cumpre cantar
+começando|nos estábulos|prescrevo|em|macios|erva
+comerem|as ovelhas|até que|logo|frondoso|seja trazido de volta|o verão
+e|com muita|duro|palha|e de samambaias|com feixes
+forrar|por baixo|o chão|o gelo|para que não|frio|machuque
+delicado|o rebanho|e sarna|traga|e deformantes|dores nos pés
+depois|daí|passando adiante|mando|folhudos|às cabras
+medronheiros|fornecer|e|cursos de água|oferecer|frescos
+e|os estábulos|contra|os ventos|de inverno|expor|ao sol
+para|o meio|voltados|do dia|quando|frio|por fim
+já|se põe|e no fim|derrama orvalho|Aquário|do ano
+estas|também|com não|cuidado|mais leve|por nós|devem ser guardadas
+nem|menor|o proveito|será|embora|milésias|por alto preço
+as lãs|se vendam|tírias|tingidas|de tonalidades vermelhas
+mais numerosa|daí|a prole|daí|abundante|a fartura|de leite
+quanto|mais|esgotado|espumar|o úbere|o balde
+abundantes|mais|espremidas|manarão|correntes|das tetas
+nem|menos|entretanto|as barbas|e grisalhos|os queixos
+cinífios|tosquiam|os bodes|e as cerdas|compridas
+para uso|em|dos acampamentos|e|aos desgraçados|coberturas|marinheiros
+pastam|por sua vez|os bosques|e|as alturas|do Liceu
+e espinhosas|as sarças|e|que amam|as alturas|as moitas
+e|elas mesmas|lembradas|voltam|para|os abrigos|e os seus
+conduzem|e|com pesado|cruzam|mal|úbere|o limiar
+portanto|com todo|empenho|o gelo|e os ventos|nevados
+quanto|menor|é|para elas|motivo de cuidado|mortal|a penúria
+afastarás|e alimento|trarás|e|de ramos|de bom grado
+forragem|nem|durante todo|fecharás|os celeiros de feno|o inverno
+mas|de fato|pelos zéfiros|quando|alegre|que chamam|o verão
+para|os bosques|ambos|os rebanhos|e|para|os pastos|mandará
+de Lúcifer|ao primeiro|quando|astro|frescos|os campos
+percorramos|enquanto|a manhã|é nova|enquanto|as ervas|branquejam
+e|o orvalho|na|tenra|ao rebanho|é muito agradável|erva
+depois|quando|a quarta|a sede|do céu|trouxer|hora
+e|com o canto|queixosas|fenderem|os arvoredos|as cigarras
+aos|poços|ou|fundas|os rebanhos|às|lagoas|mandarei
+corrente|de azinheira|beber|em calhas|a água
+nos calores|mas|do meio-dia|sombrio|procurar|um vale
+se em algum lugar|grande|de Júpiter|antigo|com tronco|um carvalho
+imensos|estender|ramos|ou|se em algum lugar|escuro
+de azinheiras|cerradas|sagrada|um bosque|repousar|na sombra
+então|límpidas|dar|de novo|águas|e|apascentar|de novo
+do sol|ao|ocaso|quando|fresco|o ar|Vésper
+ameniza|e|os bosques|refresca|já|orvalhada|a lua
+e as praias|o alcião|fazem ressoar|o pintassilgo|as moitas
+por que|para ti|os pastores|da Líbia|por que|os pastos|em verso
+descreveria|e|dispersas|habitadas|cabanas|moradas
+muitas vezes|de dia|e de noite|e|inteiro|em|seguida|um mês
+pasta|e vai|o rebanho|vastos|por|desertos|sem|quaisquer
+abrigos|tamanha extensão|de planície|se estende|tudo|consigo
+o vaqueiro|africano|leva|e o teto|e o lar
+e as armas|e amicleu|o cão|e cretense|a aljava
+não|de outro modo|que|pátrias|valente|o romano|em|armas
+desmedida|sob|carga|o caminho|quando|percorre|e|diante do inimigo
+antes de|ser esperado|montado|se posta|em|formação|o acampamento
+mas|não|onde|da Cítia|os povos|e meótidas|as águas
+turbulento|e|revolvendo|amarelas|o Danúbio|areias
+e por onde|retorna|central|o Ródope|estendido|sob|o eixo
+ali|encerradas|mantêm|nos estábulos|as manadas|e não|quaisquer
+ou|ervas|no campo|aparecem|ou|na árvore|folhas
+mas|jaz|sob montes|nevados|disforme|e|profundo
+a terra|gelo|por toda parte|e se eleva|sete|até|côvados
+sempre|inverno|sempre|soprando|frios|os cauros
+então|o Sol|pálidas|não|jamais|dissipa|as sombras
+nem|quando|levado|por cavalos|o alto|alcança|éter|nem|quando
+precipitado|do Oceano|na rubra|banha|superfície|o carro
+solidificam-se|súbitas|corrente|em|rio|crostas
+e a água|já|no dorso|ferradas|sustenta|rodas
+às embarcações|ela|antes|a largos|agora|hospitaleira|carros
+e os bronzes|racham|por toda parte|e as roupas|enrijecem
+vestidas|e cortam|com machados|líquidos|os vinhos
+e|inteiras|sólido|em|gelo|se tornaram|as poças
+e o pingente de gelo|em despenteadas|endureceu|áspero|barbas
+enquanto isso|por todo|não|menos|o céu|neva
+perecem|os animais|ficam imóveis|cercados|de geada
+os corpos|grandes|dos bois|e em cerrada|tropa|os cervos
+entorpecem|sob a massa|nova|e|pelas pontas|mal|dos chifres|sobressaem
+a estes|não|soltos|os cães|nem|com redes|quaisquer
+ou da escarlate|perseguem|assustados|com o temor|pena
+mas|em vão|interposto|empurrando|com o peito|o monte
+de perto|abatem|com ferro|e fortemente|bramindo
+matam|e|com grande|alegres|clamor|levam de volta
+eles mesmos|em|escavadas|cavernas|seguros|sob|profunda
+ócios|passam|terra|e acumulados|troncos de carvalho|e inteiros
+rolaram|aos lares|olmos|e ao fogo|entregaram
+aqui|a noite|em jogos|passam|e|as taças|alegres
+com fermento|e|ácidas|imitam|de vinho|com sorvas
+tal|hiperbóreo|Sete|situado sob|Trião
+povo|sem freio|de homens|rifeu|é açoitado|por Euro
+e|dos animais|fulvas|cobre|os corpos|com cerdas
+se|para ti|a produção de lã|é preocupação|primeiro|a áspera|mata
+e as bardanas|e os abrolhos|estejam longe|evita|os pastos|viçosos
+e desde logo|rebanhos|de pelos|escolhe|macios|brancos
+aquele|porém|embora|o carneiro|seja|branco|ele mesmo
+negra|se esconde|sob úmido|apenas|a quem|a língua|palato
+rejeita|para que não|com manchas|escureça|os velos|escuras
+das crias|e em cheio|outro|procura ao redor|campo
+com um presente|assim|níveo|de lã|se|de crer|digno|é
+Pã|deus|da Arcádia|seduzida|a ti|Lua|enganou
+para|os bosques|profundos|chamando|nem|tu|desprezaste|quem chamava
+mas|a quem|de leite|há desejo|citiso|e lótus|abundantes
+ele mesmo|com a mão|e salgadas|leve|aos cochos|ervas
+daí|e|buscam|os rios|mais|e|mais|os úberes|enchem
+e|do sal|oculto|reproduzem|no|leite|o sabor
+muitos|também|crescidos|afastam|de|as mães|os cabritos
+e na ponta|ferrados|prendem|do focinho|cabrestos
+o que|ao nascer|do dia|ordenharam|e nas horas|diurnas
+à noite|prensam|o que|já|na escuridão|e|com o sol|poente
+ao romper|do dia|levam para fora|em cestos|vai a|as cidades|o pastor
+ou|com pouco|sal|temperam|e para o inverno|guardam
+nem|para ti|o cuidado|dos cães|seja|o último|mas|juntos
+da veloz|Esparta|os filhotes|e o feroz|molosso
+alimenta|com soro|gordo|jamais|com guardiões|tais
+noturno|nos estábulos|o ladrão|e as incursões|dos lobos
+ou|hostis|pela|retaguarda|temerás|os iberos
+muitas vezes|também|na corrida|medrosos|perseguirás|onagros
+e|com cães|a lebre|com cães|caçarás|gamos
+muitas vezes|dos lamaçais|expulsos|silvestres|os javalis
+com latidos|alvoroçarás|perseguindo|e montes|por|altos
+enorme|com gritos|acuarás|para|as redes|o cervo
+aprende|também|aromático|nos estábulos|a queimar|cedro
+e de gálbano|a afugentar|nocivas|com o fumo|serpentes
+muitas vezes|sob|firmes|cochos|ou|perigosa|ao toque
+a víbora|escondeu-se|e a luz|assustada|evita
+ou|ao abrigo|habituada|a cobra|a recolher-se|e|à sombra
+flagelo|cruel|dos bois|e no rebanho|a aspergir|veneno
+aqueceu|o chão|pega|pedras|com a mão|pega|troncos|pastor
+e enquanto ergue|ameaças|e|sibilante|o pescoço|incha
+abate-a|e já|em fuga|a assustada|cabeça|escondeu|fundo
+quando|do meio|as voltas|e da ponta|os anéis|da cauda
+desenrolam-se|e lentas|arrasta|curvas|o último|anel
+há|também|aquela|nociva|calabreses|nos|bosques|serpente
+escamoso|enrolando|erguido|o peito|o dorso
+e|de marcas|longo|malhada|grandes|o ventre
+que|enquanto|rios|alguns|irrompem|das fontes|e|enquanto
+na primavera|umedecem|chuvosa|as terras|e|com chuvosos|austros
+lagoas|frequenta|e nas margens|habitando|ela|de peixes|escura
+voraz|a goela|e de rãs|tagarelas|enche
+depois que|ressequido|o pântano|e as terras|de calor|se fendem
+salta|para|o seco|e|flamejantes|os olhos|revirando
+enfurece-se|pelos campos|e feroz|de sede|e|transtornada|pelo calor
+não|me|então|suaves|sob|o céu|gozar|sonos
+nem|no dorso|do bosque|apraza|ter-me deitado|pelas|ervas
+quando|trocada|renovada|a pele|e lustrosa|de juventude
+rola|ou|filhotes|nos abrigos|ou|ovos|deixando
+erguida|para|o sol|e|com línguas|tremula|na boca|trífidas
+das doenças|também|a ti|as causas|e|os sinais|ensinarei
+repugnante|as ovelhas|ataca|a sarna|quando|fria|a chuva
+mais fundo|até|a carne viva|penetrou|e|áspero|com branco
+o inverno|gelo|ou|quando|aos tosquiados|sem lavar|aderiu
+o suor|e|eriçados|cortaram|os corpos|os espinheiros
+doces|por isso|nos rios|o rebanho|todo|os tratadores
+banham|e molhados|o carneiro|em|água funda|os pelos
+é mergulhado|e solto|favorável|desce flutuando|rio
+ou|tosquiado|com amarga|untam|o corpo|borra de azeitona
+e|espumas|misturam|de prata|e vivos|enxofres
+e do Ida|pezes|e|gordas|de unguento|ceras
+e cila|e eléboros|fortes|e negro|betume
+não|contudo|nenhuma|mais|imediata|solução|das aflições|há
+do que|se|alguém|com ferro|pôde|reabrir|superficial
+da úlcera|a abertura|alimenta-se|o mal|e vive|ao ser coberto
+enquanto|curadoras|aplicar|as mãos|às|feridas|o pastor
+recusa|e|melhores|aos deuses|fica sentado|presságios|pedindo
+e mais|ainda|ao fundo|a dor|dos que balem|descida|até|os ossos
+quando|se alastra|e|os membros|devora|seca|a febre
+foi útil|ardentes|os ardores|desviar|e|entre
+as partes inferiores|ferir|do pé|que pulsa|com sangue|a veia
+os bisaltas|segundo esse|costume|costumam|e feroz|o gélono
+quando|foge|para|o Ródope|e|para|os desertos|dos getas
+e|leite|coalhado|com|sangue|bebe|equino
+a que|longe|ou|suave|se recolher|mais vezes|à sombra
+vires|ou|as pontas|beliscando|mais sem ânimo|das ervas
+e em último lugar|seguir|ou|no meio|deitar-se|do campo
+enquanto pasta|e|tardia|sozinha|recolher-se|à noite
+imediatamente|o mal|com ferro|detém|antes que
+terríveis|por|desprevenido|se alastrem|contágios|o rebanho
+não|tão|cerrado|trazendo|a tempestade|precipita-se|sobre o mar|o turbilhão
+quanto|numerosas|dos animais|as pestes|nem|isolados|as doenças
+corpos|arrebatam|mas|inteiras|as pastagens de verão|de repente
+e a esperança|e o rebanho|juntos|e toda|desde|a origem|a raça
+então|saiba|aéreos|os Alpes|e|nóricas|se|alguém
+fortalezas|sobre|colinas|e|do iápide|os campos|Timavo
+agora|ainda|depois de|tanto tempo|vir|e desertos|os domínios
+dos pastores|e|ao longe|os bosques|e por toda parte|vazios
+aqui|outrora|por uma doença|do céu|lastimável|surgida|foi
+calamidade|e em todo|do outono|inflamou-se|o calor
+e|a espécie|toda|à morte|dos animais domésticos|entregou|toda|das feras
+e corrompeu|os lagos|infectou|as pastagens|com podridão
+nem|o caminho|da morte|era|simples|mas|quando|ardente|nas veias
+todas|espalhada|a sede|infelizes|contraíra|os membros
+por sua vez|transbordava|fluido|um líquido|e todos|para|si
+os ossos|aos poucos|pela doença|desfeitos|arrastava
+muitas vezes|em|honra|dos deuses|em meio|de pé|a vítima|junto a|o altar
+de lã|enquanto|branca como neve|é atada|a ínfula|com fita
+entre|hesitantes|caiu|moribunda|os oficiantes
+ou|se|alguma|com ferro|sacrificara|antes|o sacerdote
+daí|nem|postas sobre eles|ardem|os altares|com as entranhas
+nem|respostas|pode|consultado|dar|o adivinho
+e|mal|postas por baixo|se tingem|de sangue|as facas
+e a superfície|escasso|com líquido purulento|escurece|da areia
+daí|viçosas|os bezerros|por toda parte|morrem|nas|ervas
+e|doces|as almas|cheios|junto aos|cochos|entregam
+daí|aos cães|afáveis|a raiva|sobrevém|e|sacode|doentes
+a tosse|ofegante|os porcos|e|pela garganta|sufoca|inchada
+cambaleia|infeliz|dos exercícios|e|esquecido|do pasto
+vencedor|o cavalo|e das fontes|se afasta|e|com o casco|a terra
+repetidamente|golpeia|caídas|as orelhas|irregular|ali mesmo
+o suor|e|ele|de fato|nos que vão morrer|frio|resseca
+a pele|e|ao|toque|a quem apalpa|dura|resiste
+estes|antes|da morte|nos primeiros|dão|sinais|dias
+mas se|no|decorrer|começou|a agravar-se|a doença
+então|de fato|ardentes|os olhos|e|puxado|de|fundo
+o fôlego|às vezes|com gemido|pesado|e baixos|com longo
+os flancos|soluço|retesam|corre|pelas narinas|negro
+o sangue|e|obstruída|a garganta|comprime|áspera|a língua
+foi útil|introduzido|o líquido|verter|com um chifre
+de Leneu|essa|pareceu|salvação|aos moribundos|única
+logo|era|isso|mesmo|causa de morte|e pelo furor|reanimados
+ardiam|e eles próprios|os seus|já|morte|sob|penosa
+deuses|melhores coisas|aos piedosos|e o desvario|aos inimigos|aquele
+dilacerados|com nus|despedaçavam|dentes|os membros
+eis|porém|duro|fumegante|sob|a relha|o touro
+cai|e|misturado|com espuma|vomita|pela boca|sangue
+e últimos|solta|gemidos|vai|triste|o lavrador
+enlutado|desatrelando|fraterna|pela morte|o novilho
+e|do trabalho|em|meio|fincados|deixou|os arados
+nem|as sombras|dos altos|bosques|nem|macios|podem
+prados|comover|o ânimo|nem|aquele que|por|rochas|rolando
+mais puro|que o âmbar|a planície|busca|o rio|mas|baixos
+cedem|os flancos|e|os olhos|o torpor|oprime|inertes
+e para|a terra|cai|inclinado|com o peso|o pescoço
+de que|o trabalho|ou|os bons feitos|servem|de que|com a relha|terras
+ter revolvido|pesadas|ora|não|mássicos|de Baco
+dons|nem|a eles|banquetes|fizeram mal|repetidos
+de folhas|e|de alimento|nutrem-se|de simples|erva
+as bebidas|são|fontes|límpidas|e|impetuosos|no curso
+rios|nem|os sonos|interrompe|inquietação|reparadores
+em época|não|outra|dizem|nas regiões|aquelas
+procuradas|para|os ritos|as vacas|de Juno|e|por auroques
+desiguais|puxados|altos|até|os santuários|os carros
+por isso|com esforço|com enxadas|a terra|revolvem|e|com as próprias
+unhas|enterram|as sementes|e montes|por|altos
+retesado|com o pescoço|puxam|rangentes|os carros
+não|o lobo|emboscadas|procura|os redis|em torno
+nem|junto aos rebanhos|noturno|ronda|mais aguda|a ele
+aflição|dobra|medrosos|os gamos|e os cervos|fugidios
+agora|e entre|os cães|e|em torno|das casas|vagueiam
+já|do mar|imenso|a prole|e|a raça|toda|dos nadadores
+na praia|em|extrema|como|náufragos|corpos|a onda
+arroja|desacostumadas|fogem|para|os rios|as focas
+perece|também|em tortuosos|em vão|abrigada|esconderijos
+a víbora|e|atônitas|com escamas|eriçadas|as cobras-d'água
+para as próprias|é|o ar|aves|não|propício|e|elas
+precipitadas|alta|a vida|sob|nuvem|abandonam
+além disso|já|nem|mudar|as forragens|adianta
+e procurados|fazem mal|os remédios|cederam|os mestres
+filho de Fílira|Quíron|e filho de Amitáon|Melampo
+enfurece-se|e|à|luz|estígias|solta|das trevas
+pálida|Tisífone|as Doenças|impele|diante|e o Medo
+e a cada|dia|ávida|erguendo-se|a cabeça|mais alto|levanta
+com o balido|dos rebanhos|e|repetidos|mugidos|os rios
+e ressequidas|ressoam|as margens|e as colinas|suaves
+e já|em bandos|causa|mortandade|e|empilha|nos próprios
+em|estábulos|repugnante|desfeitos|cadáveres|por podridão
+até que|com terra|cobrir|e|em covas|esconder|aprendem
+pois|nem|havia|para as peles|uso|nem|as vísceras|alguém
+ou|com águas|eliminar|pode|ou|dominar|com chama
+nem|tosquiar|sequer|pela doença|e pela imundície|corroídos
+os velos|nem|os tecidos|podem|tocar|podres
+mas|até|detestáveis|se|alguém|tocara|vestes
+ardentes|pústulas|e|imundo|malcheirosos|o suor
+os membros|seguiam|nem|longo|depois|a quem demorava
+tempo|tocados|os membros|maldito|o fogo|devorava`.split('\n').map(line => line.split('|')),
+
 };
 
 // Verbetes editoriais para formas que o cruzamento lexical não cobriu em I.7–32.
@@ -1409,6 +1976,109 @@ export const readingPassages = {
     532: [542, "Essa vida cultivaram outrora os antigos sabinos, Remo e seu irmão. Assim cresceu a valente Etrúria e Roma se tornou a mais bela de todas, cercando sozinha com uma muralha suas sete cidadelas. Antes mesmo do cetro do rei dicteu e antes que a raça ímpia se banqueteasse com novilhos sacrificados, o dourado Saturno levava essa vida na terra. Ainda não se tinham ouvido soar trombetas de guerra, nem tilintar espadas postas sobre duras bigornas. Mas nós já percorremos o mar imenso, e é hora de soltar os pescoços fumegantes dos cavalos."],
   },
 
+  3: {
+    1: [2, 'Cantaremos também a ti, grande Pales, a ti, pastor memorável do Anfriso, e a vós, bosques e rios do Liceu.'],
+    3: [9, 'Todos os outros temas que poderiam ocupar com seu canto as mentes ociosas já são conhecidos. Quem desconhece o cruel Euristeu ou os altares do infame Busíris? A quem não cantaram o jovem Hilas, a Delos de Latona, Hipodâmia e Pélops, ilustre pelo ombro de marfim e destro com os cavalos? É preciso tentar um caminho pelo qual eu também possa erguer-me do solo e, vitorioso, voar de boca em boca.'],
+    10: [15, 'Serei o primeiro, contanto que me reste vida, a trazer comigo as Musas para a pátria, ao voltar do cume aônio. Serei o primeiro a trazer-te, Mântua, as palmas da Idumeia. Erguerei um templo de mármore num campo verde, junto à água, onde o vasto Míncio serpenteia em lentas curvas e reveste as margens de caniço tenro.'],
+    16: [20, 'No centro estará César, que ocupará o templo. Para ele, vitorioso e vestido de púrpura tíria, conduzirei junto ao rio cem carros de quatro cavalos. Toda a Grécia, deixando o Alfeu e os bosques de Molorco, competirá em corridas e no pugilato com o cesto cruel.'],
+    21: [25, 'Eu mesmo, com a cabeça ornada de folhas de oliveira podada, levarei as oferendas. Já me agrada imaginar as procissões solenes seguindo aos santuários e os novilhos abatidos, ou o cenário se abrindo quando giram as fachadas e os britanos tecidos na púrpura erguendo as cortinas.'],
+    26: [33, 'Nas portas farei em ouro e marfim maciço a batalha dos gangáridas e as armas de Quirino vencedor. Ali estará o Nilo, vasto, correndo e ondulando de guerra, e as colunas que se erguem de bronze naval. Acrescentarei as cidades da Ásia subjugadas, o Nífates repelido e o parto confiante na fuga e nas flechas que dispara para trás. Acrescentarei dois troféus arrancados pela força a inimigos distintos e povos de ambas as margens celebrados em dois triunfos.'],
+    34: [36, 'Também se erguerão mármores de Paros, estátuas que parecem respirar. Ali estarão os descendentes de Assáraco e os nomes da linhagem que desce de Júpiter, Trós, o pai, e Apolo do Cinto, fundador de Troia.'],
+    37: [39, 'A Inveja infeliz temerá as Fúrias, o rio severo do Cocito, as serpentes retorcidas de Íxion, a roda monstruosa e a pedra que ninguém consegue vencer.'],
+    40: [45, 'Enquanto isso, sigamos pelos bosques e desfiladeiros intactos das Dríades, conforme tuas ordens nada brandas, ó Mecenas. Sem ti, minha mente nada de elevado empreende. Anda, indolente, rompe as demoras. Chamam com enorme clamor o Citéron, os cães do Taígeto e Epidauro, domadora de cavalos. A voz ressoa redobrada pelo eco dos bosques.'],
+    46: [48, 'Em breve, contudo, me prepararei para narrar as ardentes batalhas de César e levar seu nome em fama por tantos anos quantos separam César da primeira origem de Titono.'],
+    49: [55, 'Quer alguém, admirando os prêmios da palma olímpica, crie cavalos, quer crie novilhos fortes para o arado, escolha sobretudo pelo porte das mães. A melhor vaca tem aspecto feroz, cabeça feia e pescoço muito grosso. A papada pende do queixo até as pernas. Quanto mais compridos os flancos, melhor. Tudo é grande, inclusive o pé, e sob os chifres curvos as orelhas são peludas.'],
+    56: [62, 'Tampouco me desagrada a vaca que se distingue pelas manchas e pelo branco ou que recusa o jugo, às vezes ameaça com o chifre e tem aspecto mais próximo do touro. Também me agrada a que é alta em todo o corpo e, ao andar, varre com a cauda as pegadas no chão. A idade de suportar Lucina e as núpcias legítimas começa depois dos quatro anos e termina antes dos dez. Fora dessa idade, ela carece de aptidão para criar e de força para o arado.'],
+    63: [71, 'Enquanto resta aos rebanhos a juventude viçosa, solta os machos e sê o primeiro a lançar o gado aos trabalhos de Vênus. Pela reprodução, faz suceder uma prole a outra. Para os infelizes mortais, os melhores dias da vida são os primeiros a fugir. Sobrevêm as doenças, a triste velhice e a lida, e a dureza da morte cruel os arrebata. Haverá sempre reses que preferirás substituir. Renova, pois, o rebanho. Antecipa-te para que não procures depois as que perdeste e seleciona a cada ano as crias para o rebanho.'],
+    72: [79, 'A mesma seleção vale para os cavalos. Aos que decidires criar como esperança da raça, dedica especial empenho desde tenra idade. O potro de boa raça logo caminha com passo mais alto pelos campos e assenta as pernas flexíveis. É o primeiro a ousar percorrer o caminho, experimentar rios ameaçadores e confiar-se a uma ponte desconhecida. Não se assusta com ruídos vãos. Tem o pescoço erguido.'],
+    80: [88, 'Tem cabeça fina, ventre curto e dorso largo, e o peito animoso avulta em músculos. São belos os castanhos e os tordilhos. A pior cor é a dos brancos e dos amarelados. Se armas ressoam ao longe, o cavalo não sabe ficar parado, agita as orelhas, treme nos membros, contém o fogo acumulado e o revolve sob as narinas. A crina densa cai sobre o ombro direito. Um espinhaço duplo corre pelos lombos, e o casco escava a terra e ressoa pesadamente com seu chifre sólido.'],
+    89: [94, 'Tal era Cílaro, domado pelas rédeas de Pólux de Amiclas. Tais eram os cavalos de Marte, atrelados aos pares, e os carros do grande Aquiles, que os poetas gregos celebraram. Assim o próprio Saturno, veloz à chegada da esposa, deixou cair a crina do pescoço equino e, fugindo, encheu o alto Pélion com um relincho agudo.'],
+    95: [102, 'Quando esse cavalo fraquejar, abatido pela doença ou já mais lento pelos anos, afasta-o de casa e não poupes a velhice que o desfigura. Frio para Vênus, o velho arrasta em vão a lida ingrata. Se chega ao combate, enfurece-se em vão, como um grande fogo de palha sem força. Observa, portanto, sobretudo o ânimo e a idade, depois as outras qualidades e a descendência dos pais, a dor que cada um sente quando vencido e a glória que encontra na palma.'],
+    103: [112, 'Não vês os carros, soltos da barreira, tomarem o campo numa corrida impetuosa? Erguem-se as esperanças dos jovens e o temor, pulsando, arrebata seus corações exultantes. Eles brandem o açoite e, inclinados para a frente, soltam as rédeas. O eixo ardente voa com ímpeto. Ora baixos, ora erguidos, os carros parecem arrebatados pelo ar vazio e levantados às brisas. Não há demora nem repouso. Levanta-se uma nuvem de areia fulva, e os corredores se molham com a espuma e o bafo dos que os seguem. Tamanho é o amor do louvor, tamanho o empenho pela vitória.'],
+    113: [117, 'Erictônio foi o primeiro a ousar atrelar quatro cavalos ao carro e firmar-se, veloz e vitorioso, sobre as rodas. Os lápitas peletrônios, montados no dorso, ensinaram o uso dos freios e as voltas em círculo. Ensinaram também o cavalo de montaria a saltar sobre o chão sob as armas e a encadear passos altivos.'],
+    118: [122, 'O trabalho é igual nas duas modalidades. Em ambas os mestres procuram um cavalo jovem, fogoso de ânimo e veloz na corrida, ainda que já tenha muitas vezes posto inimigos em fuga, reivindique por pátria o Epiro e a forte Micenas e derive sua linhagem do próprio Netuno.'],
+    123: [128, 'Feitas essas observações, quando se aproxima o tempo, empenham-se em engordar bem o macho que escolheram como chefe e destinaram a cobrir o rebanho. Cortam ervas viçosas e lhe dão água corrente e espelta, para que possa suportar a agradável lida e os filhos não nasçam fracos, reproduzindo a fome dos pais.'],
+    129: [137, 'Já as fêmeas do rebanho eles fazem emagrecer de propósito. Quando o prazer já conhecido incita aos primeiros acasalamentos, negam-lhes folhagem e afastam-nas das fontes. Muitas vezes também as sacodem com corridas e as fatigam ao sol, quando a eira geme sob os grãos duramente batidos e a palha vazia é lançada ao Zéfiro que se levanta. Fazem isso para que a fartura excessiva não embote o impulso no campo fecundo e não cubra de lama os sulcos inertes. Querem que a fêmea, sedenta, arrebate Vênus e a guarde mais fundo.'],
+    138: [145, 'Por sua vez, o cuidado com os pais começa a ceder lugar ao cuidado com as mães. Quando andam prenhes, cumpridos os meses, ninguém lhes permita puxar jugos de carros pesados, vencer o caminho a saltos, percorrer os prados em corrida veloz ou atravessar a nado rios impetuosos. Pastam em lugares tranquilos, à margem de rios caudalosos, onde há musgo, as margens verdejam de relva, as cavernas dão abrigo e se estende a sombra dos rochedos.'],
+    146: [153, 'Em torno dos bosques do Sílaro e do Alburno verde de azinheiras, voa em profusão um inseto que os romanos chamam asilo e os gregos, estro. Agressivo e estridente, aterroriza rebanhos inteiros, que fogem dispersos dos bosques. O ar, as matas e a margem do seco Tânagro estremecem de mugidos. Com esse monstro, a terrível Juno outrora deu vazão à sua ira, tramando o tormento da novilha filha de Ínaco.'],
+    154: [156, 'Afasta também esse inseto do gado prenhe, pois ele ataca com mais ferocidade no auge do calor. Leva os rebanhos a pastar logo ao nascer do sol ou quando os astros trazem a noite.'],
+    157: [161, 'Depois do parto, todo o cuidado passa aos bezerros. Logo lhes gravam a fogo as marcas e os nomes da linhagem e indicam quais preferem criar para manter o rebanho, reservar como vítimas sagradas para os altares ou destinar a fender a terra e revolver os campos eriçados, quebrando os torrões.'],
+    162: [165, 'Os demais rebanhos pastam pelas ervas verdes. Mas os bezerros que prepararás para o serviço do campo, começa a incitá-los desde já e empreende a doma enquanto são dóceis os ânimos dos jovens e maleável a idade.'],
+    166: [173, 'Primeiro ata-lhes ao pescoço aros frouxos de vime fino. Depois, quando os pescoços livres se acostumarem ao serviço, junta em pares os novilhos ajustados pelos próprios colares e obriga-os a igualar o passo. Que puxem muitas vezes rodas vazias pela terra e marquem rastros na superfície do pó. Depois, que o eixo de faia, sob carga pesada, ranja com o esforço, e que o timão puxe os aros de bronze atrelados.'],
+    174: [178, 'Enquanto isso, para os jovens ainda indômitos, colherás à mão não só ervas, folhas comestíveis de salgueiro e junco palustre, mas também cereais semeados. As vacas recém-paridas não te encherão de leite os baldes, como no tempo dos antigos. Darão tudo que têm nos úberes aos filhos queridos.'],
+    179: [184, 'Mas, se te interessam mais as guerras e os esquadrões ferozes, ou passar com as rodas junto às águas do Alfeu em Pisa e conduzir carros voadores no bosque de Júpiter, a primeira tarefa do cavalo é ver o ardor e as armas dos combatentes, suportar as trombetas e o ranger da roda que arrasta, e ouvir no estábulo o som dos freios.'],
+    185: [189, 'Depois, que se alegre cada vez mais com os afáveis elogios do mestre e goste do som das palmadas no pescoço. Que ouse tudo isso logo que for afastado do úbere da mãe e, por sua vez, ofereça a boca aos cabrestos macios, ainda fraco, trêmulo e inexperiente da vida.'],
+    190: [195, 'Mas, passados três verões, quando chegar o quarto, que comece logo a percorrer o círculo e a fazer soar os cascos em passos cadenciados. Que descreva arcos alternados com as pernas, como quem se esforça. Então desafie os ventos na corrida e voe pelas planícies abertas como se estivesse livre das rédeas, mal deixando pegadas na superfície da areia.'],
+    196: [201, 'Assim o Aquilão se abate, cerrado, vindo das paragens hiperbóreas, e dispersa as tempestades da Cítia e as nuvens secas. As altas searas e os campos ondulantes estremecem sob os sopros suaves, as copas das florestas rumorejam e longas ondas avançam para as praias. Ele voa, varrendo no mesmo ímpeto os campos e os mares.'],
+    202: [208, 'Daí, ou suará na pista da Élida, rumo às balizas, ao percorrer distâncias imensas, lançando espuma ensanguentada pela boca, ou puxará com mais destreza, de pescoço flexível, os carros belgas. Só depois da doma deixa que ganhem corpo com forragem espessa. Antes disso, ficariam soberbos e, uma vez agarrados, se recusariam a suportar os golpes do chicote flexível e a obedecer aos freios duros.'],
+    209: [211, 'Mas nenhum cuidado fortalece tanto os animais quanto afastá-los de Vênus e dos aguilhões do amor cego, quer se prefira o trabalho dos bois, quer o dos cavalos.'],
+    212: [218, 'Por isso, afastam os touros para pastos isolados, atrás de um monte que os separa ou do outro lado de rios largos, ou os mantêm encerrados junto a cochos bem abastecidos. Só de se deixar ver, a fêmea lhes consome pouco a pouco as forças e os abrasa. Com suas doces seduções, ela os faz esquecer os bosques e a erva e muitas vezes força os orgulhosos amantes a decidir a disputa a chifradas.'],
+    219: [223, 'Uma bela novilha pasta na vasta Sila. Os touros se revezam nos ataques e lutam com toda a força, ferindo-se repetidas vezes. O sangue escuro banha seus corpos. De cabeça baixa, investem com os chifres um contra o outro, num estrondo que faz ressoar as matas e o imenso Olimpo.'],
+    224: [228, 'Os rivais não costumam partilhar o estábulo. Derrotado, um deles vai para longe, exilado em paragens desconhecidas. Lamenta a desonra, os golpes do vencedor soberbo e o amor que perdeu sem se vingar. De olhos nos estábulos, deixa os domínios ancestrais.'],
+    229: [234, 'Exercita então as forças com todo o cuidado. Passa a noite entre rochas duras, num leito de folhas ásperas, e alimenta-se de junça afiada. Põe-se à prova contra o tronco de uma árvore, aprende a descarregar a fúria pelos chifres, golpeia os ventos e ensaia a luta, espalhando areia.'],
+    235: [241, 'Quando recobra o vigor e as forças, marcha para a batalha e investe de cabeça contra o inimigo que já o esqueceu. Assim uma onda começa a embranquecer em pleno mar, estende sua curva desde as profundezas e, rolando rumo à terra, estrondeia entre as rochas e desaba tão alta quanto um monte. Do fundo, a água ferve em redemoinhos e lança para o alto a areia escura.'],
+    242: [249, 'Assim, homens e feras, animais marinhos, rebanhos e aves coloridas precipitam-se no furor e no fogo. O amor é o mesmo para todos. Em nenhuma outra época a leoa, esquecida dos filhotes, vagou mais feroz pelos campos, nem os ursos disformes espalharam tanta morte e devastação pelas matas. Então é feroz o javali e cruelíssima a tigresa. Ai de quem vaga então pelos campos solitários da Líbia.'],
+    250: [254, 'Não vês como um tremor percorre todo o corpo dos cavalos, assim que a brisa lhes traz o cheiro familiar? Já nem os freios dos homens nem as chicotadas cruéis os detêm, nem os penhascos, as rochas cavadas ou os rios que lhes cortam o caminho e revolvem montes arrastados pela corrente.'],
+    255: [257, 'O javali sabélico se precipita e afia as presas. Revolve a terra com a pata, esfrega os flancos numa árvore e, de um lado e de outro, endurece os ombros contra as feridas.'],
+    258: [263, 'E o jovem em cujos ossos o amor cruel atiça um grande fogo? Tarde, na noite escura, atravessa a nado o estreito revolto pelas tempestades. Acima dele troveja a imensa porta do céu, e as águas, lançadas contra as rochas, respondem em estrondo. Nem os pais desgraçados conseguem chamá-lo de volta, nem a donzela, que morrerá sobre seu cadáver.'],
+    264: [265, 'E os linces malhados de Baco, a raça feroz dos lobos e a dos cães? E as lutas que travam os cervos pacíficos?'],
+    266: [270, 'De todas, sobressai a fúria das éguas. Foi a própria Vênus que lhes deu esse impulso quando as quatro éguas de Pótnias devoraram a dentadas os membros de Glauco. O amor as leva pelos Gárgaros e pelo ruidoso Ascânio. Vencem montes e atravessam rios a nado.'],
+    271: [279, 'Assim que a chama se acende em suas medulas ávidas, sobretudo na primavera, quando o calor volta aos ossos, todas ficam sobre altas rochas, com o focinho voltado para Zéfiro, e recebem as brisas leves. Muitas vezes, sem acasalar, ficam prenhes do vento, coisa espantosa de contar. Dispersam-se por rochas, penhascos e vales fundos. Evitam o rumo de Euro e do nascer do sol e seguem para Bóreas e Cauro, ou para onde nasce o Austro escuro, que tolda o céu com chuva e frio.'],
+    280: [283, 'É então que lhes escorre da virilha um veneno viscoso, a que os pastores dão o nome de hipômanes. Madrastas perversas muitas vezes o recolheram e lhe misturaram ervas e palavras nocivas.'],
+    284: [288, 'Mas, enquanto percorremos cada pormenor, cativos do amor ao assunto, o tempo foge, foge sem volta. Basta para as manadas. Resta outra tarefa: conduzir rebanhos de ovelhas lanosas e cabras peludas. Aqui está o trabalho. Daí esperai a glória, valentes lavradores.'],
+    289: [294, 'Sei bem como é difícil tratar este assunto em versos e conferir tal honra a coisas humildes. Mas um doce amor me arrebata pelas alturas desertas do Parnaso. Agrada-me seguir pelos cumes, por onde nenhum trilho dos meus predecessores desce em suave encosta até Castália. Agora, veneranda Pales, é preciso cantar em voz potente.'],
+    295: [299, 'Para começar, recomendo que as ovelhas comam erva em estábulos macios até voltar o verão frondoso. Forra-lhes o chão duro com muita palha e feixes de samambaias, para que o gelo não machuque o rebanho delicado nem lhe traga sarna e males que deformam os pés.'],
+    300: [304, 'Passando às cabras, mando que lhes forneças ramos de medronheiro e água corrente e fresca. Abriga os estábulos dos ventos e volta-os para o sol de inverno ao meio-dia, quando o frio Aquário já se põe e derrama orvalho no fim do ano.'],
+    305: [310, 'As cabras merecem igual cuidado e dão tanto proveito quanto as ovelhas, embora as lãs de Mileto, tingidas de púrpura tíria, se vendam por alto preço. Das cabras vêm crias mais numerosas e leite em abundância. Quanto mais espuma encher o balde à medida que esvazias o úbere, mais fartos serão os jorros das tetas espremidas.'],
+    311: [313, 'Enquanto isso, tosquiam-se as barbas, os queixos grisalhos e as longas cerdas dos bodes do Cínife, para uso nos acampamentos e para fazer cobertas aos pobres marinheiros.'],
+    314: [317, 'As cabras pastam nos bosques e nas alturas do Liceu, entre sarças espinhosas e moitas que preferem as encostas. Lembram-se do caminho e voltam sozinhas ao abrigo, trazendo as crias, e mal cruzam o limiar com o úbere pesado.'],
+    318: [321, 'Quanto menos elas se guardam da penúria mortal, tanto mais empenho terás em protegê-las do gelo e dos ventos de neve. Leva-lhes de bom grado alimento e ramos para forragem e mantém abertos os celeiros de feno durante todo o inverno.'],
+    322: [326, 'Quando o verão alegre, ao chamado dos zéfiros, mandar os dois rebanhos aos bosques e pastos, percorramos os campos frescos ao primeiro brilho da estrela da manhã, enquanto o dia ainda é novo, a erva branqueja e o orvalho sobre os brotos tenros tanto agrada ao rebanho.'],
+    327: [334, 'Quando a quarta hora trouxer a sede e as cigarras queixosas romperem com seu canto o silêncio dos arvoredos, mandarei que os rebanhos bebam nos poços ou nas lagoas fundas a água que corre por calhas de azinheira. No calor do meio-dia, que procurem um vale sombrio, onde um grande carvalho de Júpiter estenda ramos imensos de seu tronco antigo ou onde um bosque fechado de azinheiras repouse em sombra sagrada.'],
+    335: [338, 'Dá-lhes de novo água límpida e torna a levá-los ao pasto ao pôr do sol. Vésper ameniza o ar com seu frescor, a lua orvalhada refresca os bosques, e as praias ressoam com o alcião, as moitas com o pintassilgo.'],
+    339: [340, 'Por que te descreveria em versos os pastores da Líbia, seus pastos e as cabanas habitadas, dispersas umas das outras?'],
+    341: [345, 'Muitas vezes o rebanho pasta e segue dia e noite, um mês inteiro a fio, por vastos desertos sem abrigo. Tão longe se estende a planície. O vaqueiro africano leva tudo consigo: o teto, o lar, as armas, o cão de Amiclas e a aljava cretense.'],
+    346: [348, 'Assim também o valente romano, com as armas de sua pátria, percorre o caminho sob uma carga desmedida. Monta o acampamento e se posta em formação diante do inimigo antes que este o espere.'],
+    349: [356, 'É diferente entre os povos da Cítia, junto às águas do Meótis e do Danúbio turbulento, que revolve areias amarelas, e por onde o Ródope se estende e recurva sob o eixo do céu. Ali mantêm as manadas encerradas nos estábulos. Não se vê erva no campo nem folha nas árvores. A terra jaz disforme, sob montes de neve e gelo espesso que se elevam até sete côvados. É sempre inverno, e os ventos do noroeste sopram sempre frios.'],
+    357: [359, 'O Sol jamais dissipa as sombras pálidas, nem quando os cavalos o levam ao alto do céu, nem quando banha as águas rubras do Oceano com seu carro em rápida descida.'],
+    360: [366, 'De súbito, formam-se crostas de gelo sobre o rio corrente. A água já sustenta no dorso as rodas ferradas. Antes acolhia embarcações, agora acolhe carros largos. Por toda parte, o bronze racha, as roupas enrijecem sobre o corpo e cortam-se a machado vinhos antes líquidos. As poças congelam por inteiro e ásperos pingentes de gelo endurecem nas barbas desgrenhadas.'],
+    367: [375, 'Enquanto isso, continua nevando por todo o céu. Os animais morrem, os grandes corpos dos bois ficam imóveis, cercados de geada, e os cervos, em tropa cerrada, ficam entorpecidos sob a neve recém-caída. Mal se veem as pontas dos chifres. Para caçá-los, dispensam cães, redes e o susto das penas escarlates. Enquanto os cervos tentam em vão abrir caminho pelo monte de neve com o peito, os caçadores os abatem de perto, a ferro, em meio a fortes bramidos, e levam a caça de volta com gritos de alegria.'],
+    376: [383, 'Em cavernas escavadas fundo na terra, eles descansam em segurança. Juntam troncos de carvalho, rolam olmos inteiros até as lareiras e entregam tudo ao fogo. Passam a noite em jogos e, alegres, imitam o vinho com fermento e sorvas ácidas. Assim vive esse povo indômito sob o Setentrião hiperbóreo, açoitado pelo Euro dos montes Rifeus, vestindo-se com as cerdas fulvas dos animais.'],
+    384: [390, 'Se te preocupa a produção de lã, afasta primeiro o rebanho das matas ásperas, das bardanas e dos abrolhos. Evita pastos viçosos e escolhe desde logo rebanhos brancos de pelo macio. Mesmo que o carneiro seja branco, rejeita aquele que sob o palato úmido esconde uma língua negra, para que a lã das crias não saia manchada de escuro. Procura outro campo afora.'],
+    391: [393, 'Com um presente de lã branca como a neve, se é digno de crédito, Pã, deus da Arcádia, seduziu e enganou a ti, Lua, chamando-te ao fundo dos bosques. E tu atendeste ao chamado.'],
+    394: [399, 'Quem deseja leite leve com as próprias mãos aos cochos bastante citiso e lótus, além de ervas salgadas. Assim as cabras buscam mais água, enchem mais os úberes e transmitem ao leite um discreto sabor de sal. Muitos também separam das mães os cabritos já crescidos e lhes prendem cabrestos ferrados na ponta do focinho.'],
+    400: [403, 'Prensam à noite o leite ordenhado ao amanhecer e durante o dia, e ao romper do dia o que ordenharam ao pôr do sol ou no escuro. O pastor leva os queijos em cestos à cidade, ou os tempera com pouco sal e guarda para o inverno.'],
+    404: [408, 'Dá também atenção aos cães. Alimenta juntos, com soro gordo, os filhotes da veloz Esparta e o feroz molosso. Com esses guardiões, jamais temerás ladrões noturnos nos estábulos, incursões de lobos ou ataques de iberos pela retaguarda.'],
+    409: [413, 'Muitas vezes perseguirás na corrida os onagros medrosos e com os cães caçarás lebres e gamos. Com latidos, acossarás os javalis que saírem dos lamaçais da mata e, aos gritos, acuarás um cervo enorme pelos altos montes até as redes.'],
+    414: [415, 'Aprende também a queimar cedro aromático nos estábulos e a afugentar as serpentes nocivas com a fumaça do gálbano.'],
+    416: [424, 'Muitas vezes uma víbora perigosa ao toque se esconde sob um cocho fixo e foge assustada da luz. Ou ali se aquece no chão uma cobra acostumada ao abrigo e à sombra, cruel flagelo dos bois, que asperge seu veneno no rebanho. Pega pedras e troncos, pastor, e abate-a enquanto ergue a cabeça ameaçadora e incha o pescoço sibilante. Já em fuga, escondeu fundo a cabeça assustada, enquanto se desenrolam as voltas do corpo e os anéis da cauda, cujo último anel se arrasta em curvas lentas.'],
+    425: [431, 'Há também nos bosques calabreses aquela serpente nociva que ergue o peito e enrola o dorso escamoso, com o comprido ventre pintado de grandes manchas. Enquanto os rios brotam das fontes e a primavera úmida e os ventos chuvosos do sul encharcam a terra, frequenta as lagoas e vive nas margens, onde enche a goela escura de peixes e rãs tagarelas.'],
+    432: [439, 'Depois que o pântano seca e a terra se fende de calor, salta para o chão seco e, revirando os olhos flamejantes, assola os campos, feroz de sede e transtornada pelo calor. Que então eu nunca queira dormir ao relento nem deitar na relva de um outeiro arborizado, quando ela, renovada e lustrosa depois de trocar de pele, se revira ou deixa os filhotes ou os ovos no covil, ergue-se para o sol e agita na boca a língua trífida.'],
+    440: [444, 'Também te ensinarei as causas e os sinais das doenças. A sarna repugnante ataca as ovelhas quando a chuva fria ou o inverno áspero, de geada branca, penetram até a carne viva, quando o suor da tosquia fica por lavar ou quando os espinheiros eriçados lhes cortam o corpo.'],
+    445: [451, 'Por isso os tratadores banham todo o rebanho em água doce. Mergulham o carneiro de pelo molhado no remanso, depois o soltam para que desça com a corrente. Ou untam o corpo tosquiado com borra amarga de azeitona, à qual misturam espuma de prata, enxofre vivo, pez do Ida, cera rica em unguento, cila, eléboro forte e betume negro.'],
+    452: [456, 'Contudo, para esses males, nenhum recurso é mais imediato que reabrir com ferro a boca da úlcera. Encoberto, o mal se alimenta e persiste, enquanto o pastor se recusa a tratar as feridas e fica sentado, pedindo aos deuses melhores presságios.'],
+    457: [463, 'Quando a dor chega ao fundo dos ossos das ovelhas e a febre seca lhes devora os membros, recorria-se à sangria de uma veia do pé para aliviar o ardor. Assim costumam fazer os bisaltas e o feroz gélono, quando foge para o Ródope e para os desertos dos getas e bebe leite coalhado com sangue de cavalo.'],
+    464: [469, 'Se vires uma ovelha afastar-se ou procurar com mais frequência a sombra fresca, mordiscar sem ânimo as pontas das ervas e ficar por último, deitar-se no meio do campo enquanto pasta e recolher-se sozinha tarde da noite, detém logo o mal a ferro, antes que o contágio terrível se alastre pelo rebanho desprevenido.'],
+    470: [477, 'O turbilhão que traz a tempestade sobre o mar não cai tão cerrado quanto as pestes sobre os animais. As doenças não arrebatam só indivíduos. De repente, tomam pastagens de verão inteiras, rebanhos e crias, toda a raça desde a origem. Saberá disso quem, ainda hoje, passado tanto tempo, vir os Alpes altíssimos, as fortalezas do Nórico sobre as colinas, os campos do Timavo iápide e os domínios desertos dos pastores, com os bosques vazios em toda a extensão.'],
+    478: [485, 'Aqui, outrora, de um mal do céu surgiu uma calamidade terrível, que se abrasou no calor do outono inteiro. Entregou à morte todas as espécies, domésticas e selvagens, corrompeu os lagos e infectou as pastagens com podridão. A morte não seguia um único caminho. Quando a sede ardente, espalhada por todas as veias, havia contraído os membros dos animais, sobrevinha um líquido que transbordava e ia arrastando consigo todos os ossos desfeitos pela doença.'],
+    486: [488, 'Muitas vezes, em plena cerimônia em honra dos deuses, a vítima já estava de pé junto ao altar. Enquanto lhe atavam a ínfula de lã com uma fita branca como neve, caía moribunda entre os oficiantes hesitantes.'],
+    489: [493, 'Ou, se o sacerdote já sacrificara alguma vítima a ferro, os altares não ardem sob as entranhas que lhes põem, e o adivinho, consultado, não consegue dar resposta. As facas postas por baixo mal se tingem de sangue, e um pus ralo escurece a superfície da areia.'],
+    494: [497, 'Por toda parte, os bezerros morrem no pasto viçoso e entregam a doce vida junto aos cochos cheios. A raiva acomete os cães mansos, e uma tosse ofegante sacode os porcos doentes e os sufoca com a garganta inchada.'],
+    498: [502, 'Cambaleia, infeliz, o cavalo vencedor, esquecido dos exercícios e do pasto. Afasta-se das fontes e bate seguidamente no chão com o casco. As orelhas caem e o suor vem irregular, já frio nos que vão morrer. A pele resseca e, dura, resiste à mão que a apalpa.'],
+    503: [508, 'Esses são os sinais que dão nos primeiros dias, antes da morte. Se a doença se agrava, os olhos ardem e o fôlego vem do fundo do peito, por vezes pesado de gemidos. Longos soluços retesam-lhes os flancos, sangue negro corre pelas narinas e a língua áspera comprime a garganta obstruída.'],
+    509: [514, 'De início, valeu-lhes o vinho vertido por um chifre. Parecia a única salvação dos moribundos. Logo, porém, o próprio vinho os levava à morte. Reanimados pelo furor, ardiam e, já em penosa agonia, dilaceravam com os dentes nus os próprios membros. Que os deuses concedam melhor sorte aos piedosos e reservem aquele desvario aos inimigos!'],
+    515: [519, 'Eis que o touro, fumegante sob a dura relha, cai, vomita sangue misturado com espuma e solta os últimos gemidos. Triste, o lavrador desatrela o novilho abatido pela morte do irmão e deixa o arado fincado a meio do trabalho.'],
+    520: [524, 'Nem a sombra dos altos bosques, nem os prados macios, nem o rio que rola pelas pedras rumo à planície, mais límpido que o âmbar, conseguem animá-lo. Os flancos cedem, o torpor pesa sobre os olhos inertes e o pescoço tomba por seu próprio peso.'],
+    525: [530, 'De que servem o trabalho e os bons feitos? De que serviu revolver com a relha as terras pesadas? Nem os vinhos do Mássico nem banquetes repetidos lhes fizeram mal. Alimentam-se de folhas e de erva simples, bebem de fontes límpidas e de rios de curso veloz, e nenhum cuidado lhes interrompe o sono reparador.'],
+    531: [536, 'Dizem que, naquelas regiões, nunca em outra época foi tão difícil encontrar vacas para os ritos de Juno, nem se viram carros puxados por auroques mal emparelhados até os altos santuários. Por isso revolvem a terra a custo com enxadas, enterram as sementes com as próprias unhas e puxam de pescoço retesado os carros rangentes pelos montes altos.'],
+    537: [540, 'O lobo já não procura onde armar emboscadas ao redor dos redis nem ronda à noite os rebanhos. Uma aflição mais aguda o domina. Os gamos medrosos e os cervos fugidios agora vagueiam entre os cães e em torno das casas.'],
+    541: [547, 'A onda arroja à beira da praia, como corpos de náufragos, toda a fauna do imenso mar. As focas fogem para rios que desconhecem. Perece a víbora, em vão abrigada em seus esconderijos tortuosos, e perecem também as cobras-d’água, atônitas, de escamas eriçadas. O próprio ar é hostil às aves, que despencam sem vida de sob as nuvens altas.'],
+    548: [550, 'Já de nada vale trocar a forragem, e os remédios que se buscam fazem mal. Até os mestres cederam, Quíron, filho de Fílira, e Melampo, filho de Amitáon.'],
+    551: [555, 'Solta das trevas do Estige à luz do dia, a pálida Tisífone enfurece-se e impele diante de si as Doenças e o Medo. A cada dia ergue mais alto a cabeça ávida. Os rios, as margens ressequidas e as colinas suaves ressoam com os balidos dos rebanhos e os mugidos repetidos.'],
+    556: [562, 'Já os mata em bandos e empilha nos próprios estábulos os cadáveres desfeitos em repugnante podridão, até que aprendem a cobri-los de terra e escondê-los em covas. As peles já não serviam, e ninguém conseguia limpar as vísceras com água nem consumi-las pelo fogo. Sequer podiam tosquiar os velos corroídos pela doença e pela imundície, nem tocar os tecidos apodrecidos.'],
+    563: [566, 'Se alguém tocava aquelas vestes detestáveis, logo lhe vinham pústulas ardentes e suor imundo nos membros malcheirosos. Em pouco tempo, um fogo maldito devorava as partes do corpo que as haviam tocado.'],
+  },
+
 };
 
 // Formas expandidas para os lemas no contexto de I.183–232.
@@ -1496,6 +2166,19 @@ export const readingDictionaryForms = {
   dimetior: 'dīmētior, dīmētīrī, dīmēnsus sum',
   rego: 'regō, regere, rēxī, rēctum',
   mundus: 'mundus, mundī, m.',
+  altus: 'altus, -a, -um',
+  effero: 'efferō, efferre, extulī, ēlātum',
+  pecus: 'pecus, pecoris, n.',
+  aggero: 'aggerō, aggerāre, aggerāvī, aggerātum',
+  usus: 'ūsus, ūsūs, m.',
+  uiscus: 'viscus, visceris, n.',
+  flamma: 'flamma, flammae, f.',
+  peredo: 'peredō, peredere, perēdī, perēsum',
+  inuisus: 'invīsus, -a, -um',
+  amictus: 'amictus, amictūs, m.',
+  moror: 'moror, morārī, morātus sum',
+  contingo: 'contingō, contingere, contigī, contāctum',
+  artus: 'artus, artūs, m.',
 };
 
 
@@ -1528,4 +2211,239 @@ export const bookTwoEntries = {
   257: { nocentes: 'noceō, nocēre, nocuī, nocitum · v. · causar dano. Aqui, particípio presente' },
   258: { pandunt: 'pandō, pandere, pandī, passum ou pansum · v. · abrir, revelar' },
 
+};
+
+
+export const bookThreeEntries = {
+  1: { memorande: "memorandus, -a, -um · adj. · digno de ser lembrado", pales: 'Palēs, Palis, f. · nome próprio · Pales, divindade pastoril', canemus: 'canō, canere, cecinī, cantum · v. · cantar, celebrar' },
+  2: { amphryso: 'Amphrysus, Amphrysī, m. · nome próprio · Anfriso, rio da Tessália', lycaei: 'Lycaeus, Lycaeī, m. · nome próprio · Liceu, monte da Arcádia' },
+  4: { uulgata: "vulgō, vulgāre, vulgāvī, vulgātum · v. · divulgar", eurysthea: 'Eurystheus, Eurystheī, m. · nome próprio · Euristeu, rei que impôs os trabalhos a Hércules' },
+  5: { busiridis: 'Būsīris, Būsīridis, m. · nome próprio · Busíris, rei mítico do Egito' },
+  6: { latonia: "Lātōnius, -a, -um · adj. · de Latona", cui: "quī, quae, quod · pron. relativo · a quem", hylas: 'Hylās, Hylae, m. · nome próprio · Hilas, jovem companheiro de Hércules', delos: 'Dēlos, Dēlī, f. · nome próprio · Delos, ilha natal de Apolo e Ártemis' },
+  7: { hippodameque: 'Hippodamē, Hippodamēs, f. · nome próprio · Hipodâmia. -que · conj. enclítica · e', pelops: 'Pelops, Pelopis, m. · nome próprio · Pélops, esposo de Hipodâmia' },
+  12: { idumaeas: 'Idūmaeus, -a, -um · adj. · da Idumeia', mantua: 'Mantua, Mantuae, f. · nome próprio · Mântua' },
+  15: { mincius: 'Mincius, Minciī, m. · nome próprio · Míncio, rio de Mântua' },
+  18: { quadriiugos: 'quadriiugus, -a, -um · adj. · atrelado a quatro cavalos' },
+  19: { alpheum: 'Alphēus, Alphēī, m. · nome próprio · Alfeu, rio da Grécia', molorchi: 'Molorchus, Molorchī, m. · nome próprio · Molorco, anfitrião de Hércules' },
+  20: { graecia: "Graecia, Graeciae, f. · nome próprio · Grécia", caestu: 'caestus, caestūs, m. · s. · cesto, luva de pugilato' },
+
+  27: { gangaridum: 'Gangaridēs, -um, m. pl. · nome próprio · gangáridas, povo da região do Ganges', quirini: 'Quirīnus, Quirīnī, m. · nome próprio · Quirino, nome divino associado a Rômulo' },
+  30: { asiae: "Asia, Asiae, f. · nome próprio · Ásia", niphaten: 'Niphātēs, -ae, m. · nome próprio · Nífates, nome geográfico armênio' },
+  34: { parii: 'Parius, -a, -um · adj. · de Paros, ilha conhecida pelo mármore' },
+  35: { demissaeque: "dēmissus, -a, -um · adj. · caído, pendente. -que · conj. enclítica · e", assaraci: 'Assaracus, Assaracī, m. · nome próprio · Assáraco, ancestral troiano' },
+  36: { trosque: 'Trōs, Trōis, m. · nome próprio · Trós, ancestral dos troianos. -que · conj. enclítica · e', cynthius: 'Cynthius, -a, -um · adj. · do monte Cinto. Aqui, epíteto de Apolo' },
+
+  38: { cocyti: 'Cōcȳtus, Cōcȳtī, m. · nome próprio · Cocito, rio do mundo inferior', ixionis: 'Īxiōn, Īxiŏnis, m. · nome próprio · Íxion, condenado à roda' },
+  40: { dryadum: 'Dryas, Dryadis, f. · s. · dríade, ninfa dos bosques', sequamur: 'sequor, sequī, secūtus sum · v. depoente · seguir, percorrer' },
+  43: { cithaeron: 'Cithaerōn, Cithaerōnis, m. · nome próprio · Citéron, monte da Grécia' },
+  44: { taygetique: 'Taÿgetus, Taÿgetī, m. · nome próprio · Taígeto, monte da Lacônia. -que · conj. enclítica · e', epidaurus: 'Epidaurus, Epidaurī, f. · nome próprio · Epidauro, cidade grega' },
+  48: { tithoni: 'Tīthōnus, Tīthōnī, m. · nome próprio · Titono, esposo da Aurora' },
+
+  89: { amyclaei: 'Amyclaeus, -a, -um · adj. · de Amiclas', pollucis: 'Pollūx, Pollūcis, m. · nome próprio · Pólux' },
+  90: { grai: "Grāius, -a, -um · adj. · grego", cyllarus: 'Cyllarus, Cyllarī, m. · nome próprio · Cílaro, cavalo de Pólux', meminere: 'meminī, meminisse · v. defectivo · lembrar, mencionar' },
+  91: { achilli: 'Achillēs, Achillis, m. · nome próprio · Aquiles. Achillī é genitivo poético' },
+  94: { pelion: 'Pēlion, Pēliī, n. · nome próprio · Pélion, monte da Tessália', hinnitu: 'hinnītus, hinnītūs, m. · s. · relincho' },
+  98: { uentum: 'veniō, venīre, vēnī, ventum · v. · chegar. Ventum est é impessoal' },
+
+  104: { ruuntque: "ruō, ruere, ruī, rutum · v. · precipitar-se. -que · conj. enclítica · e", carcere: 'carcer, carceris, m. · s. · barreira de largada. Aqui, de onde saem os carros' },
+  113: { ericthonius: 'Erichthonius, Erichthoniī, m. · nome próprio · Erictônio, inventor mítico da quadriga' },
+  115: { pelethronii: 'Pelethronius, -a, -um · adj. · de Peletrônio, na Tessália', lapithae: 'Lapithae, -ārum, m. pl. · nome próprio · lápitas' },
+
+  146: { silari: 'Silarus, -ī, m. · nome próprio · Sílaro, rio da Campânia', ilicibusque: 'īlex, īlicis, f. · s. · azinheira. -que · conj. enclítica · e' },
+  147: { cui: 'quī, quae, quod · pron. relativo · ao qual', alburnum: 'Alburnus, -ī, m. · nome próprio · Alburno, monte junto ao Sílaro', asilo: 'asīlus, -ī, m. · s. · moscardo que atormenta o gado' },
+  148: { grai: 'Grāius, -a, -um · adj. substantivado · os gregos', romanum: 'Rōmānus, -a, -um · adj. · romano', oestrum: 'oestrus, -ī, m. · s. · moscardo. Aqui, o nome grego do inseto' },
+  151: { tanagri: 'Tanagrus, -ī, m. · nome próprio · Tânagro, rio da Lucânia' },
+  153: { inachiae: 'Inachius, -a, -um · adj. · de Ínaco. Aqui, refere-se a Io, transformada em novilha' },
+
+  180: { alphea: 'Alphēus, -a, -um · adj. · do Alfeu', pisae: 'Pīsa, Pīsae, f. · nome próprio · Pisa, cidade da Élida' },
+  183: { lituosque: 'lituus, lituūs, m. · s. · trombeta curva. -que · conj. enclítica · e' },
+  188: { capistris: 'capistrum, capistrī, n. · s. · cabresto' },
+  191: { gyrum: 'gyrus, gyrī, m. · s. · círculo, pista circular' },
+  194: { habenis: 'habēna, habēnae, f. · s. · rédea' },
+  196: { hyperboreis: 'Hyperboreus, -a, -um · adj. · hiperbóreo, do extremo norte', aquilo: 'Aquilo, Aquilōnis, m. · s. · Aquilão, vento norte' },
+  199: { flabris: 'flābrum, flābrī, n. · s. · sopro de vento' },
+  201: { uerrens: 'verrō, verrere, verrī, versum · v. · varrer, percorrer impetuosamente' },
+  202: { hinc: 'hinc · adv. · daí', elei: 'Ēlēus, -a, -um · adj. · da Élida' },
+  204: { belgica: 'Belgicus, -a, -um · adj. · belga', esseda: 'essedum, essedī, n. · s. · carro de duas rodas' },
+  205: { farragine: 'farrāgō, farrāginis, f. · s. · forragem de cereais' },
+  208: { lupatis: 'lupātum, lupātī, n. · s. · freio dentado' },
+  214: { praesepia: 'praesepium, praesepiī, n. · s. · cocho, manjedoura' },
+  217: { inlecebris: 'inlecebra, inlecebrae, f. · s. · sedução, atrativo' },
+  219: { sila: 'Sila, Silae, f. · nome próprio · Sila, região montanhosa do sul da Itália', iuuenca: 'iuvenca, iuvencae, f. · s. · novilha' },
+  223: { reboant: 'reboō, reboāre, reboāvī, reboātum · v. · ressoar, retumbar' },
+  230: { pernox: 'pernox, pernoctis · adj. · que passa a noite inteira', cubili: 'cubīle, cubīlis, n. · s. · leito, lugar de repouso' },
+  231: { carice: 'carex, caricis, f. · s. · junça' },
+  234: { proludit: 'prolūdō, prolūdere, prolūsī, prolūsum · v. · ensaiar, exercitar-se antes do combate' },
+  241: { uerticibus: 'vertex, verticis, m. · s. · redemoinho' },
+  245: { leaena: 'leaena, leaenae, f. · s. · leoa' },
+  248: { saeuus: 'saevus, -a, -um · adj. · feroz', tigris: 'tigris, tigridis, f. · s. · tigresa' },
+  250: { pertemptet: 'pertemptō, pertemptāre, pertemptāvī, pertemptātum · v. · percorrer por inteiro' },
+  255: { sus: 'sūs, suis, m./f. · s. · porco, aqui javali', sabellicus: 'Sabellicus, -a, -um · adj. · sabélico, da região dos sabélios' },
+  260: { freta: 'fretum, fretī, n. · s. · estreito de mar' },
+  265: { imbelles: 'imbellis, imbelle · adj. · pacífico, avesso à luta' },
+  268: { potniades: 'Potnias, Potniadis, f. · s. · de Pótnias, localidade da Beócia', quadrigae: 'quadrīga, quadrīgae, f. · s. · parelha de quatro cavalos' },
+  273: { zephyrum: 'Zephyrus, Zephyrī, m. · s. · Zéfiro, vento oeste' },
+  277: { eure: 'Eurus, Eurī, m. · s. · Euro, vento leste ou sudeste' },
+  278: { borean: 'Boreās, Boreae, m. · s. · Bóreas, vento norte', caurumque: 'Caurus, Caurī, m. · s. · Cauro, vento noroeste. -que · conj. enclítica · e', auster: 'Auster, Austrī, m. · s. · Austro, vento sul' },
+  280: { hippomanes: 'hippomanēs, hippomanis, n. · s. · hipômanes, secreção atribuída às éguas' },
+  281: { uirus: 'vīrus, vīrī, n. · s. · veneno' },
+  282: { hippomanes: 'hippomanēs, hippomanis, n. · s. · hipômanes, secreção empregada em feitiços' },
+  287: { lanigeros: 'lāniger, lānigera, lānigerum · adj. · lanoso, que produz lã' },
+  293: { orbita: 'orbita, orbitae, f. · s. · sulco de roda, trilho', castaliam: 'Castalia, Castaliae, f. · nome próprio · Castália, fonte no Parnaso' },
+  294: { pales: 'Palēs, Palis, f. · nome próprio · Pales, divindade dos pastores' },
+  297: { filicumque: 'filix, filicis, f. · s. · samambaia. -que · conj. enclítica · e', maniplis: 'manipulus, manipulī, m. · s. · feixe' },
+  299: { scabiemque: 'scabiēs, scabiēī, f. · s. · sarna. -que · conj. enclítica · e', podagras: 'podagra, podagrae, f. · s. · doença dolorosa dos pés' },
+  304: { inrorat: 'inrōrō, inrōrāre, inrōrāvī, inrōrātum · v. · aspergir orvalho' },
+  309: { mulctra: 'mulctra, mulctrae, f. · s. · balde de ordenha' },
+  312: { cinyphii: 'Cinyphius, -a, -um · adj. · do Cínife, rio da Líbia', hirci: 'hircus, hircī, m. · s. · bode' },
+  320: { uirgea: 'virgeus, -a, -um · adj. · feito de ramos' },
+  321: { faenilia: 'faenīle, faenīlis, n. · s. · celeiro de feno', bruma: 'brūma, brūmae, f. · s. · inverno' },
+  324: { luciferi: 'Lūcifer, Lūciferī, m. · s. · estrela da manhã, Vênus' },
+  330: { ilignis: 'īligneus, -a, -um · adj. · de madeira de azinheira' },
+  334: { ilicibus: 'īlex, īlicis, f. · s. · azinheira' },
+  336: { vesper: 'vesper, vesperī, m. · s. · Vésper, estrela da tarde' },
+  338: { alcyonen: 'alcyōn, alcyonis, f. · s. · alcião', acalanthida: 'acalanthis, acalanthidis, f. · s. · pintassilgo' },
+  340: { mapalia: 'mapālia, mapālium, n. pl. · s. · cabanas dos pastores líbios' },
+  344: { armentarius: 'armentārius, armentāriī, m. · s. · vaqueiro', laremque: 'Lar, Laris, m. · s. · divindade tutelar da casa, aqui o lar. -que · conj. enclítica · e' },
+  345: { amyclaeumque: 'Amyclaeus, -a, -um · adj. · de Amiclas, na Lacônia. -que · conj. enclítica · e' },
+  350: { hister: 'Hister, Histrī, m. · nome próprio · Danúbio' },
+  355: { adsurgit: "adsurgō, adsurgere, adsurrēxī, adsurrēctum · v. · elevar-se", ulnas: 'ulna, ulnae, f. · s. · côvado, medida de comprimento' },
+  360: { crustae: 'crusta, crustae, f. · s. · crosta de gelo' },
+  362: { plaustris: 'plaustrum, plaustrī, n. · s. · carro de carga' },
+  363: { uulgo: "vulgō · adv. · por toda parte", dissiliunt: 'dissiliō, dissilīre, dissiluī · v. · rachar, estalar' },
+  366: { stiriaque: 'stīria, stīriae, f. · s. · pingente de gelo. -que · conj. enclítica · e', impexis: 'impexus, -a, -um · adj. · despenteado, desgrenhado' },
+  367: { ningit: 'ningō, ningere, ninxī · v. impessoal · nevar', setius: 'sētius · adv. comparativo · menos' },
+  371: { cassibus: 'cassis, cassis, m. · s. · rede de caça' },
+  374: { obtruncant: 'obtruncō, obtruncāre, obtruncāvī, obtruncātum · v. · abater', rudentis: 'rudō, rudere, rudīvī · v. · bramir' },
+  380: { sorbis: 'sorbum, sorbī, n. · s. · sorva, fruto da sorveira' },
+  381: { hyperboreo: "Hyperboreus, -a, -um · adj. · hiperbóreo", septem: 'septem · num. indeclinável · sete. Com trioni, compõe Septentriō, o Setentrião', trioni: 'triō, triōnis, m. · s. · boi de arado. Com septem, designa o Setentrião' },
+  382: { riphaeo: 'Riphaeus, -a, -um · adj. · dos montes Rifeus' },
+  384: { lanitium: 'lānitium, lānitiī, n. · s. · produção de lã' },
+  385: { lappaeque: 'lappa, lappae, f. · s. · bardana. -que · conj. enclítica · e', tribolique: 'tribolus, tribolī, m. · s. · abrolho, planta espinhosa. -que · conj. enclítica · e' },
+  389: { pullis: 'pullus, -a, -um · adj. · escuro, sombrio' },
+  394: { cytisum: 'cytisus, cytisī, m. · s. · citiso, arbusto usado como forragem' },
+  398: { etiam: "etiam · adv. · também", haedos: 'haedus, haedī, m. · s. · cabrito' },
+  402: { calathis: 'calathus, calathī, m. · s. · cesto' },
+  405: { molossum: 'Molossus, Molossī, m. · s. · molosso, cão da Molóssia' },
+  406: { sero: 'serum, serī, n. · s. · soro de leite' },
+  409: { onagros: 'onager, onagrī, m. · s. · onagro, asno selvagem' },
+  411: { uolutabris: 'volūtābrum, volūtābrī, n. · s. · lamaçal onde os animais se revolvem' },
+  415: { chelydros: 'chelydrus, chelydrī, m. · s. · serpente' },
+  417: { uipera: 'vīpera, vīperae, f. · s. · víbora' },
+  418: { adsuetus: "adsuētus, -a, -um · adj. · habituado", coluber: 'coluber, colubrī, m. · s. · cobra' },
+  426: { squamea: 'squāmeus, -a, -um · adj. · escamoso' },
+  431: { ingluuiem: 'ingluviēs, ingluviēī, f. · s. · goela, papo' },
+  437: { nouus: "novus, -a, -um · adj. · renovado", exuuiis: 'exuviae, exuviārum, f. pl. · s. · pele abandonada na muda' },
+  439: { arduus: "arduus, -a, -um · adj. · erguido", trisulcis: 'trisulcus, -a, -um · adj. · fendido em três, trífido' },
+  444: { uepres: 'vepres, vepris, m. · s. · espinheiro' },
+  448: { amurca: 'amurca, amurcae, f. · s. · borra amarga de azeitona' },
+  449: { sulpura: 'sulfur, sulfuris, n. · s. · enxofre' },
+  451: { scillamque: 'scilla, scillae, f. · s. · cila, planta bulbosa. -que · conj. enclítica · e', elleborosque: 'elleborus, elleborī, m. · s. · eléboro. -que · conj. enclítica · e', bitumen: 'bitūmen, bitūminis, n. · s. · betume' },
+  453: { rescindere: 'rescindō, rescindere, rescidī, rescissum · v. · cortar de novo, reabrir' },
+  457: { balantum: 'bālō, bālāre, bālāvī, bālātum · v. · balir. Aqui, as ovelhas' },
+  458: { depascitur: 'dēpāscor, dēpāscī, dēpāstus sum · v. dep. · devorar, consumir' },
+  461: { bisaltae: 'Bisaltae, Bisaltārum, m. pl. · nome próprio · bisaltas, povo da Trácia', gelonus: 'Gelōnus, Gelōnī, m. · s. · gélono, membro de um povo da Cítia' },
+  462: { deserta: "dēsertum, dēsertī, n. · s. · deserto", getarum: 'Getae, Getārum, m. pl. · nome próprio · getas, povo da região do baixo Danúbio' },
+  469: { uulgus: "vulgus, vulgī, n. · s. · multidão. Aqui, rebanho", contagia: 'contāgium, contāgiī, n. · s. · contágio' },
+  472: { aestiua: 'aestīva, aestīvōrum, n. pl. · s. · pastagens de verão' },
+  474: { norica: 'Nōricus, -a, -um · adj. · do Nórico' },
+  475: { iapydis: "Iapys, Iapydis · adj. · iápide, dos iápides", timaui: 'Timāvus, Timāvī, m. · nome próprio · Timavo, rio próximo ao Adriático' },
+  481: { tabo: 'tābum, tābī, n. · s. · podridão, líquido de decomposição' },
+  487: { infula: 'īnfula, īnfulae, f. · s. · ínfula, adorno ritual de lã', uitta: 'vitta, vittae, f. · s. · fita ritual' },
+  489: { mactauerat: 'mactō, mactāre, mactāvī, mactātum · v. · imolar, sacrificar' },
+  490: { fibris: 'fibra, fibrae, f. · s. · entranha examinada em sacrifício' },
+  493: { sanie: 'saniēs, saniēī, f. · s. · pus, secreção purulenta' },
+  497: { anhela: 'anhēlus, -a, -um · adj. · ofegante' },
+  502: { tractanti: 'tractō, tractāre, tractāvī, tractātum · v. · apalpar' },
+  504: { crudescere: 'crūdēscō, crūdēscere · v. · agravar-se, tornar-se mais violento' },
+  507: { ilia: 'īlia, īlium, n. pl. · s. · flancos', singultu: 'singultus, singultūs, m. · s. · soluço' },
+  510: { lenaeos: 'Lēnaeus, -a, -um · adj. · de Leneu, epíteto de Baco. Aqui, vinho' },
+  514: { laniabant: 'laniō, laniāre, laniāvī, laniātum · v. · dilacerar' },
+  515: { uomere: 'vōmer, vōmeris, m. · s. · relha do arado' },
+  518: { abiungens: 'abiungō, abiungere, abiūnxī, abiūnctum · v. · desatrelar' },
+  522: { electro: 'electrum, electrī, n. · s. · âmbar' },
+  526: { bacchi: "Bacchus, Bacchī, m. · nome próprio · Baco. Aqui, o vinho", massica: 'Massicus, -a, -um · adj. · do monte Mássico, célebre pelo vinho' },
+  532: { uris: 'ūrus, ūrī, m. · s. · auroque, boi selvagem' },
+  533: { donaria: 'dōnārium, dōnāriī, n. · s. · santuário, lugar de oferendas' },
+  534: { rastris: 'rastrum, rastrī, n. · s. · enxada, instrumento para revolver a terra' },
+  543: { phocae: 'phōca, phōcae, f. · s. · foca' },
+  545: { astantibus: "astō, astāre, astitī · v. · erguer-se, ficar de pé", hydri: 'hydrus, hydrī, m. · s. · cobra-d’água' },
+  550: { amythaoniusque: "Amythāonius, -a, -um · adj. · filho de Amitáon. -que · conj. enclítica · e", chiron: 'Chīrōn, Chīrōnis, m. · nome próprio · Quíron, centauro e mestre da medicina', melampus: 'Melampus, Melampodis, m. · nome próprio · Melampo, adivinho e curador' },
+  552: { tisiphone: 'Tisiphonē, Tisiphonēs, f. · nome próprio · Tisífone, uma das Fúrias' },
+  553: { surgens: 'surgō, surgere, surrēxī, surrēctum · v. · erguer-se' },
+  556: { cateruatim: 'catervātim · adv. · em bandos' },
+  558: { foueis: 'fovea, foveae, f. · s. · cova' },
+  564: { papulae: 'papula, papulae, f. · s. · pústula' },
+  566: { edebat: 'edō, edere, ēdī, ēsum · v. · comer, devorar. Aqui, consumir pelo fogo' },
+
+  11: { aonio: "Aonius, -a, -um · adj. · aônio, da Beócia" },
+  17: { tyrio: "Tyrius, -a, -um · adj. · tírio, de Tiro" },
+  25: { britanni: "Britannus, Britannī, m. · s. · britano" },
+  31: { parthum: "Parthus, -a, -um · adj. · parto, da Pártia" },
+  41: { maecenas: "Maecēnās, Maecēnātis, m. · nome próprio · Mecenas" },
+  60: { lucinam: "Lūcīna, Lūcīnae, f. · nome próprio · Lucina, divindade do parto" },
+  63: { iuuentas: "iuventās, iuventātis, f. · s. · juventude" },
+  71: { ueni: "veniō, venīre, vēnī, ventum · v. · vir", ante: "ante · adv. · antes" },
+  73: { summittere: "summittō, summittere, summīsī, summissum · v. · criar, deixar crescer" },
+  74: { praecipuum: "praecipuus, -a, -um · adj. · especial, distinto" },
+  77: { minacis: "mināx, minācis · adj. · ameaçador" },
+  80: { aluus: "alvus, alvī, f. · s. · ventre" },
+  85: { premens: "premō, premere, pressī, pressum · v. · conter" },
+  100: { aeuumque: "aevum, aevī, n. · s. · idade. -que · conj. enclítica · e" },
+  105: { adrectae: "adrectus, -a, -um · adj. · erguido" },
+  109: { uacuum: "vacuus, -a, -um · adj. · vazio" },
+  118: { aequus: "aequus, -a, -um · adj. · igual" },
+  126: { florentisque: 'flōreō, flōrēre, flōruī · v. · florescer, vicejar. -que · conj. enclítica · e' },
+  129: { uolentes: 'volō, velle, voluī · v. · querer, agir de bom grado' },
+  159: { summittere: 'summittō, summittere, summīsī, summissum · v. · criar, deixar crescer' },
+  161: { horrentem: 'horreō, horrēre, horruī · v. · eriçar-se' },
+  175: { frondes: 'frōns, frondis, f. · s. · folhagem' },
+  197: { scythiaeque: 'Scythia, Scythiae, f. · nome próprio · Cítia. -que · conj. enclítica · e' },
+  221: { uulneribus: 'vulnus, vulneris, n. · s. · ferida' },
+  228: { aspectans: 'aspectō, aspectāre, aspectāvī, aspectātum · v. · contemplar' },
+  238: { altoque: 'altum, altī, n. · s. · profundezas. -que · conj. enclítica · e' },
+  244: { ruunt: 'ruō, ruere, ruī, rutum · v. · precipitar-se' },
+  246: { uulgo: 'vulgō · adv. · por toda parte' },
+  257: { uulnera: 'vulnus, vulneris, n. · s. · ferida' },
+  264: { bacchi: 'Bacchus, Bacchī, m. · nome próprio · Baco' },
+  269: { gargara: 'Gargara, Gargarōrum, n. pl. · nome próprio · Gárgaros, no monte Ida' },
+  270: { ascanium: 'Ascanius, Ascaniī, m. · nome próprio · Ascânio, curso de água' },
+  276: { depressas: 'dēpressus, -a, -um · adj. · baixo, fundo' },
+  285: { circumuectamur: 'circumvector, circumvectārī, circumvectātus sum · v. dep. · percorrer' },
+  291: { deserta: 'dēsertus, -a, -um · adj. · deserto, solitário', parnasi: 'Parnāsus, Parnāsī, m. · nome próprio · Parnaso' },
+  305: { hae: 'hic, haec, hoc · pron. demonstrativo · estas' },
+  306: { milesia: 'Mīlēsius, -a, -um · adj. · de Mileto' },
+  307: { tyrios: 'Tyrius, -a, -um · adj. · tírio, de Tiro' },
+  314: { lycaei: 'Lycaeus, Lycaeī, m. · nome próprio · Liceu, monte da Arcádia' },
+  315: { ardua: 'arduum, arduī, n. · s. · altura, encosta íngreme', horrentisque: 'horreō, horrēre, horruī · v. · eriçar-se. -que · conj. enclítica · e' },
+  325: { nouum: 'novus, -a, -um · adj. · novo, recente' },
+  342: { deserta: 'dēsertum, dēsertī, n. · s. · deserto' },
+  346: { romanus: "Rōmānus, -a, -um · adj. substantivado · romano" },
+  347: { cum: "cum · conj. · quando" },
+  349: { maeotiaque: "Maeotius, -a, -um · adj. · do Meótis. -que · conj. enclítica · e", scythiae: "Scythia, Scythiae, f. · nome próprio · Cítia" },
+  372: { pennae: "penna, pennae, f. · s. · pena" },
+  392: { arcadiae: "Arcadia, Arcadiae, f. · nome próprio · Arcádia", pan: "Pān, Panis, m. · nome próprio · Pã" },
+  401: { nocte: "nox, noctis, f. · s. · noite. Aqui, à noite" },
+  408: { hiberos: "Hiberī, Hiberōrum, m. pl. · nome próprio · iberos" },
+  413: { ceruum: "cervus, cervī, m. · s. · cervo" },
+  419: { aspergere: "aspergō, aspergere, aspersī, aspersum · v. · aspergir" },
+  424: { soluuntur: "solvō, solvere, solvī, solūtum · v. · desenrolar-se" },
+  425: { calabris: "Calaber, Calabra, Calabrum · adj. · calabrês" },
+  427: { aluum: "alvus, alvī, f. · s. · ventre" },
+  433: { siccum: "siccum, siccī, n. · s. · chão seco" },
+  442: { uiuum: "vīvum, vīvī, n. · s. · carne viva" },
+  443: { inlotus: "illōtus, -a, -um · adj. · não lavado" },
+  450: { idaeasque: "Īdaeus, -a, -um · adj. · do monte Ida. -que · conj. enclítica · e" },
+  455: { uulnera: "vulnus, vulneris, n. · s. · ferida" },
+  456: { omina: "ōmen, ōminis, n. · s. · presságio", et: "et · conj. · e" },
+  460: { ima: "īmus, -a, -um · adj. substantivado · partes inferiores" },
+  494: { uulgo: "vulgō · adv. · por toda parte" },
+  495: { praesepia: "praesepium, praesepiī, n. · s. · cocho" },
+  499: { equus: "equus, equī, m. · s. · cavalo" },
+  500: { demissae: "dēmissus, -a, -um · adj. · caído" },
+  505: { alto: "altum, altī, n. · s. · profundidade" },
+  519: { reliquit: "relinquō, relinquere, relīquī, relictum · v. · deixar" },
+  523: { soluuntur: "solvō, solvere, solvī, solūtum · v. · ceder" },
+  546: { aequus: "aequus, -a, -um · adj. · propício" },
+  547: { relinquunt: "relinquō, relinquere, relīquī, relictum · v. · abandonar" },
 };
